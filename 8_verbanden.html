@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-03 Tue 13:42 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<p>
+### <b><b>Theorie: Soorten Verbanden in de Natuurkunde</b></b>
+</p>
+
+<p>
+Als je iets onderzoekt, doe je meestal niet één meting, maar een hele serie metingen. Om overzicht te bewaren bij deze serie metingen, wordt vaak gebruik gemaakt van tabellen en grafieken. Bijvoorbeeld, stel dat ik wil onderzoeken wat het verband is tussen de lengte van een slinger en de tijd die de slinger nodig heeft om heen en weer te gaan. Als ik een serie metingen maak waarbij ik bij elke lengte van de slinger meet hoe lang de slinger erover doet om heen en weer te gaan, zet ik de resultaten in een tabel. Een tabel is niets anders dan een rij cijfers die overzichtelijk weergeven wat ik heb gemeten. In de tabel staan de lengtes van de slinger en de gemeten slingertijden. 
+</p>
+
+<p>
+Het is gebruikelijk om het gegeven dat je zelf bepaalt (de onafhankelijke variabele) op de x-as te zetten en het gegeven dat je meet (de afhankelijke variabele) op de y-as. In dit geval is de lengte van de slinger de onafhankelijke variabele en de tijd de afhankelijke variabele. 
+</p>
+
+<p>
+Bij het onderzoeken van het verband tussen de kracht die je op een veer uitoefent en de uitrekking van de veer, blijkt dat de grafiek een rechte lijn door de oorsprong is. Als de kracht twee keer zo groot wordt, wordt de uitrekking ook twee keer zo groot. Dit soort verbanden worden recht evenredige verbanden genoemd. In een recht evenredig verband geldt altijd dat de formule de vorm heeft van \( y = kx \), waarbij \( k \) een constante is, en de grafiek altijd een rechte lijn door de oorsprong is.
+</p>
+
+<p>
+Een paar voorbeelden van recht evenredige verbanden:
+</p>
+<ul class="org-ul">
+<li>Als een object met constante snelheid beweegt, geldt voor de afstand \( s = vt \), waarbij de afstand en de tijd recht evenredig met elkaar zijn.</li>
+<li>Het verband tussen zwaarte-energie en hoogte: als de hoogte verdubbelt, verdubbelt de zwaarte-energie ook. De formule is \( E = mgh \), waarbij \( E \) de energie is en \( h \) de hoogte.</li>
+</ul>
+
+<p>
+Andere soorten verbanden die je moet herkennen zijn:
+</p>
+<ol class="org-ol">
+<li><b><b>Omgekeerd evenredig verband</b></b>: De formule heeft de vorm \( y = \frac{k}{x} \). De grafiek is een hyperbool die niet door de oorsprong gaat. Voorbeeld: het verband tussen frequentie en trillingstijd. Als de trillingstijd verdubbelt, wordt de frequentie de helft van de oorspronkelijke waarde.</li>
+
+<li><b><b>Kwadratisch verband</b></b>: De formule heeft de vorm \( y = kx^2 \). De grafiek is een parabool die door de oorsprong gaat. Voorbeeld: het verband tussen afstand en tijd bij een versneld bewegend object. De kinetische energie \( E = \frac{1}{2} mv^2 \) is ook een voorbeeld van een kwadratisch verband.</li>
+
+<li><b><b>Omgekeerd kwadratisch verband</b></b>: De formule heeft de vorm \( y = \frac{k}{x^2} \). De grafiek is een hyperbool die naar de oorsprong toe buigt. Voorbeeld: het verband tussen de kracht en de afstand van een lading in een elektrisch veld.</li>
+
+<li><b><b>Wortelverband</b></b>: De formule heeft de vorm \( y = k\sqrt{x} \). In woorden betekent dit dat als een grootheid vier keer zo groot wordt, de andere grootheid twee keer zo groot wordt. Een bekend voorbeeld is het verband tussen de lengte van een slinger en de slingertijd. De lengte van de slinger staat onder de wortel in de formule.</li>
+</ol>
+
+<p>
+Dit zijn de verschillende verbanden die je moet herkennen, zowel aan de formule als aan de grafiek. In het volgende filmpje gaan we dieper in op de toepassingen van deze verbanden. Tot zover dit filmpje.
+</p>
+
+
+<p>
+### <b><b>Lesplan:</b></b>
+</p>
+
+<p>
+<b><b>Tijd:</b></b> 45 minuten  
+<b><b>Onderwerp:</b></b> Soorten verbanden in de natuurkunde (recht evenredig, omgekeerd evenredig, kwadratisch, omgekeerd kwadratisch en wortelverband)
+</p>
+
+<p>
+#### Doelstellingen:
+</p>
+<ul class="org-ul">
+<li>Leerlingen begrijpen de verschillende soorten verbanden in de natuurkunde.</li>
+<li>Leerlingen kunnen formules en grafieken interpreteren en toepassen.</li>
+<li>Leerlingen kunnen voorbeelden van elk type verband herkennen en verklaren.</li>
+</ul>
+
+<p>
+&#x2014;
+</p>
+
+<p>
+<b><b>1. Inleiding (5 minuten)</b></b>
+</p>
+<ul class="org-ul">
+<li><b><b>Activiteit:</b></b> Korte introductie over het belang van het herkennen van verbanden in de natuurkunde.</li>
+<li><b><b>Doel:</b></b> Bespreken waarom het belangrijk is om verschillende soorten verbanden te herkennen.</li>
+<li><b><b>Vragen:</b></b> 
+<ul class="org-ul">
+<li>Wat is een verband in de natuurkunde?</li>
+<li>Waarom gebruiken we tabellen en grafieken voor het onderzoeken van verbanden?</li>
+</ul></li>
+</ul>
+
+<p>
+<b><b>2. Recht Evenredig Verband (10 minuten)</b></b>
+</p>
+<ul class="org-ul">
+<li><b><b>Activiteit:</b></b> Uitleg van het recht evenredig verband met voorbeelden.</li>
+<li><b><b>Voorbeeld:</b></b> Het verband tussen de snelheid en de afstand bij constante snelheid.</li>
+<li><b><b>Formule:</b></b> \( y = kx \)</li>
+<li><b><b>Grafiek:</b></b> Rechtdoorlopende lijn door de oorsprong.</li>
+<li><b><b>Oefening:</b></b> Maak een grafiek van het verband tussen kracht en uitrekking van een veer met gegeven gegevens.</li>
+<li><b><b>Vragen:</b></b>
+<ul class="org-ul">
+<li>Wat is de formule voor een recht evenredig verband?</li>
+<li>Hoe ziet de grafiek van een recht evenredig verband eruit?</li>
+</ul></li>
+</ul>
+
+<p>
+<b><b>3. Omgekeerd Evenredig Verband (10 minuten)</b></b>
+</p>
+<ul class="org-ul">
+<li><b><b>Activiteit:</b></b> Uitleg van het omgekeerd evenredig verband met voorbeelden.</li>
+<li><b><b>Voorbeeld:</b></b> Het verband tussen frequentie en trillingstijd.</li>
+<li><b><b>Formule:</b></b> \( y = \frac{k}{x} \)</li>
+<li><b><b>Grafiek:</b></b> Hyperbool die niet door de oorsprong gaat.</li>
+<li><b><b>Oefening:</b></b> Teken een grafiek van het verband tussen volume en druk met gegeven gegevens.</li>
+<li><b><b>Vragen:</b></b>
+<ul class="org-ul">
+<li>Wat is de formule voor een omgekeerd evenredig verband?</li>
+<li>Hoe ziet de grafiek van een omgekeerd evenredig verband eruit?</li>
+</ul></li>
+</ul>
+
+<p>
+<b><b>4. Kwadratisch Verband (10 minuten)</b></b>
+</p>
+<ul class="org-ul">
+<li><b><b>Activiteit:</b></b> Uitleg van het kwadratisch verband met voorbeelden.</li>
+<li><b><b>Voorbeeld:</b></b> Het verband tussen afstand en tijd bij een versneld bewegend object.</li>
+<li><b><b>Formule:</b></b> \( y = kx^2 \)</li>
+<li><b><b>Grafiek:</b></b> Parabool die door de oorsprong gaat.</li>
+<li><b><b>Oefening:</b></b> Teken een grafiek van het verband tussen kinetische energie en snelheid.</li>
+<li><b><b>Vragen:</b></b>
+<ul class="org-ul">
+<li>Wat is de formule voor een kwadratisch verband?</li>
+<li>Hoe ziet de grafiek van een kwadratisch verband eruit?</li>
+</ul></li>
+</ul>
+
+<p>
+<b><b>5. Omgekeerd Kwadratisch Verband (5 minuten)</b></b>
+</p>
+<ul class="org-ul">
+<li><b><b>Activiteit:</b></b> Uitleg van het omgekeerd kwadratisch verband met voorbeelden.</li>
+<li><b><b>Voorbeeld:</b></b> Het verband tussen kracht en afstand van een lading in een elektrisch veld.</li>
+<li><b><b>Formule:</b></b> \( y = \frac{k}{x^2} \)</li>
+<li><b><b>Grafiek:</b></b> Hyperbool die naar de oorsprong toe buigt.</li>
+<li><b><b>Vragen:</b></b>
+<ul class="org-ul">
+<li>Wat is de formule voor een omgekeerd kwadratisch verband?</li>
+<li>Hoe ziet de grafiek van een omgekeerd kwadratisch verband eruit?</li>
+</ul></li>
+</ul>
+
+<p>
+<b><b>6. Wortelverband (5 minuten)</b></b>
+</p>
+<ul class="org-ul">
+<li><b><b>Activiteit:</b></b> Uitleg van het wortelverband met voorbeelden.</li>
+<li><b><b>Voorbeeld:</b></b> Het verband tussen de lengte van een slinger en de slingertijd.</li>
+<li><b><b>Formule:</b></b> \( y = k\sqrt{x} \)</li>
+<li><b><b>Grafiek:</b></b> Kromme die naar de oorsprong toe buigt.</li>
+<li><b><b>Vragen:</b></b>
+<ul class="org-ul">
+<li>Wat is de formule voor een wortelverband?</li>
+<li>Hoe ziet de grafiek van een wortelverband eruit?</li>
+</ul></li>
+</ul>
+
+<p>
+<b><b>7. Samenvatting en Vragen (5 minuten)</b></b>
+</p>
+<ul class="org-ul">
+<li><b><b>Activiteit:</b></b> Herhaling van de belangrijkste punten en beantwoorden van vragen van leerlingen.</li>
+<li><b><b>Doel:</b></b> Controleren of leerlingen de verbanden en hun grafieken begrijpen.</li>
+<li><b><b>Vragen:</b></b>
+<ul class="org-ul">
+<li>Kun je een voorbeeld geven van elk type verband?</li>
+<li>Hoe herken je elk type verband aan de formule en de grafiek?</li>
+</ul></li>
+</ul>
+
+<p>
+&#x2014;
+</p>
+
+<p>
+<b><b>Benodigdheden:</b></b>
+</p>
+<ul class="org-ul">
+<li>Ruitjespapier</li>
+<li>Potloden</li>
+<li>Computer met grafieksoftware (bijv. Excel) (optioneel)</li>
+</ul>
+
+<p>
+<b><b>Opmerkingen:</b></b>
+</p>
+<ul class="org-ul">
+<li>Zorg ervoor dat leerlingen de formules goed begrijpen en weten hoe ze grafieken moeten tekenen.</li>
+<li>Bied extra oefeningen aan indien nodig voor extra oefening met grafieken en formules.</li>
+</ul>
+
+<p>
+### <b><b>Diagnostische vragen:</b></b> 
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Vraag</b></b></th>
+<th scope="col" class="org-left"><b><b>Antwoord</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Wat is een recht evenredig verband?</td>
+<td class="org-left">Een recht evenredig verband is een verband waarbij de grafiek een rechte lijn door de oorsprong is en de formule de vorm \( y = kx \) heeft.</td>
+</tr>
+
+<tr>
+<td class="org-left">Geef een voorbeeld van een recht evenredig verband.</td>
+<td class="org-left">Het verband tussen snelheid en afstand bij constante snelheid.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe ziet de grafiek van een recht evenredig verband eruit?</td>
+<td class="org-left">De grafiek is een rechte lijn die door de oorsprong gaat.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is de formule voor een omgekeerd evenredig verband?</td>
+<td class="org-left">De formule is \( y = \frac{k}{x} \).</td>
+</tr>
+
+<tr>
+<td class="org-left">Noem een voorbeeld van een omgekeerd evenredig verband.</td>
+<td class="org-left">Het verband tussen frequentie en trillingstijd.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe ziet de grafiek van een omgekeerd evenredig verband eruit?</td>
+<td class="org-left">De grafiek is een hyperbool die niet door de oorsprong gaat.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is een kwadratisch verband?</td>
+<td class="org-left">Een kwadratisch verband is een verband waarbij de grafiek een parabool is en de formule de vorm \( y = kx^2 \) heeft.</td>
+</tr>
+
+<tr>
+<td class="org-left">Geef een voorbeeld van een kwadratisch verband.</td>
+<td class="org-left">Het verband tussen de afstand en de tijd bij een versneld bewegend object.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe ziet de grafiek van een kwadratisch verband eruit?</td>
+<td class="org-left">De grafiek is een parabool die door de oorsprong gaat.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is een omgekeerd kwadratisch verband?</td>
+<td class="org-left">Een omgekeerd kwadratisch verband heeft de formule \( y = \frac{k}{x^2} \) en de grafiek is een hyperbool die naar de oorsprong toe buigt.</td>
+</tr>
+
+<tr>
+<td class="org-left">Geef een voorbeeld van een omgekeerd kwadratisch verband.</td>
+<td class="org-left">Het verband tussen de kracht en de afstand van een lading in een elektrisch veld.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is een wortelverband?</td>
+<td class="org-left">Een wortelverband is een verband waarbij de formule de vorm \( y = k\sqrt{x} \) heeft en de grafiek een kromme is die naar de oorsprong toe buigt.</td>
+</tr>
+
+<tr>
+<td class="org-left">Geef een voorbeeld van een wortelverband.</td>
+<td class="org-left">Het verband tussen de lengte van een slinger en de slingertijd.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe ziet de grafiek van een wortelverband eruit?</td>
+<td class="org-left">De grafiek is een kromme die naar de oorsprong toe buigt.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe kun je een recht evenredig verband herkennen aan de formule?</td>
+<td class="org-left">De formule heeft de vorm \( y = kx \), waarbij \( k \) een constante is.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe kun je een omgekeerd evenredig verband herkennen aan de grafiek?</td>
+<td class="org-left">De grafiek is een hyperbool die niet door de oorsprong gaat.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe kun je een kwadratisch verband herkennen aan de formule?</td>
+<td class="org-left">De formule heeft de vorm \( y = kx^2 \).</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe kun je een omgekeerd kwadratisch verband herkennen aan de formule?</td>
+<td class="org-left">De formule heeft de vorm \( y = \frac{k}{x^2} \).</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe kun je een wortelverband herkennen aan de formule?</td>
+<td class="org-left">De formule heeft de vorm \( y = k\sqrt{x} \).</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-03 Tue 13:42</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

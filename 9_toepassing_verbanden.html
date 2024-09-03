@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-03 Tue 14:01 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<p>
+### <b><b>Theorie: Verbanden en Formules</b></b>
+</p>
+
+<p>
+Een van de belangrijkste toepassingen van verbanden is het omzetten van serie meetresultaten in de formule die erbij hoort. Even op een rijtje: welke verbanden bestaan er? Natuurlijk kunnen we de volgende verbanden onderscheiden:
+</p>
+
+<ol class="org-ol">
+<li>Recht evenredig verband</li>
+<li>Omgekeerd evenredig verband</li>
+<li>Kwadratisch verband</li>
+<li>Omgekeerd kwadratisch verband</li>
+<li>Wortelverband</li>
+</ol>
+
+<p>
+Hoe gebruik je verbanden om van meetresultaten een formule te maken? Het gaat als volgt:
+</p>
+
+<ol class="org-ol">
+<li>Maak eerst een grafiek van je meetresultaten. Op basis van die grafiek heb je meestal al een vermoeden over welk soort verband het gaat, omdat elk verband een specifieke grafiekvorm heeft.</li>
+<li>Vervolgens kun je, op basis van het vermoeden dat je hebt, met berekeningen testen of het inderdaad dat verband is. Als dat zo is, kun je meteen de formule opschrijven, omdat het verband een specifieke vorm heeft die de formule moet hebben.</li>
+</ol>
+
+<p>
+Ik leg het uit met een voorbeeldje: stel je gooit vanaf een hoge toren een voorwerp naar beneden en je gaat met een stopwatch kijken hoe ver dat voorwerp gevallen is na elke seconde. Je meet de afstand na elke seconde van 0 tot 10 seconden, en je vindt de volgende resultaten.
+</p>
+
+<p>
+Als je deze afstanden in een grafiek plaatst, ziet die grafiek er als volgt uit: als je kijkt naar de vorm van de grafiek, zie je dat het geen rechte lijn door nul is, dus het is geen recht evenredig verband. Het is ook geen omgekeerd evenredig verband, omdat het niet door nul gaat. Het is ook geen wortelverband, omdat de grafiek niet die vorm heeft. Het enige verband dat overblijft als je naar de vorm kijkt, is een kwadratisch verband. De vorm van de grafiek lijkt namelijk het meest op die van een kwadratisch verband.
+</p>
+
+<p>
+We weten natuurlijk niet zeker of het om een kwadratisch verband gaat, dus moeten we dat eerst controleren met behulp van een berekening. Voor een kwadratisch verband geldt altijd dat de formule deze vorm heeft: 
+</p>
+
+<p>
+\[ \text{afstand} = a \cdot t^2 + b \cdot t + c \]
+</p>
+
+<p>
+waarbij \( a \), \( b \) en \( c \) constanten zijn. In dit geval gaat het om de afstand en de tijd. We nemen dus de afstand als de afhankelijke variabele en de tijd als de onafhankelijke variabele. 
+</p>
+
+<p>
+Als we dit toepassen op de metingen, kunnen we de formule als volgt opschrijven: 
+</p>
+
+<p>
+\[ \text{afstand} = \frac{1}{2} \cdot g \cdot t^2 \]
+</p>
+
+<p>
+waarbij \( g \) de versnelling door de zwaartekracht is, ongeveer \( 9,81 \, \text{m/s}^2 \). Dit komt behoorlijk overeen met wat we hebben gemeten. 
+</p>
+
+<p>
+We hebben nu kennis over verbanden gebruikt om van een meetresultaat een formule te maken. De formule die je kunt verwachten is dus:
+</p>
+
+<p>
+\[ \text{afstand} = \frac{1}{2} \cdot 9,81 \cdot t^2 \]
+</p>
+
+<p>
+En dit is ook het resultaat dat je kunt verwachten. 
+</p>
+
+
+
+<p>
+### <b><b>Lesplan:</b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Tijd</b></b></th>
+<th scope="col" class="org-left"><b><b>Activiteit</b></b></th>
+<th scope="col" class="org-left"><b><b>Omschrijving</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">0-5 min</td>
+<td class="org-left"><b><b>Introductie</b></b></td>
+<td class="org-left">Introductie van het onderwerp verbanden en formules. Uitleg over het belang van verbanden in meetresultaten.</td>
+</tr>
+
+<tr>
+<td class="org-left">5-10 min</td>
+<td class="org-left"><b><b>Uitleg Theorie</b></b></td>
+<td class="org-left">Bespreek de verschillende soorten verbanden (recht evenredig, omgekeerd evenredig, kwadratisch, etc.).</td>
+</tr>
+
+<tr>
+<td class="org-left">10-15 min</td>
+<td class="org-left"><b><b>Voorbeeld</b></b></td>
+<td class="org-left">Presenteer het voorbeeld van een voorwerp dat valt en bespreek de grafiek en verwachte verbanden.</td>
+</tr>
+
+<tr>
+<td class="org-left">15-25 min</td>
+<td class="org-left"><b><b>Grafiek Maken</b></b></td>
+<td class="org-left">Laat de leerlingen in groepen hun eigen grafiek maken op basis van gegeven meetresultaten.</td>
+</tr>
+
+<tr>
+<td class="org-left">25-35 min</td>
+<td class="org-left"><b><b>Verband Herkennen en Berekeningen</b></b></td>
+<td class="org-left">Leerlingen analyseren hun grafieken om het type verband te bepalen en maken de bijbehorende berekeningen.</td>
+</tr>
+
+<tr>
+<td class="org-left">35-40 min</td>
+<td class="org-left"><b><b>Formule Opschrijven</b></b></td>
+<td class="org-left">Leerlingen schrijven de formule op die bij hun grafiek hoort en vergelijken met de verwachte formule.</td>
+</tr>
+
+<tr>
+<td class="org-left">40-45 min</td>
+<td class="org-left"><b><b>Bespreking en Evaluatie</b></b></td>
+<td class="org-left">Bespreek de resultaten van de leerlingen, geef feedback en beantwoord vragen.</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+### Beschrijving van de Activiteiten
+</p>
+
+<ol class="org-ol">
+<li><b><b>Introductie (0-5 min)</b></b>  
+Begin de les met een korte inleiding over het belang van verbanden in wetenschappelijk onderzoek en praktische toepassingen. Leg uit waarom het belangrijk is om gegevens te analyseren en verbanden te herkennen.</li>
+
+<li><p>
+<b><b>Uitleg Theorie (5-10 min)</b></b>  
+Bespreek de verschillende soorten verbanden die je kunt tegenkomen bij het analyseren van meetresultaten:
+</p>
+<ul class="org-ul">
+<li>Recht evenredig verband</li>
+<li>Omgekeerd evenredig verband</li>
+<li>Kwadratisch verband</li>
+<li>Omgekeerd kwadratisch verband</li>
+<li>Wortelverband</li>
+</ul>
+<p>
+Gebruik visuele voorbeelden (grafieken) om de vormen van deze verbanden te illustreren.
+</p></li>
+
+<li><b><b>Voorbeeld (10-15 min)</b></b>  
+Introduceer het voorbeeld van een voorwerp dat valt vanaf een hoge toren. Bespreek de verwachte grafiekvorm en het type verband dat het waarschijnlijk zal volgen (kwadratisch). Toon hoe de grafiek eruit zou moeten zien voor een kwadratisch verband.</li>
+
+<li><b><b>Grafiek Maken (15-25 min)</b></b>  
+Verdeel de leerlingen in groepen en geef hen een set meetresultaten. Laat hen deze resultaten omzetten in een grafiek. Zorg ervoor dat ze een duidelijke grafiek maken met de juiste schaal en labels.</li>
+
+<li><b><b>Verband Herkennen en Berekeningen (25-35 min)</b></b>  
+Laat de leerlingen hun grafieken analyseren om te bepalen welk type verband aanwezig is. Geef hen de opdracht om berekeningen te maken en te testen of het gevonden verband overeenkomt met hun verwachtingen.</li>
+
+<li><b><b>Formule Opschrijven (35-40 min)</b></b>  
+Vraag de leerlingen om de formule op te schrijven die past bij hun grafiek. Laat ze deze vergelijken met de verwachte formule en bespreken waarom hun formule juist of onjuist is.</li>
+
+<li><b><b>Bespreking en Evaluatie (40-45 min)</b></b>  
+Bespreek de resultaten en bevindingen van de leerlingen. Geef feedback over de nauwkeurigheid van hun grafieken en formules. Beantwoord eventuele vragen en bespreek eventuele moeilijkheden die ze tegenkwamen.</li>
+</ol>
+
+<p>
+### <b><b>Diagnostische vragen:</b></b>  
+</p>
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Vraag</b></b></th>
+<th scope="col" class="org-left"><b><b>Korte Antwoord</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">1. Wat is een recht evenredig verband?</td>
+<td class="org-left">Een recht evenredig verband is een lineair verband waarbij de grafiek een rechte lijn door de oorsprong is.</td>
+</tr>
+
+<tr>
+<td class="org-left">2. Hoe herken je een omgekeerd evenredig verband in een grafiek?</td>
+<td class="org-left">Een omgekeerd evenredig verband heeft een grafiek die een hyperbool is, waarbij de lijn naar de assen asymptotisch nadert.</td>
+</tr>
+
+<tr>
+<td class="org-left">3. Wat is het kenmerk van een kwadratisch verband in een grafiek?</td>
+<td class="org-left">Een kwadratisch verband heeft een paraboolvormige grafiek, meestal een gebogen lijn.</td>
+</tr>
+
+<tr>
+<td class="org-left">4. Hoe ziet een wortelverband eruit in een grafiek?</td>
+<td class="org-left">Een wortelverband heeft een grafiek die een wortelcurve vertoont, waarbij de lijn de x-as niet kruist.</td>
+</tr>
+
+<tr>
+<td class="org-left">5. Welke formule hoort bij een kwadratisch verband?</td>
+<td class="org-left">De formule heeft de vorm: \[ \text{afstand} = a \cdot t^2 + b \cdot t + c \] waarbij \(a\), \(b\), en \(c\) constanten zijn.</td>
+</tr>
+
+<tr>
+<td class="org-left">6. Wat moet je doen om te bepalen welk type verband je hebt bij je meetresultaten?</td>
+<td class="org-left">Maak een grafiek van de meetresultaten en analyseer de vorm van de grafiek om het type verband te bepalen.</td>
+</tr>
+
+<tr>
+<td class="org-left">7. Wat is de formule voor de afstand bij een vrije val, gebaseerd op een kwadratisch verband?</td>
+<td class="org-left">De formule is: \[ \text{afstand} = \frac{1}{2} \cdot g \cdot t^2 \] waarbij \( g \) de versnelling door de zwaartekracht is.</td>
+</tr>
+
+<tr>
+<td class="org-left">8. Hoe kun je controleren of een formule overeenkomt met een kwadratisch verband?</td>
+<td class="org-left">Vergelijk de resultaten van je berekeningen met de verwachte resultaten op basis van de formule.</td>
+</tr>
+
+<tr>
+<td class="org-left">9. Wat is een veelvoorkomende oorzaak voor variatie in de metingen bij een experiment?</td>
+<td class="org-left">Meetfouten of onnauwkeurigheden bij het opnemen van de gegevens.</td>
+</tr>
+
+<tr>
+<td class="org-left">10. Waarom is het belangrijk om de juiste formule te vinden voor een gegeven verband?</td>
+<td class="org-left">De juiste formule helpt bij het nauwkeurig voorspellen en begrijpen van de relatie tussen variabelen.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-03 Tue 14:01</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

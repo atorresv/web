@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-03 Tue 14:10 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<p>
+### <b><b>Theorie: Modelleren en rekenregels</b></b>
+</p>
+
+
+<p>
+En modelleren houdt in dat je iets uitrekent door de tijd in kleine stapjes op te delen en per tijdstap uit te rekenen hoe dingen veranderen. Hoe werkt dit bij een wat ingewikkelder model van een beweging? Stel je voor dat we een voorwerp hebben, een bal met een bepaalde massa, en die gooien we weg vanaf een bepaalde locatie in een bepaalde richting. Hoe gaat die bal verder? De bal zal natuurlijk omhoog gaan en daarna naar de grond vallen. Maar hoe kunnen we uitrekenen hoe die verder gaat?
+</p>
+
+<p>
+Om te beginnen, moeten we de krachten op de bal uitrekenen. Er is natuurlijk de zwaartekracht, en er werkt een wrijvingskracht tegengesteld aan de snelheid. Deze twee krachten geven uiteindelijk de resulterende kracht. Uit de resulterende kracht kunnen we de versnelling berekenen. We hadden een bepaalde beginsnelheid; deze versnelling zorgt ervoor dat de beginsnelheid een klein beetje van richting verandert, wat resulteert in een nieuwe snelheid. Met deze nieuwe snelheid weten we waar de bal zich in het volgende tijdsstapje zal bevinden.
+</p>
+
+<p>
+We herhalen precies hetzelfde proces: de zwaartekracht verandert een klein beetje, de wrijvingskracht wordt weer iets anders, en dus verandert de resulterende kracht. Door dit voor alle tijdstapjes te herhalen, kunnen we de baan van de bal volgen, bijvoorbeeld als we hem in een bepaalde richting weggooien.
+</p>
+
+<p>
+Hoe ziet het model eruit? Wat zijn de rekenregels die we hebben gebruikt om de baan van de bal te bepalen? Samengevat, de rekenregels zijn als volgt: 
+</p>
+
+<ol class="org-ol">
+<li>Bereken eerst de wrijvingskracht, zowel de grootte als de richting.</li>
+<li>Bereken de resulterende kracht.</li>
+<li>Bereken de versnelling op basis van de resulterende kracht.</li>
+<li>Bereken de snelheid met de versnelling.</li>
+<li>Bepaal de nieuwe positie met de snelheid.</li>
+</ol>
+
+<p>
+Na elke tijdsstap herhaal je deze stappen. Dit proces moet vele keren worden herhaald om uiteindelijk de baan van de bal te bepalen. 
+</p>
+
+<p>
+De rekenregels die worden gebruikt zijn als volgt:
+</p>
+<ul class="org-ul">
+<li>Strx: Component van de wrijvingskracht.</li>
+<li>A: Component van de versnelling.</li>
+<li>De wrijvingskracht wordt berekend als een constante maal de snelheid in het kwadraat.</li>
+<li>De richting van de wrijvingskracht wordt bepaald.</li>
+<li>De resulterende kracht wordt uitgerekend door de versnelling te delen door de massa.</li>
+<li>De snelheid wordt berekend door de vorige snelheid plus de versnelling maal het tijdsstapje.</li>
+<li>De nieuwe snelheid wordt berekend als de grootte van de nieuwe snelheid.</li>
+<li>De nieuwe positie wordt berekend door de positie plus de snelheid maal het tijdsstapje.</li>
+</ul>
+
+<p>
+Voordat de computer kan beginnen met rekenen, moet hij de startwaarden kennen:
+</p>
+<ul class="org-ul">
+<li>Startpositie</li>
+<li>Startrichting</li>
+<li>Startsnelheid</li>
+<li>Starttijd (meestal 0)</li>
+<li>Wrijvingscoëfficiënt</li>
+<li>Massa van de bal</li>
+<li>Grootte van de tijdsstapjes</li>
+</ul>
+
+<p>
+Deze waarden worden de startwaarden genoemd. Elk model moet starten met deze waarden, anders weet de computer niet waar te beginnen met rekenen.
+</p>
+
+<p>
+Samengevat, als je de beweging van een voorwerp met een model wilt berekenen, bepaal je eerst de krachten op dat voorwerp op een bepaald tijdstip. Vervolgens bereken je de resulterende kracht, de versnelling, de snelheid, en de nieuwe positie. Als er andere parameters veranderen, zoals de massa, moet je deze aanpassen in je model. Herhaal dit proces voor elk tijdsstapje. Dit is de basisaanpak bij het maken van een model.
+</p>
+
+<p>
+### <b><b><b>Lesplan:</b></b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right"><b><b>Tijd</b></b></th>
+<th scope="col" class="org-left"><b><b>Activiteit</b></b></th>
+<th scope="col" class="org-left"><b><b>Omschrijving</b></b></th>
+<th scope="col" class="org-left"><b><b>Doelen</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">00:00-00:05</td>
+<td class="org-left"><b><b>Introductie</b></b></td>
+<td class="org-left">Introductie van het onderwerp: modelleren van bewegingen. Uitleg over wat modelleren inhoudt en waarom het belangrijk is.</td>
+<td class="org-left">Begrip van wat modelleren is en de basisconcepten van het lesonderwerp.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:05-00:15</td>
+<td class="org-left"><b><b>Uitleg Basisconcepten</b></b></td>
+<td class="org-left">Bespreking van de basisconcepten van modelleren, inclusief de stappen en rekenregels.</td>
+<td class="org-left">Inzicht krijgen in de basisprincipes en rekenregels voor modelleren.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:15-00:25</td>
+<td class="org-left"><b><b>Voorbeeld Demonstratie</b></b></td>
+<td class="org-left">Demonstratie van een model voor een bal die wordt weggeworpen: krachten, versnelling, snelheid, en nieuwe positie.</td>
+<td class="org-left">Praktische toepassing van de besproken concepten en rekenregels.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:25-00:30</td>
+<td class="org-left"><b><b>Oefening in Kleine Groepen</b></b></td>
+<td class="org-left">Leerlingen werken in kleine groepen aan een oefening waarbij ze een vergelijkbaar model moeten toepassen.</td>
+<td class="org-left">Toepassen van modelleren in een gecontroleerde oefenomgeving.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:30-00:35</td>
+<td class="org-left"><b><b>Groepsbespreking van Oefeningen</b></b></td>
+<td class="org-left">Bespreking van de resultaten en methodes van de groepen. Analyse van de bevindingen en eventuele moeilijkheden.</td>
+<td class="org-left">Versterken van begrip door gezamenlijke bespreking en feedback.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:35-00:40</td>
+<td class="org-left"><b><b>Samenvatting en Belangrijke Notities</b></b></td>
+<td class="org-left">Samenvatting van de belangrijkste punten en rekenregels. Herhaling van de stappen die moeten worden gevolgd bij modelleren.</td>
+<td class="org-left">Herhaling en consolidatie van de leerstof.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:40-00:45</td>
+<td class="org-left"><b><b>Vragen en Discussie</b></b></td>
+<td class="org-left">Mogelijkheid voor leerlingen om vragen te stellen en discussiëren over het onderwerp.</td>
+<td class="org-left">Beantwoorden van vragen en verduidelijken van eventuele onduidelijkheden.</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+### <b><b>Diagnostische vragen:</b></b> 
+</p>
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Vraag</b></b></th>
+<th scope="col" class="org-left"><b><b>Korte Antwoord</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Wat betekent modelleren in de context van natuurkunde?</td>
+<td class="org-left">Modelleren betekent het opdelen van de tijd in kleine stapjes en per tijdstap berekenen hoe dingen veranderen.</td>
+</tr>
+
+<tr>
+<td class="org-left">Welke krachten moet je uitrekenen bij het modelleren van een bewegend voorwerp?</td>
+<td class="org-left">De zwaartekracht en de wrijvingskracht.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe wordt de versnelling berekend in een model?</td>
+<td class="org-left">De versnelling wordt berekend door de resulterende kracht te delen door de massa van het voorwerp.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat gebeurt er met de snelheid in elk tijdsstapje?</td>
+<td class="org-left">De snelheid verandert door de versnelling die wordt toegevoegd aan de vorige snelheid.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe wordt de nieuwe positie van het voorwerp berekend?</td>
+<td class="org-left">De nieuwe positie wordt berekend door de oude positie plus de snelheid vermenigvuldigd met het tijdsstapje.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat moet je weten voordat je begint met modelleren?</td>
+<td class="org-left">Je moet de startpositie, startrichting, startsnelheid, starttijd, wrijvingscoëfficiënt, massa van het voorwerp en de tijdsstapjes kennen.</td>
+</tr>
+
+<tr>
+<td class="org-left">Waarom worden computers vaak gebruikt voor modelleren?</td>
+<td class="org-left">Omdat modelleren veel rekenwerk met zich meebrengt en computers dit efficiënt kunnen uitvoeren.</td>
+</tr>
+
+<tr>
+<td class="org-left">Welke programma's kunnen worden gebruikt voor het modelleren van bewegingen?</td>
+<td class="org-left">Programma's zoals Coach, grafische rekenmachines, en Excel kunnen worden gebruikt.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is de rol van wrijvingskracht in het model?</td>
+<td class="org-left">De wrijvingskracht werkt tegengesteld aan de snelheid en beïnvloedt de resulterende kracht en versnelling.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe vaak moet je de berekeningen herhalen in een model?</td>
+<td class="org-left">Je moet de berekeningen voor elk tijdsstapje herhalen om de beweging van het voorwerp te volgen.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-03 Tue 14:10</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

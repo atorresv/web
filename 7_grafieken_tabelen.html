@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-03 Tue 13:41 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<p>
+### <b><b>Theorie: Het Maken en Interpreteren van Tabellen en Grafieken</b></b>
+</p>
+
+
+
+<p>
+Als je iets onderzoekt, doe je meestal niet één meting, maar een hele serie metingen. Om een overzicht te behouden van die hele serie metingen, wordt vaak gebruik gemaakt van tabellen en grafieken. 
+</p>
+
+<p>
+Bijvoorbeeld, stel dat ik wil onderzoeken wat het verband is tussen de lengte van een slinger en de tijd die de slinger nodig heeft om heen en weer te gaan. Als ik een serie metingen uitvoer en bij elke lengte van de slinger meet hoelang de slinger erover doet om heen en weer te gaan, zet ik de resultaten in een tabel. Een tabel is niets anders dan een overzicht waarin je de gegevens overzichtelijk kunt zien. In de tabel staan de lengtes en de tijden die gemeten zijn. Het is gebruikelijk om de gegevens die je zelf bepaalt (de onafhankelijke variabele) aan de x-as (horizontale as) te plaatsen, en de gegevens die je meet (de afhankelijke variabele) aan de y-as (verticale as). 
+</p>
+
+<p>
+Bijvoorbeeld, als je de lengte van de slinger (onafhankelijke variabele) en de bijbehorende tijd (afhankelijke variabele) hebt, zie je vaak dat hoe groter de lengte van de slinger, hoe langer de slinger erover doet om heen en weer te gaan. Dit is een patroon dat je uit de gegevens kunt afleiden, maar de exacte relatie zie je vaak beter in een grafiek.
+</p>
+
+<p>
+<b><b>Hoe maak je een grafiek?</b></b>
+</p>
+
+<ol class="org-ol">
+<li>Begin met een stuk ruitjespapier en teken de x-as en y-as.</li>
+<li>Zet op de x-as de onafhankelijke variabele (de lengte van de slinger) en op de y-as de afhankelijke variabele (de tijd).</li>
+<li>Kies een geschikte schaal voor beide assen. Bijvoorbeeld, als de grootste lengte 1 meter 40 is, kun je de x-as laten lopen van 0 tot 1,50 meter. Voor de y-as, als de grootste tijd 2 seconden en 3700 milliseconden is, kun je deze laten lopen tot 2,5 seconden.</li>
+<li>Zet elk meetpunt op de grafiek. Bijvoorbeeld, als je bij een lengte van 0,4 meter een tijd van 1,2 seconden hebt gemeten, markeer je dit punt op de grafiek.</li>
+<li>Trek een vloeiende lijn door de punten. Dit kan helpen om de algemene trend te laten zien. Het is normaal dat sommige punten boven of onder de lijn liggen door meetfouten. Het doel is om een lijn te tekenen die de algemene trend laat zien, niet om elke meting precies te volgen.</li>
+</ol>
+
+<p>
+<b><b>Samenvatting:</b></b>
+</p>
+
+<ol class="org-ol">
+<li>Zorg ervoor dat je gegevens netjes in een tabel staan.</li>
+<li>Zet de x- en y-assen op je grafiek en kies geschikte schalen.</li>
+<li>Zet de punten op de grafiek en trek een vloeiende lijn langs de punten.</li>
+<li>Zorg ervoor dat de assen correct zijn gelabeld (bijvoorbeeld lengte in meters en tijd in seconden).</li>
+<li>Voeg een titel toe aan je grafiek om te verduidelijken waar je onderzoek over gaat.</li>
+</ol>
+
+<p>
+Tegenwoordig worden grafieken steeds vaker met computers gemaakt. Het programma dat hiervoor het meest gebruikt wordt, is Excel. In Excel kun je alles wat ik net heb beschreven ook digitaal uitvoeren.
+</p>
+
+<p>
+### <b><b>Lesplan:</b></b>
+</p>
+
+<p>
+<b><b>Doel:</b></b> Studenten leren hoe ze tabellen en grafieken moeten maken en interpreteren om gegevens uit metingen overzichtelijk weer te geven.
+</p>
+
+<p>
+<b><b>Duur:</b></b> 45 minuten
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right"><b><b>Tijd</b></b></th>
+<th scope="col" class="org-left"><b><b>Activiteit</b></b></th>
+<th scope="col" class="org-left"><b><b>Inhoud</b></b></th>
+<th scope="col" class="org-left"><b><b>Opmerkingen</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">00:00-00:05</td>
+<td class="org-left"><b><b>Introductie</b></b></td>
+<td class="org-left">Inleiding over het belang van tabellen en grafieken bij het analyseren van metingen.</td>
+<td class="org-left">Doel van de les uitleggen.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:05-00:15</td>
+<td class="org-left"><b><b>Uitleg van Tabellen</b></b></td>
+<td class="org-left">Bespreek hoe je gegevens in een tabel kunt zetten. Bespreek het verschil tussen onafhankelijke en afhankelijke variabelen.</td>
+<td class="org-left">Voorbeeld van een tabel met lengtes en tijden.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:15-00:25</td>
+<td class="org-left"><b><b>Instructie Grafieken Maken</b></b></td>
+<td class="org-left">Uitleg over hoe je een grafiek maakt op ruitjespapier of met een computerprogramma zoals Excel.</td>
+<td class="org-left">Voorbeeld van het tekenen van de x-as en y-as.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:25-00:35</td>
+<td class="org-left"><b><b>Oefening: Tabel en Grafiek</b></b></td>
+<td class="org-left">Studenten maken een tabel en grafiek op basis van een set gegevens.</td>
+<td class="org-left">Laat studenten zelf een tabel en grafiek opstellen.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:35-00:40</td>
+<td class="org-left"><b><b>Bespreking van Oefeningen</b></b></td>
+<td class="org-left">Bespreek de gemaakte tabellen en grafieken met de klas. Bespreek eventuele fouten en verbeteringen.</td>
+<td class="org-left">Feedback en vragen beantwoorden.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:40-00:45</td>
+<td class="org-left"><b><b>Samenvatting en Afronding</b></b></td>
+<td class="org-left">Herhaal de belangrijkste stappen voor het maken en interpreteren van tabellen en grafieken.</td>
+<td class="org-left">Tips geven voor het gebruik van Excel.</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+### Voorbereiding:
+</p>
+<ul class="org-ul">
+<li>Voorbeeldgegevens en bijbehorende tabel en grafiek voorbereiden.</li>
+<li>Zorg voor ruitjespapier en potloden, of een computer met Excel.</li>
+<li>Voorbereiding van een korte presentatie over het maken van tabellen en grafieken.</li>
+</ul>
+
+<p>
+### Materialen:
+</p>
+<ul class="org-ul">
+<li>Whiteboard en markers</li>
+<li>Ruitjespapier en potloden</li>
+<li>Computers met Excel of ander grafieksoftware (optioneel)</li>
+</ul>
+
+<p>
+### <b><b>Diagnostische vragen:</b></b> 
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Vraag</b></b></th>
+<th scope="col" class="org-left"><b><b>Korte Antwoord</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b><b>1. Waarom is het belangrijk om gegevens in een tabel te zetten bij een onderzoek?</b></b></td>
+<td class="org-left">Het helpt om de gegevens overzichtelijk te maken en patronen te herkennen.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>2. Wat zet je op de x-as van een grafiek?</b></b></td>
+<td class="org-left">De onafhankelijke variabele (bijvoorbeeld de lengte van de slinger).</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>3. Wat zet je op de y-as van een grafiek?</b></b></td>
+<td class="org-left">De afhankelijke variabele (bijvoorbeeld de tijd die de slinger nodig heeft).</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>4. Hoe kies je de schalen voor de assen van een grafiek?</b></b></td>
+<td class="org-left">Kies schalen die passen bij de grootste en kleinste waarden in je gegevens.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>5. Hoe markeer je een punt op een grafiek?</b></b></td>
+<td class="org-left">Zet het punt op de grafiek op de juiste plaats volgens de waarden van de variabelen.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>6. Waarom is het beter om een vloeiende lijn te trekken in plaats van een rechte lijn door alle punten?</b></b></td>
+<td class="org-left">Een vloeiende lijn laat de algemene trend zien, ondanks eventuele meetfouten.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>7. Wat is het doel van het toevoegen van een titel aan een grafiek?</b></b></td>
+<td class="org-left">De titel verduidelijkt waar de grafiek over gaat, zodat het later begrijpelijk is.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>8. Hoe moet je de grootste waarde op de assen van de grafiek zetten?</b></b></td>
+<td class="org-left">Zorg ervoor dat de grootste waarde in je gegevens netjes op de as past.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>9. Wat moet je doen als je verschillende eenheden hebt bij het optellen van gegevens?</b></b></td>
+<td class="org-left">Zet de eenheden eerst om naar dezelfde eenheid voordat je optelt of aftrekt.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>10. Hoe gebruik je Excel voor het maken van grafieken?</b></b></td>
+<td class="org-left">Voer de gegevens in, selecteer ze, en gebruik de grafiekfunctie om de grafiek te genereren.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-03 Tue 13:41</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

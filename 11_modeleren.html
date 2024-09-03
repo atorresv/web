@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-03 Tue 13:50 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<p>
+### <b><b>Theorie: modelleren en het gebruik van de computer</b></b>
+</p>
+
+<p>
+Meestal is het zo dat als je iets wilt uitrekenen, je de juiste formule moet kennen, de getallen moet invullen en je antwoord eruit komt. Soms is dat niet de oplossing waarmee je je vraag beantwoordt. Kijk even naar de volgende situatie: stel je voor dat je een slinger opzij trekt en loslaat. Ik wil uitrekenen hoe die slinger precies heen en weer gaat slingeren. Wat moet ik daarvoor doen? 
+</p>
+
+<p>
+Ik moet eerst uitrekenen wat de kracht is die op de slinger werkt op het moment dat ik hem loslaat. Er zijn twee krachten: de zwaartekracht naar beneden en de spankracht in de richting van de draad. Uit deze twee krachten kan ik de resulterende kracht bepalen. Van de resulterende kracht kan ik de versnelling bepalen, en uit de versnelling kan ik de snelheid halen. Hoe kan ik uitrekenen hoe hij uiteindelijk weer hier komt? 
+</p>
+
+<p>
+Het probleem is dat als je helemaal naar hier schuift, de krachten anders zijn. Dus ik zal opnieuw moeten uitrekenen wat de resulterende kracht is, de snelheid bepalen en uitrekenen waar de slinger dan heen gaat. Je ziet dat ik eigenlijk de hele beweging heb opgedeeld in kleine tijdstapjes. Bij elk tijdstapje bereken ik steeds de resulterende kracht, de versnelling, de snelheid en de nieuwe positie van de slinger. 
+</p>
+
+<p>
+Als ik dat gedaan heb, verhoog ik de tijd en ga ik naar het volgende tijdstapje, waarbij ik precies hetzelfde opnieuw moet doen, enzovoort. Deze manier van rekenen wordt ook wel modelleren genoemd, en de set van rekenregels die je hiervoor gebruikt, wordt het model genoemd. 
+</p>
+
+<p>
+Een nadeel van deze manier van uitrekenen is dat het ontzettend veel rekenwerk is. Als je zoiets met de hand zou willen doen, moet je voor elk tijdstapje de hele berekeningen uitvoeren. Vandaar dat modelleren vaak via de computer wordt gedaan. De computer rekent al die tijdstapjes uit. Er zijn verschillende manieren waarop je dit met de computer kunt doen. Een veelgebruikt programma hiervoor is Coach. Als je slim bent en handig kunt omgaan met een grafische rekenmachine, is het ook mogelijk om dergelijke berekeningen uit te voeren. Andere programma’s die je kunt gebruiken zijn bijvoorbeeld Excel, maar er bestaan ook andere computerprogramma’s die je voor dit doel kunt gebruiken.
+</p>
+
+<p>
+Goed, wat is een model? Dat is een set van rekenregels die steeds herhaald wordt voor bepaalde natuurkundige situaties die je kunt berekenen. De truc is steeds om alles op te delen in kleine tijdstapjes en per tijdstapje uit te rekenen hoe een bepaald iets zich verplaatst. Bijvoorbeeld, er bestaan verschillende programma’s die je kunt gebruiken om een model te berekenen, zoals Coach, een grafische rekenmachine en het programma Excel.
+</p>
+
+
+<p>
+### <b><b>Lesplan:</b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right"><b><b>Tijd</b></b></th>
+<th scope="col" class="org-left"><b><b>Activiteit</b></b></th>
+<th scope="col" class="org-left"><b><b>Beschrijving</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">00:00-00:05</td>
+<td class="org-left"><b><b>Introductie</b></b></td>
+<td class="org-left">Introductie van het onderwerp: modelleren en het gebruik van programma’s zoals Coach en Excel.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:05-00:10</td>
+<td class="org-left"><b><b>Doelstellingen</b></b></td>
+<td class="org-left">Bespreken van de leerdoelen: begrijpen wat modelleren inhoudt en hoe je computermodellen gebruikt.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:10-00:20</td>
+<td class="org-left"><b><b>Uitleg Modelleren</b></b></td>
+<td class="org-left">Uitleg over modelleren: opdeling van een probleem in tijdstapjes en het uitvoeren van berekeningen.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:20-00:30</td>
+<td class="org-left"><b><b>Voorbeeld: Slingsimulatie</b></b></td>
+<td class="org-left">Voorbeeld met een slinger: hoe je de krachten, versnelling, en snelheid bepaalt, en de herhaling per tijdstapje.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:30-00:35</td>
+<td class="org-left"><b><b>Invoering van Computerprogramma's</b></b></td>
+<td class="org-left">Introductie van programma's zoals Coach en Excel die helpen bij het modelleren en berekeningen uitvoeren.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:35-00:40</td>
+<td class="org-left"><b><b>Demonstratie</b></b></td>
+<td class="org-left">Demonstratie van het gebruik van Coach en Excel voor modelleren.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:40-00:45</td>
+<td class="org-left"><b><b>Vragen en Samenvatting</b></b></td>
+<td class="org-left">Vragen van leerlingen beantwoorden en de belangrijkste punten van de les samenvatten.</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+<b><b>Lesmateriaal:</b></b>
+</p>
+<ul class="org-ul">
+<li>Voorbeeld van een slingerbeweging</li>
+<li>Computer met Coach en Excel</li>
+<li>Hand-outs met uitleg over modelleren</li>
+</ul>
+
+<p>
+<b><b>Doelstellingen:</b></b>
+</p>
+<ol class="org-ol">
+<li>Begrijpen hoe je een natuurkundig probleem kunt modelleren door het op te delen in kleine tijdstapjes.</li>
+<li>Leren hoe je een computermodel kunt gebruiken om berekeningen uit te voeren.</li>
+<li>Kennis maken met programma’s zoals Coach en Excel voor natuurkundige simulaties.</li>
+</ol>
+
+<p>
+### <b><b>Diagnostische vragen:</b></b> 
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Vraag</b></b></th>
+<th scope="col" class="org-left"><b><b>Antwoord</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Wat is modelleren in de natuurkunde?</td>
+<td class="org-left">Modelleren is het opdelen van een natuurkundig probleem in kleine tijdstapjes en het uitvoeren van berekeningen per tijdstap.</td>
+</tr>
+
+<tr>
+<td class="org-left">Waarom wordt modelleren vaak met een computer gedaan?</td>
+<td class="org-left">Modelleren met een computer is efficiënter omdat het veel rekenwerk met veel tijdstapjes snel en nauwkeurig kan uitvoeren.</td>
+</tr>
+
+<tr>
+<td class="org-left">Noem twee programma's die gebruikt worden voor modelleren.</td>
+<td class="org-left">Coach en Excel.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is het eerste wat je moet doen bij het modelleren van een slingerbeweging?</td>
+<td class="org-left">Je moet de krachten op de slinger bepalen, zoals de kracht naar beneden en de spankracht.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bepaal je de versnelling van een slinger in een model?</td>
+<td class="org-left">Versnelling wordt bepaald door de resulterende kracht te delen door de massa van de slinger.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is een model in de context van natuurkunde?</td>
+<td class="org-left">Een model is een set van rekenregels die steeds herhaald wordt om natuurkundige situaties te berekenen.</td>
+</tr>
+
+<tr>
+<td class="org-left">Welke stap volgt na het berekenen van de versnelling in een tijdstapmodel?</td>
+<td class="org-left">Na het berekenen van de versnelling bereken je de snelheid en de nieuwe positie van de slinger.</td>
+</tr>
+
+<tr>
+<td class="org-left">Waarom mag je geen aantekeningen maken in een Binas tijdens een examen?</td>
+<td class="org-left">Omdat de Binas gecontroleerd wordt en het niet toegestaan is om erin te schrijven of aantekeningen te maken.</td>
+</tr>
+
+<tr>
+<td class="org-left">Waar vind je informatie over natuurconstanten in de Binas?</td>
+<td class="org-left">In het blauwe gedeelte van de Binas.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat moet je doen als je niet zeker weet welk verband je hebt bij een grafiek?</td>
+<td class="org-left">Controleer de vorm van de grafiek en vergelijk deze met de bekende grafiekvormen van verschillende verbanden.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-03 Tue 13:50</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

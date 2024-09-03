@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-03 Tue 13:31 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<p>
+### <b><b>Theorie: significante cijfers en onzekerheid in metingen</b></b>
+</p>
+
+<p>
+In de natuurkunde heeft elk getal, behalve een eenheid, ook een bepaalde nauwkeurigheid. Stel je voor dat je meet hoe lang het duurt voordat een bepaald voorwerp van een hoogte valt, en je meet dat die tijd 4,81 seconden is. Je kunt natuurlijk 4,81 seconden opschrijven, maar je weet dat dit niet altijd exact is. Bij elke meting kunnen er variaties optreden door onzekerheden in de meting, waardoor je nooit een meting helemaal precies kunt doen. 
+</p>
+
+<p>
+Wat schrijf je nu op? Volgens de afspraak in de natuurkunde schrijf je alleen die cijfers op waarvan je zeker bent. Welke cijfers ben je zeker? Als je afrondt, kom je uit op 4,8 seconden, omdat je alleen zeker bent van de cijfers die je kunt vertrouwen. Cijfers waarvan je zeker bent, worden significante cijfers genoemd. Dus 4 en 8 zijn significante cijfers. 
+</p>
+
+<p>
+Stel je voor dat je de resultaten van een meting van de temperatuur ontvangt, en de gemeten temperatuur is 21,7 graden Celsius. Je mag ervan uitgaan dat al deze cijfers significante cijfers zijn. Dit betekent dat het cijfer dat je hebt gemeten in de buurt ligt van de echte temperatuur, en dat alle temperaturen afgerond 21,7 zijn. De werkelijke temperatuur ligt binnen een bereik dat je kunt opschrijven als 21,7 ± 0,05. Wiskundig gezien is dit precies hetzelfde getal, maar voor een natuurkundige betekent het dat dit getal veel nauwkeuriger is gemeten dan een getal zonder de marge. 
+</p>
+
+<p>
+Hoe groter het aantal significante cijfers, hoe groter de nauwkeurigheid van een bepaald getal. 
+</p>
+
+<p>
+Hoe bepaal je het aantal significante cijfers? Dit lijkt simpel, maar er zijn een paar regels om te volgen:
+</p>
+<ol class="org-ol">
+<li>Cijfers links van de decimale punt worden niet meegeteld.</li>
+<li>Bij getallen in wetenschappelijke notatie telt alleen de macht van 10 niet mee.</li>
+</ol>
+
+<p>
+Laten we het aantal significante cijfers in enkele getallen bepalen:
+</p>
+<ul class="org-ul">
+<li>4,47 bestaat uit één, twee, drie cijfers, dus drie significante cijfers.</li>
+<li>0,002 heeft slechts één, twee significante cijfers.</li>
+<li>8500 bestaat uit één, twee, drie, vier cijfers. De significante cijfers aan de rechterkant worden ook meegeteld. Dit getal heeft vier significante cijfers.</li>
+</ul>
+
+<p>
+Samengevat: onzekerheid wordt aangegeven met ± en zegt hoe groot de meetfouten zijn in een getal. Deze onzekerheid kun je absoluut of procentueel weergeven. In plaats van de absolute onzekerheid, kijk je vaak naar het aantal significante cijfers, omdat dit de nauwkeurigheid van een meting weergeeft.
+</p>
+
+
+<p>
+### <b><b>Lesplan:</b></b> 
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right"><b><b>Tijd</b></b></th>
+<th scope="col" class="org-left"><b><b>Activiteit</b></b></th>
+<th scope="col" class="org-left"><b><b>Details</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">00:00-00:05</td>
+<td class="org-left"><b><b>Introductie</b></b></td>
+<td class="org-left">- Korte inleiding over significante cijfers en meetonzekerheid.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:05-00:15</td>
+<td class="org-left"><b><b>Uitleg van Concepten</b></b></td>
+<td class="org-left">- Uitleg over significante cijfers. &lt;br&gt; - Waarom precisie belangrijk is in metingen. &lt;br&gt; - Introductie van onzekerheid en hoe dit wordt weergegeven.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:15-00:20</td>
+<td class="org-left"><b><b>Voorbeelden van Significante Cijfers</b></b></td>
+<td class="org-left">- Voorbeelden geven van verschillende getallen en hun significante cijfers identificeren. &lt;br&gt; - Voorbeelden: 4,47, 0,002, 8500.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:20-00:25</td>
+<td class="org-left"><b><b>Activiteit 1: Identificeren van Significante Cijfers</b></b></td>
+<td class="org-left">- Een lijst met getallen verstrekken. &lt;br&gt; - Studenten bepalen het aantal significante cijfers voor elk getal.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:25-00:30</td>
+<td class="org-left"><b><b>Activiteit 2: Meten van Onzekerheid</b></b></td>
+<td class="org-left">- Uitleg geven over hoe onzekerheid in metingen wordt bepaald. &lt;br&gt; - Een voorbeeld gebruiken ter illustratie.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:30-00:35</td>
+<td class="org-left"><b><b>Activiteit 3: Afronden en Precisie</b></b></td>
+<td class="org-left">- Afrondingsregels demonstreren en hoe ze de hoeveelheid significante cijfers beïnvloeden. &lt;br&gt; - Studenten oefenen met afronden van getallen.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:35-00:40</td>
+<td class="org-left"><b><b>Groepsdiscussie</b></b></td>
+<td class="org-left">- Bespreken van veelvoorkomende misvattingen over significante cijfers en onzekerheid. &lt;br&gt; - Antwoorden van activiteiten delen en verduidelijken.</td>
+</tr>
+
+<tr>
+<td class="org-right">00:40-00:45</td>
+<td class="org-left"><b><b>Samenvatting en Vragen</b></b></td>
+<td class="org-left">- Kernpunten samenvatten. &lt;br&gt; - Ruimte bieden voor vragen.</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+### <b><b>Gedetailleerde Uitleg</b></b>
+</p>
+
+<ol class="org-ol">
+<li><b><b>Introductie (00:00-00:05)</b></b>
+<ul class="org-ul">
+<li>Leg uit waarom significante cijfers en meetonzekerheid belangrijk zijn in de wetenschap.</li>
+<li>Geef een kort overzicht van hoe significante cijfers precisie in metingen vertegenwoordigen.</li>
+</ul></li>
+
+<li><b><b>Uitleg van Concepten (00:05-00:15)</b></b>
+<ul class="org-ul">
+<li><b><b>Significante Cijfers</b></b>:
+<ul class="org-ul">
+<li>Definitie en doel.</li>
+<li>Regels voor het bepalen van significante cijfers.</li>
+</ul></li>
+<li><b><b>Meetonzekerheid</b></b>:
+<ul class="org-ul">
+<li>Definitie van onzekerheid.</li>
+<li>Hoe dit wordt weergegeven (bijv. ± notatie).</li>
+<li>Het belang van het rapporteren van onzekerheid in metingen.</li>
+</ul></li>
+</ul></li>
+
+<li><b><b>Voorbeelden van Significante Cijfers (00:15-00:20)</b></b>
+<ul class="org-ul">
+<li>Voorbeelden van getallen met verschillende significante cijfers tonen.</li>
+<li>Bespreek welke cijfers significant zijn en waarom.</li>
+<li>Voorbeeld getallen:
+<ul class="org-ul">
+<li>4,47 (drie significante cijfers)</li>
+<li>0,002 (één significant cijfer)</li>
+<li>8500 (vier significante cijfers, als je de trailing zeros significant beschouwt)</li>
+</ul></li>
+</ul></li>
+
+<li><b><b>Activiteit 1: Identificeren van Significante Cijfers (00:20-00:25)</b></b>
+<ul class="org-ul">
+<li>Verspreid een werkblad met diverse getallen.</li>
+<li>Studenten bepalen het aantal significante cijfers voor elk getal.</li>
+<li>Bespreek de antwoorden en de redenatie achter de keuzes.</li>
+</ul></li>
+
+<li><b><b>Activiteit 2: Meten van Onzekerheid (00:25-00:30)</b></b>
+<ul class="org-ul">
+<li>Presenteer een voorbeeldmeting.</li>
+<li>Laat zien hoe je onzekerheid berekent en hoe deze wordt gerapporteerd.</li>
+<li>Voorbeeld: Meting van temperatuur met gegeven onzekerheid.</li>
+</ul></li>
+
+<li><b><b>Activiteit 3: Afronden en Precisie (00:30-00:35)</b></b>
+<ul class="org-ul">
+<li>Demonstreer afrondingsregels voor significante cijfers.</li>
+<li>Geef oefenproblemen voor studenten om getallen correct af te ronden.</li>
+<li>Bespreek hoe afronding de precisie beïnvloedt.</li>
+</ul></li>
+
+<li><b><b>Groepsdiscussie (00:35-00:40)</b></b>
+<ul class="org-ul">
+<li>Nodig studenten uit om hun antwoorden uit de activiteiten te delen.</li>
+<li>Bespreek veelvoorkomende fouten of misvattingen.</li>
+<li>Beantwoord eventuele vragen of onduidelijkheden.</li>
+</ul></li>
+
+<li><b><b>Samenvatting en Vragen (00:40-00:45)</b></b>
+<ul class="org-ul">
+<li>Herhaal de belangrijkste concepten: significante cijfers, meetonzekerheid, en afronden.</li>
+<li>Open de vloer voor eventuele laatste vragen.</li>
+<li>Geef aanvullende bronnen indien nodig.</li>
+</ul></li>
+</ol>
+
+
+<p>
+### <b><b>Diagnostische vragen</b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Vraag</b></b></th>
+<th scope="col" class="org-left"><b><b>Antwoord</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b><b>1. Wat zijn significante cijfers?</b></b></td>
+<td class="org-left">Significante cijfers zijn de cijfers in een meting waarvan je zeker bent, inclusief alle cijfers tot en met de eerste niet-nul cijfers.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>2. Hoe bepaal je het aantal significante cijfers in het getal 4,47?</b></b></td>
+<td class="org-left">Het getal 4,47 heeft drie significante cijfers: 4, 4 en 7.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>3. Hoeveel significante cijfers heeft het getal 0,002?</b></b></td>
+<td class="org-left">Het getal 0,002 heeft één significante cijfer: 2.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>4. Wat betekent het als een getal in wetenschappelijke notatie wordt weergegeven?</b></b></td>
+<td class="org-left">Het aantal significante cijfers is gelijk aan het aantal cijfers in de significante figuur, ongeacht de exponent.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>5. Hoeveel significante cijfers heeft het getal 8500?</b></b></td>
+<td class="org-left">Het getal 8500 kan vier significante cijfers hebben als de trailing zeros als significant worden beschouwd, anders twee significante cijfers.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>6. Wat is de formule om de activiteit (A) van een radioactieve stof te berekenen?</b></b></td>
+<td class="org-left">A = (ln(2) / halveringstijd) × aantal kernen.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>7. Hoe beïnvloedt de halveringstijd de activiteit van een radioactieve stof?</b></b></td>
+<td class="org-left">Hoe korter de halveringstijd, hoe hoger de activiteit, omdat kernen sneller vervallen.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>8. Wat is het effect van het aantal kernen op de activiteit?</b></b></td>
+<td class="org-left">De activiteit is recht evenredig met het aantal kernen: meer kernen betekent een hogere activiteit.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>9. Wat betekent een halveringstijd van 8 dagen voor de activiteit van een stof?</b></b></td>
+<td class="org-left">Na 8 dagen is de helft van de kernen vervallen, dus de activiteit is ook gehalveerd.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>10. Hoe schrijf je de onzekerheid van een meting op?</b></b></td>
+<td class="org-left">Onzekerheid kan worden uitgedrukt als een absoluut getal (± waarde) of als een percentage van de meting.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>11. Wat is het verschil tussen significante cijfers en het aantal cijfers in een getal?</b></b></td>
+<td class="org-left">Significante cijfers zijn de cijfers waarvan je zeker bent, terwijl het aantal cijfers ook niet-significante cijfers kan omvatten (zoals voorloopnullen).</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>12. Hoe kan je de precisie van een meting afleiden uit het aantal significante cijfers?</b></b></td>
+<td class="org-left">Hoe meer significante cijfers, hoe preciezer de meting.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>13. Hoe reken je het aantal kernen uit van een gegeven massa van een radioactieve stof?</b></b></td>
+<td class="org-left">Deel de massa door de massa van één atoom en vermenigvuldig met Avogadro's getal indien nodig.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>14. Hoeveel significante cijfers zijn er in 21,7 graden Celsius als het gaat om temperatuurmetingen?</b></b></td>
+<td class="org-left">21,7 heeft drie significante cijfers.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>15. Hoe beïnvloedt afronden de nauwkeurigheid van een getal?</b></b></td>
+<td class="org-left">Afronden kan de precisie verminderen omdat het aantal significante cijfers kan afnemen.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-03 Tue 13:31</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
