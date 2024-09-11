@@ -1,0 +1,202 @@
+#+TITLE: NATUURKUNDE: LEERTIPS
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+
+* mindset
+
+
+| Stap | Actie                                                       | Tips                                                                                                                                                             |
+|------+-------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3    | Ontwikkel probleemoplossende reflexen                        | "Door goede reflexen te ontwikkelen, kun je de hoeveelheid denkwerk die je moet verrichten om problemen op te lossen, verminderen."                                                        |
+| 14   | Automatiseer goede gewoontes om de valkuil van het 'echte examen' te vermijden | "Vermijd de onbewuste valkuil van 'Ik zou het beter kunnen doen in een echte examensituatie.' Dwing jezelf om altijd je beste werk te leveren, zodat je goede gewoontes aanleert."         |
+| 1    | Analyseer het probleem grondig                              | "De manier waarop u problemen analyseert, oplost en presenteert, bepaalt uw succes."                                                                                                         |
+| 4    | Leer fouten te vinden en te corrigeren zonder angst         | "Leer hoe je fouten kunt vinden en corrigeren, maar wees er niet bang voor. Denk: 'Ik kan dit probleem oplossen.'"                                                                         |
+| 6    | Organiseer methoden om fouten te vangen en te corrigeren    | "Fouten zijn onvermijdelijk, maar met georganiseerde methoden kunt u ze opsporen en corrigeren."                                                                                             |
+| 2    | Documenteer aannames, tekeningen, symbolen, algebra en resultaten | "Documenteer uw opgeloste problemen met expliciete aannames, tekeningen, symbooldefinities, volledige algebra en duidelijk geformuleerde resultaten."                                   |
+| 5    | Doe de oplossing opnieuw na een fout in plaats van deze herhaaldelijk te bekijken | "Als je eenmaal een fout maakt, is het moeilijk om die te vinden. Daarom is het beter om de oplossing opnieuw te doen dan er steeds weer overheen te gaan."                                |
+| 7    | Schrijf elke stap en voorwaarde expliciet op                 | "Een fout in een stap die niet is opgeschreven, zal alleen door uw examinator worden gevonden."                                                                                             |
+| 8    | Laat niets in je hoofd zitten, schrijf elke stap op         | "Als je elke stap van een oplossing opschrijft, elke voorwaarde expliciet vermeldt en niets in je hoofd houdt, geef je jezelf in ieder geval de kans om fouten te vinden."                |
+| 9    | Analyseer het soort informatie dat nodig is om problemen op te lossen | "Door de informatie te analyseren die je nodig hebt om problemen op te lossen, kun je jezelf de juiste vragen stellen tijdens het leren."                                                  |
+| 10   | Classificeer en beschrijf elke vergelijking terwijl je deze leert | "Bereid je voor op het kiezen van de juiste vergelijkingen door elke vergelijking te classificeren en te beschrijven terwijl je deze leert."                                               |
+| 11   | Classificeer vergelijkingen als definitie, wet of specifieke oplossing | "Classificeer elke vergelijking als een definitie, een fundamentele wet of de oplossing van een bepaald probleem."                                                                        |
+| 12   | Vraag welk probleem elke vergelijking helpt oplossen         | "Vraag jezelf bij elke vergelijking af: Welk soort probleem zou deze vergelijking mij kunnen helpen oplossen?"                                                                              |
+| 13   | Schrijf speciale voorwaarden op bij het leren van vergelijkingen | "Een vergelijking geldt alleen onder bepaalde omstandigheden. Vermijd fouten door de juiste vergelijking te gebruiken, schrijf de speciale omstandigheden op wanneer u de vergelijking leert." |
+
+
+* werkwijze voor opgaven
+Door goede reflexen te ontwikkelen, kun je de hoeveelheid denkwerk die je moet verrichten om problemen op te lossen, verminderen.
+
+** gegeven
+
+
+
+| Stap | Actie                                                | Tips                                                                                                                                                  |
+|------+------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | Schrijf een beschrijving van het probleem in één regel | "Schrijf een beschrijving van het probleem in één regel aan het begin. Deze eerste eenvoudige stap in het nadenken over het probleem laat je onthouden waar het probleem over ging." |
+| 2    | Definieer een symbool voor elke hoeveelheid aan het begin | "Definieer aan het begin van het probleem een ​​symbool voor elke hoeveelheid."                                                                                                 |
+| 3    | Stel het probleem met symbolen in en los het op     | "Los eerst het probleem met symbolen op."                                                                                                                                       |
+| 4    | Los op met symbolen om te zien hoe resultaten afhankelijk zijn van gegevens | "Als je met symbolen oplost, zie je hoe het resultaat afhankelijk is van de gegevens."                                                                                           |
+| 5    | Zet een complete lijst van de feiten op papier      | "Zet een complete lijst met de feiten van het probleem op papier, zodat je het boek kunt dichtslaan of niet meer naar het toetspapier voor dat probleem hoeft te kijken."             |
+| 6    | Ga terug en controleer of alle feiten correct zijn vermeld | "Zodra het hele probleem op papier staat, lees het probleem dan nog eens door en controleer of je alle feiten correct hebt genoteerd."                                          |
+| 7    | Teken een diagram                                  | "Teken een diagram."                                                                                                                                                            |
+| 8    | Geef de variabelen een naam                         | "Geef de variabelen een naam."                                                                                                                                                   |
+| 9    | Schrijf de eenheid voor elke hoeveelheid            | "Schrijf de eenheid voor elke hoeveelheid."                                                                                                                                      |
+| 10   | Verander eenheden waar nodig                        | "Eenheden wijzigen."                                                                                                                                                            |
+| 11   | Componenten van vectoren berekenen                  | "Bereken componenten van vectoren."                                                                                                                                            |
+| 12   | Schrijf de constanten op die nodig zijn voor de oplossing | "Schrijf de constanten op die je nodig hebt om het probleem op te lossen."                                                                                                        |
+
+
+
+
+** gevraagd
+ 
+
+| Stap | Actie                                           | Tips                                                                                                                      |
+|------+-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | Zorg ervoor dat u het toegewezen probleem oplost | "Zorg ervoor dat je het toegewezen probleem oplost en de gevraagde oplossing vindt."                                                             |
+| 2    | Schrijf expliciet op wat je moet doen           | "Schrijf expliciet op wat je moet doen, bijvoorbeeld schatten of berekenen etc. (zie bijlage)."                                                   |
+| 3    | Kies een symbool voor de hoeveelheid die het antwoord zal zijn | "Controleer of je een symbool hebt gekozen voor de hoeveelheid die het antwoord zal zijn, ook al heb je geen idee wat het antwoord is."         |
+| 4    | Noteer de eenheden en significante cijfers van de gevraagde hoeveelheid | "Noteer de eenheden en significante cijfers van de gevraagde hoeveelheid."                                                                         |
+
+
+
+** formule
+
+| Stap | Actie                                                                                 | Tips                                                                                                                       |
+|------+----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | Vraag wat constant is om de juiste formules te vinden                                  | "Om de juiste formules te vinden, moet je jezelf afvragen wat constant is: snelheid, versnelling, kracht, impuls, etc."                           |
+| 2    | Bereid je voor op het kiezen van vergelijkingen door gebruik te maken van eerder geclassificeerde vergelijkingen | "Toen je elke vergelijking classificeerde, bereidde je jezelf voor op het kiezen van de vergelijkingen om het probleem op te lossen."            |
+| 3    | Classificeer het probleem                                                                | "Je hebt vergelijkingen geclassificeerd; classificeer nu het probleem."                                                                          |
+| 4    | Bepaal het type probleem                                                                | "Heeft het probleem betrekking op beweging met constante versnelling, cirkelvormige beweging, krachten in evenwicht of andere categorieën?"     |
+| 5    | Vergelijk de probleemclassificatie met uw vergelijkingenlijst                           | "Vergelijk uw classificatie van het probleem met uw lijst met vergelijkingen om alle vergelijkingen behalve een paar uit te sluiten."             |
+| 6    | Kies vergelijkingen die gegeven hoeveelheden en gewenste resultaten met elkaar verbinden | "Kies de vergelijkingen die de hoeveelheden in de gegevensvergelijkingen, gewenste resultaten of beide met elkaar verbinden."                   |
+| 7    | Schrijf een paar woorden voor elke vergelijking om aan te geven wat je aan het oplossen bent | "Before you write any equations, write a few words saying what you are trying to find."                                                         |
+| 8    | Schrijf de voorwaarden op die van toepassing zijn op het probleem                       | "Schrijf de voorwaarden op die van toepassing zijn op het probleem, zoals 'constante versnelling' of 'energie blijft behouden.'"                 |
+| 9    | Schrijf elke vergelijking in de oorspronkelijke vorm voordat u deze toepast             | "Schrijf elke vergelijking eerst in de oorspronkelijke vorm voordat je deze in je probleem gebruikt."                                             |
+
+** uitwerking
+
+| Stap | Actie                                                               | Tips                                                                                                           |
+|------+---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | Algebra opsplitsen met korte beschrijvingen                           | "Algebra is een gecondenseerde manier om ideeën uit te drukken. Verdeel algebra met korte beschrijvingen."                              |
+| 2    | Werk de pagina af                                                    | "Werk de pagina af."                                                                                                                   |
+| 3    | Schrijf op één kant van het papier                                   | "Schrijf op één kant van het papier."                                                                                                 |
+| 4    | Gebruik horizontale lijnen om delen van de oplossing te scheiden    | "Gebruik horizontale lijnen om delen van de oplossing te scheiden."                                                                  |
+| 5    | Gebruik vakken voor antwoorden en beschrijf de resultaten            | "Gebruik kaders voor antwoorden en schrijf korte zinnen om de resultaten te beschrijven."                                             |
+| 6    | Schrijf duidelijk en mooi                                            | "Schrijf duidelijk, je handschrift onthult je houding. Doe het rustig aan en schrijf mooi!"                                            |
+| 7    | Schrijf alles op, vermijd feiten in je hoofd te houden                | "Schrijf alles op. Feiten die je in je hoofd hebt, kun je niet controleren op fouten of later begrijpen."                             |
+| 8    | Doe één stap tegelijk                                                 | "Doe één stap tegelijk."                                                                                                               |
+| 9    | Schrijf elke algebraïsche stap op                                     | "Schrijf elke algebraïsche stap op om fouten te voorkomen."                                                                           |
+| 10   | Vermijd enkele algebrafouten omdat deze de volgende stappen beïnvloeden | "Eén enkele fout in de algebra zorgt ervoor dat alle volgende stappen fout zijn."                                                     |
+| 11   | Kopieer symbolen correct van de ene stap naar de volgende            | "Kopieer symbolen correct van de ene stap naar de volgende."                                                                          |
+| 12   | Controleer elke algebraïsche stap zorgvuldig                         | "Controleer elke algebraïsche stap en wees voorzichtig met exponenten, subscripten en negatieve tekens."                              |
+| 13   | Controleer de algebraïsche vorm van het resultaat voordat u getallen vervangt | "Controleer de algebraïsche vorm van elk resultaat, zolang het nog symbolen bevat, voordat je de getallen invoert."                    |
+| 14   | Controleer de eenheden van hoeveelheden in de symboolvergelijking      | "Een goede manier om algebraïsche fouten te controleren, is door naar de eenheden van alle grootheden in de symboolvergelijking te kijken." |
+| 15   | Voer een variatiecontrole uit                                         | "Maak een variatiecontrole."                                                                                                          |
+| 16   | Test met behulp van specifieke waarden zoals nul                      | "Controleer testcases: voer testwaarden van de getallen in om te zien of het resultaat logisch is. Nul is een van de beste testwaarden." |
+| 17   | Gebruik oneindigheid als testwaarde                                   | "Infinity is een andere nuttige testwaarde. Wat gebeurt er als een variabele naar oneindig gaat?"                                    |
+| 18   | Voer een benaderende berekening uit door getallen af te ronden        | "Maak een benaderende berekening, rond alle getallen af op één gemakkelijk cijfer en vergelijk met het nauwkeurige resultaat."          |
+| 19   | Controleer de grootte van het resultaat                               | "Controleer de grootte van het resultaat."                                                                                             |
+
+
+
+** uitkomst
+
+| Stap | Actie                                                                          | Tips                                                                                                                     |
+|------+---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | Vervang bekende getallen nadat u het resultaat in symbolen hebt geschreven      | "Nadat u het resultaat in symbolen hebt geschreven, vult u de bekende getallen in."                                                             |
+| 2    | Gebruik significante cijfers om de nauwkeurigheid aan te geven                  | "Gebruik significante cijfers om de nauwkeurigheid aan te geven."                                                                              |
+| 3    | Eenheden opnemen in het resultaat                                                | "Eenheden toevoegen."                                                                                                                            |
+| 4    | Gebruik voorvoegsels en wetenschappelijke notatie voor grote en kleine getallen | "Gebruik voorvoegsels en wetenschappelijke notatie om grote en kleine getallen gemakkelijk te schrijven."                                      |
+| 5    | Presenteer de resultaten duidelijk en zet ze in een kader om ze te benadrukken | "Presenteer uw resultaten zodat ze direct gevonden kunnen worden en zet ze in een kader om ze te benadrukken."                                  |
+| 6    | Zorg ervoor dat het resultaat een symbool, gelijkteken, getal, eenheid en een beschrijving bevat | "Het resultaat moet een symbool, een gelijkteken, een getal, de eenheid ervan en een zin die het beschrijft bevatten."                           |
+
+
+
+* veelvoorkomende fouten
+
+** Strategische en technische fouten
+| Bovenliggende categorie | 	Categorie              | 	Fouttypen                                                                    | 	Foutbeschrijvingen/voorbeelden                                               | 	Remedie                                                           |
+|-------------------------+--------------------------------+--------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+---------------------------------------------------------------------------|
+| Methodologie en strategie        | Ontwerp- en organisatiefouten   | Slechte organisatie van berekeningen         | Het niet op één lijn brengen van getallen en het niet opdelen van berekeningen in hanteerbare stappen. | "Ik organiseer mijn berekeningen netjes en duidelijk."                    |
+|                                  |                                | Slechte probleemrepresentatie               | Het probleem niet nauwkeurig weergeven (bijvoorbeeld verkeerde richtingen in krachten). | "Ik breng problemen nauwkeurig in beeld en visualiseer ze helder."         |
+|                                  | Fouten controleren/beoordelen   | Het niet controleren van de oplossing op redelijkheid of op grensgevallen | Oplossingen niet valideren met controles of tests.                              | "Ik controleer mijn oplossingen altijd op redelijkheid en nauwkeurigheid."|
+|                                  |                                | Het niet hardop kunnen denken               | Stappen niet hardop uitspreken tijdens het oplossen van problemen.              | "Ik spreek mijn denkproces uit en documenteer het terwijl ik een probleem oplos." |
+|                                  | Slechte volharding             | Te vroeg opgeven of problemen niet systematisch oplossen | Het niet aanpakken van de uitdagende aspecten van een probleem.                  | "Ik ben volhardend en pak alle problemen systematisch aan."               |
+|                                  | Trainingsfouten                | Gebrek aan gestructureerde, op vaardigheden gebaseerde training | Het niet creëren van een systematische trainingsroutine om het probleemoplossend vermogen te verbeteren. | "Ik ontwikkel en volg een gestructureerd trainingsplan om te verbeteren." |
+
+** Analytische fouten
+| Bovenliggende categorie | 	Categorie              | 	Fouttypen                                                                    | 	Foutbeschrijvingen/voorbeelden                                               | 	Remedie                                                           |
+|-------------------------+--------------------------------+--------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+---------------------------------------------------------------------------|
+| Cognitieve en analytische processen | Fouten bij probleemanalyse      | Het niet kunnen ontleden van complexe problemen | Een probleem niet opdelen in eenvoudigere delen.                                | "Ik verdeel complexe problemen in hanteerbare stappen."                   |
+|                                  |                                | Onjuiste aanname van variabelen of eigenschappen | Ongerechtvaardigde aannames doen over probleemvariabelen.                       | "Ik onderbouw alle aannames zorgvuldig voordat ik verderga."              |
+|                                  | Redeneerfouten                  | Inconsistente interpretatie van termen      | Het gebruiken van verschillende betekenissen voor dezelfde term in verschillende delen van het probleem. | "Ik interpreteer termen consistent en nauwkeurig."                        |
+|                                  |                                | Verkeerde conclusies trekken                | Overhaaste conclusies trekken zonder goed na te denken.                          | "Ik trek weloverwogen en weloverwogen conclusies."                         |
+|                                  | Veronderstellingsfouten         | Het niet kunnen rechtvaardigen van aannames | Veronderstellingen maken zonder uitleg.                                         | "Ik zorg ervoor dat mijn aannames volledig gerechtvaardigd zijn."        |
+|                                  | Onnauwkeurigheid in denken/lezen | Probleemstellingen verkeerd interpreteren of belangrijke details overslaan | Te snel lezen, belangrijke informatie missen of verkeerd interpreteren.         | "Ik lees de tekst zorgvuldig en grondig, en zorg ervoor dat ik hem volledig begrijp." |
+|                                  | Zwakte in reflectie/extensie    | Het niet reflecteren op het probleemoplossingsproces of het stellen van 'wat als'-scenario's | Het oplossingsproces niet uitbreiden of kritisch analyseren.                    | "Ik denk na over mijn oplossingen en onderzoek alternatieve benaderingen." |
+
+** Wiskundige fouten 
+| Bovenliggende categorie | 	Categorie              | 	Fouttypen                                                                    | 	Foutbeschrijvingen/voorbeelden                                               | 	Remedie                                                           |
+|-------------------------+--------------------------------+--------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+---------------------------------------------------------------------------|
+| Wiskundige bewerkingen  | Algebraïsche fouten            | Algebraïsche manipulatiefouten                                                       | Fouten bij vereenvoudiging of herschikking.                                          | "Ik vereenvoudig en herschik algebraïsche uitdrukkingen met precisie."    |
+|                         |                                | Onjuiste substitutie in formules                                                     | Het verkeerdelijk invullen van waarden in vergelijkingen.                            | "Ik vul waarden correct en zorgvuldig in formules in."                    |
+|                         |                                | Verkeerde plaatsing/weglating van haakjes of vierkante haken                         | Het niet handhaven van de juiste wiskundige structuur.                               | "Ik plaats haakjes en vierkante haken altijd op de juiste manier."        |
+|                         |                                | Teken fouten                                                                         | Verkeerd gebruik van positieve en negatieve tekens.                                  | "Ik ben extreem nauwkeurig met tekens in berekeningen."                   |
+|                         |                                | Exponentfouten                                                                       | Vergeten exponenten toe te passen of deze verkeerd toe te passen.                    | "Ik pas exponenten consequent nauwkeurig toe in alle berekeningen."       |
+|                         | Rekenkundige fouten            | Basis rekenfouten                                                                    | Fouten bij optellen, aftrekken, vermenigvuldigen of delen.                           | "Ik voer eenvoudige rekenkundige bewerkingen nauwkeurig uit."             |
+|                         |                                | Afrondingsfouten                                                                     | Getallen te vroeg of onnauwkeurig afronden.                                          | "Ik rond getallen op de juiste manier af en zorg voor precisie."          |
+|                         |                                | Fouten bij het invoeren van rekenmachines                                            | Verkeerde getallen invoeren op rekenmachines.                                        | "Ik voer getallen nauwkeurig in de rekenmachine in."                      |
+|                         | Dimensionale analysefouten     | Onjuiste opstelling van dimensionale vergelijkingen                                  | Het niet correct gebruiken van eenheden in vergelijkingen.                           | "Ik stel dimensionale vergelijkingen correct en consistent op."           |
+|                         | Eenheidsfouten                 | Eenheid inconsistentie/conversie fouten                                              | Vergeten eenheden in te vullen of onjuiste eenheidsomrekeningen.                     | "Ik gebruik altijd eenheden in mijn berekeningen en zet deze correct om." |
+|                         | Notatiefouten                  | Inconsistente notatie                                                                | Verschillende symbolen gebruiken voor dezelfde variabele of symbolen/waarden mengen. | "Ik gebruik een consistente notatie in al mijn oplossingen."              |
+|                         | Precisiefouten                 | Gebrek aan voldoende decimalen                                                       | Het mengen van benaderingen en exacte waarden.                                       | "Ik hanteer de juiste decimalen en nauwkeurigheid."                       |
+|                         | Fouten bij het mentaal rekenen | Fouten bij het afronden, vergeten van factoren of decimalen tijdens het hoofdrekenen | Factoren of decimalen vergeten tijdens snelle berekeningen.                          | "Ik voer hoofdrekenen nauwkeurig uit en controleer mijn resultaten."      |
+|                         | Transcriptiefouten             | Fouten bij het kopiëren van getallen/vergelijkingen                                  | Fouten bij het kopiëren van waarden of het vergeten van exponenten/machten.          | "Ik schrijf getallen en vergelijkingen zorgvuldig en nauwkeurig over."    |
+|                         | Geheugenfouten                 | Onjuist ophalen van formules/constanten                                              | Het gebruiken van verkeerde formules of waarden uit het geheugen.                    | "Ik kan formules en constanten nauwkeurig en met vertrouwen onthouden."   |
+|                         | Trigonometrie fouten           | Onjuist gebruik van trigonometrische functies bij hoekproblemen                      | Het verkeerd gebruiken van sinus, cosinus, etc. in relevante problemen.              | "Ik gebruik trigonometrische functies correct in alle berekeningen."      |
+
+** Communicatie fouten
+
+* Appendix: opgaven en examen bepalingen
+
+Bij het **nakijken** van een **antwoord** op een vraag houdt je **docent** rekening met de betekenis van bepaalde woorden die in de vraag staan. Is er bijvoorbeeld een opdracht waarbij je een **berekening** moet maken, dan krijg je alleen het volledig aantal punten als je een berekening hebt gegeven bij de **uitkomst**.
+
+** Bereken
+Je beantwoordt de vraag in de vorm van een **berekening**. De **gegevens** staan in de opgave en/of in **BINAS**. Je mag niet alleen de **uitkomst** van de berekening geven. Je moet ook laten zien welke **denkstappen** je hebt gezet, welke **formules** of **principes** je hebt toegepast en welke gegevens je daarbij hebt gebruikt.
+
+** Bepaal
+Je beantwoordt de vraag door gebruik te maken van **gegevens** in **grafieken** of **figuren** of door een **constructie** te maken. Ook nu mag je niet alleen de **uitkomst** geven. Je moet aangeven hoe je aan die **gegevens** bent gekomen. Voer je met de gegevens een **berekening** uit, dan geldt ook wat er bij ‘**Bereken**’ staat.
+
+** Construeer
+Je beantwoordt de opgave in de vorm van een **tekening** of een **diagram**. De tekening of het diagram moet precies kloppen met de **waarden**. Je gebruikt hierbij een **geodriehoek** en/of een **passer**. Je laat zien welke **denkstappen** je hebt gezet, welke **formules** of **principes** je hebt toegepast en welke gegevens je daarbij hebt gebruikt.
+
+** Teken
+Je beantwoordt de opgave in de vorm van een **tekening** of een **diagram**. De tekening of het diagram moet precies kloppen met de **waarden**, maar je hoeft niet te laten zien hoe je aan het antwoord bent gekomen. Bij een **diagram** moet een **assenstelsel** met **schaalverdeling** zijn weergegeven. Het assenstelsel moet voorzien zijn van **grootheden** en **eenheden**.
+
+** Schets
+Je beantwoordt de opgave in de vorm van een **tekening** of een **diagram**. De bedoeling van de **schets** moet duidelijk zijn, zonder dat de **waarden** precies hoeven te kloppen. Ook bij een schets hoef je niet te laten zien hoe je aan het antwoord bent gekomen.
+
+** Beredeneer/Leg uit
+Je beantwoordt de opgave in de vorm van een **verhaaltje**. Je moet laten zien welke **denkstappen** je hebt gezet, welke **formules** of **principes** je hebt toegepast en welke **gegevens** je daarbij hebt gebruikt.
+
+** Noem, geef (aan), wat, welke, wanneer, hoeveel
+Je geeft alleen het **antwoord**, tenzij erbij vermeld staat: ‘**Licht toe**’. Dan moet je aangeven hoe je aan je antwoord bent gekomen.
+
+** Leid af
+Je beantwoordt de vraag met behulp van **wiskundige bewerkingen** van de **gegevens** en/of bekende **formules**. Je moet laten zien welke **denkstappen** je hebt gezet, welke **formules** of **principes** je hebt toegepast en welke gegevens je daarbij hebt gebruikt. Moet je een **formule** afleiden, dan is een **getallenvoorbeeld** geen afleiding. Ook controleren of de **eenheden** links en rechts met elkaar in overeenstemming zijn, is geen afleiding.
+
+** Toon aan of / Laat zien of
+Je laat aan de hand van een **berekening** of **redenering** zien of een gegeven **waarde** en/of **bewering** correct is. Je laat zien welke **denkstappen** je hebt gezet, welke **formules** of **principes** je hebt toegepast en welke **gegevens** je daarbij hebt gebruikt. Je eindigt je antwoord met een **conclusie**.
+
+** Toon aan dat / Laat zien dat
+Je laat aan de hand van een **berekening** of **redenering** zien dat een gegeven **waarde** en/of **bewering** correct is. Je laat zien welke **denkstappen** je hebt gezet, welke **formules** of **principes** je hebt toegepast en welke **gegevens** je daarbij hebt gebruikt. Nu is een **conclusie** echter niet nodig.
+
+** Schat
+Je geeft de waarde van een **grootheid** aan, zonder deze exact te bepalen. Je kunt niet volstaan met alleen de **uitkomst** van de schatting te geven. Uit je antwoord moet duidelijk blijken welke **denkstappen** je hebt gezet, welke **formules** of **principes** je hebt toegepast en welke **gegevens** je daarbij hebt gebruikt.
