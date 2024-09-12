@@ -1,0 +1,627 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+
+| Term                        | Definitie                                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Aarding                       | Een veiligheidsvoorziening die elektrische apparaten verbindt met de aarde om elektrische schokken te voorkomen.  |
+| Aarding                                 | Een veiligheidsmaatregel die elektrische installaties verbindt met de aarde om elektrische schokken te voorkomen.        |
+| Aardlekschakelaar             | Een veiligheidsvoorziening die elektrische stroom uitschakelt wanneer er lekstroom naar de aarde optreedt, wat kan duiden op een elektrisch defect of gevaar. |
+| Aardlekschakelaar                       | Een apparaat dat elektrische circuits uitschakelt bij lekstroom om de veiligheid van gebruikers te waarborgen.            |
+| Aardmagnetisch veld          | Het magnetische veld dat wordt geproduceerd door de beweging van gesmolten ijzer in de buitenkern van de aarde.   |
+| Absorptie van licht            | Het proces waarbij lichtenergie wordt geabsorbeerd door een materiaal en omgezet in andere vormen van energie.   |
+| Absorptie spectrum             | Het spectrum van licht dat door een materiaal wordt geabsorbeerd.                                               |
+| Absorptiespectrum             | Een spectrum van elektromagnetische straling waarbij bepaalde golflengten worden geabsorbeerd door een materiaal, resulterend in donkere lijnen in het spectrum. |
+| Activiteit                    | De snelheid waarmee een radioactieve bron kernen vervalt, gemeten in becquerel (Bq) of curie (Ci).                     |
+| Activiteit                    | De snelheid waarmee radioactieve isotopen vervallen, uitgedrukt in het aantal vervallen kernen per seconde.   |
+| Afgeleide eenheden          | Eenheden die worden afgeleid van basiseenheden door middel van wiskundige operaties, zoals snelheid (m/s), versnelling (m/s²), enzovoort. |
+| Afgeleide grootheden               | Grootheden verkregen door wiskundige combinaties van basiseenheden, zoals snelheid (afstand gedeeld door tijd).      |
+| Afgeleide eenheden                 | Eenheden afgeleid van basiseenheden van het SI-stelsel door wiskundige bewerkingen.                                   |
+| Afstand tussen moleculen   | De gemiddelde afstand tussen de individuele moleculen in een materiaal.                                      |
+| Afstanden in het heelal            | De enorme schalen waarop afstanden worden gemeten tussen hemellichamen in het universum.                        |
+| Algemene gaswet            | Een wet die de relatie beschrijft tussen druk, volume en temperatuur van een gas, zoals de wet van Boyle, Charles en Gay-Lussac. |
+| Algemene relativiteit           | De theorie die de zwaartekracht beschrijft als een kromming van de ruimtetijd door massa en energie.              |
+| Amplitude                    | De maximale uitwijking of verplaatsing van een trillend object vanuit zijn evenwichtspositie.                     |
+| Amplitude                           | De maximale afwijking van een trillende beweging vanaf de evenwichtspositie.                                      |
+| Analoog-digitaal signaal      | Een signaal dat zowel continue (analoog) als discrete (digitaal) waarden kan aannemen.                           |
+| Analoog-digitaal omzetter     | Een apparaat dat analoge signalen omzet in digitale vorm.                                                         |
+| Annihilatie                         | Het proces waarbij een deeltje en zijn antideeltje elkaar ontmoeten en volledig omgezet worden in energie.           |
+| Arbeid                         | De maat voor de overdracht van energie die plaatsvindt wanneer een kracht een object verplaatst over een bepaalde afstand. |
+| Arbeid verricht door een kracht| De hoeveelheid energie die wordt overgedragen wanneer een kracht een object verplaatst over een bepaalde afstand. |
+| Arbeid langs een kromme baan   | De totale hoeveelheid arbeid die wordt verricht door een kracht wanneer een object langs een niet-rechte weg wordt verplaatst. |
+| Arbeid en verandering van snelheid | De relatie tussen de arbeid verricht door een kracht en de verandering van snelheid van een object, zoals beschreven door de wet van arbeid en kinetische energie. |
+| Arbeid                            | De hoeveelheid energie die wordt overgedragen wanneer een kracht wordt toegepast over een afstand.   |
+| Atoombouw                     | De structuur van atomen, inclusief hun samenstelling van protonen, neutronen en elektronen.                           |
+| Atoombouw                     | De structuur en samenstelling van atomen, inclusief hun kernen en elektronenschillen.                        |
+| Atoommodel van Bohr            | Een model dat de elektronen in een atoom beschrijft als zich in discrete energieniveaus rond de kern bewegend.       |
+| Atoommodel van Rutherford            | Een atoommodel waarin een kleine, dichte positief geladen kern wordt omringd door negatief geladen elektronen.      |
+| Atoommodel van Thomson              | Een atoommodel waarin elektronen gelijkmatig verdeeld zijn in een positief geladen bolvormige massa.                |
+| Atoomnummer                         | Het aantal protonen in de kern van een atoom, wat het atoom zijn identiteit geeft in het periodiek systeem.           |
+| Baansnelheid                  | De snelheid waarmee een object zich beweegt langs zijn baan, gerelateerd aan de omloopsnelheid in een cirkelbeweging. |
+| Baansnelheid                       | De snelheid waarmee een object zich beweegt langs zijn baan in een cirkelbeweging.                               |
+| Banen van satellieten          | De paden die kunstmatige satellieten volgen rond een hemellichaam, zoals de aarde, inclusief geostationaire, polaire en andere baanconfiguraties. |
+| Barionen                            | Deeltjes bestaande uit drie quarks, zoals protonen en neutronen.                                                     |
+| Bedrading                     | De fysieke verbindingen tussen elektrische componenten in een circuit.                                            |
+| Bedrading                               | Draden die worden gebruikt om elektrische circuits aan te leggen en elektrische componenten met elkaar te verbinden.    |
+| Beeldvorming door lens         | Het proces waarbij een lens lichtstralen buigt om een beeld te vormen.                                           |
+| Behoud van leptongetal               | Het principe dat het totale leptongetal van een systeem behouden blijft in de loop van tijd in bepaalde fysische processen. |
+| Bestraling en besmetting      | Blootstelling aan ioniserende straling van buitenaf (bestraling) of het inwendige van het lichaam (besmetting). |
+| Bestralingsbesmetting          | Blootstelling aan radioactieve materialen die zich aan het lichaam hechten, wat kan leiden tot interne stralingsblootstelling. |
+| Beveiliging                             | Maatregelen of apparaten die worden gebruikt om elektrische installaties en apparatuur te beschermen tegen schade.      |
+| Beweging van planeten          | De orbitale beweging van hemellichamen rond een centrale ster, zoals de aarde die om de zon draait.              |
+| Beweging van sterren           | De beweging van sterren door de ruimte, inclusief hun rotatie om hun as en hun beweging door ons sterrenstelsel.   |
+| Beweging van de aarde               | De periodieke rotatie om haar eigen as en de omloop om de Zon.                                                   |
+| Beweging van de maan                | De omloop van de maan rond de aarde.                                                                             |
+| Beweging van planeten              | De banen die planeten volgen onder invloed van de zwaartekracht van de zon.                                      |
+| Bijas                          | De denkbeeldige lijn die loodrecht door het midden van een lens loopt.                                           |
+| Binair stelsel                | Het getallenstelsel gebaseerd op het binaire systeem, dat gebruikmaakt van slechts twee cijfers (0 en 1).        |
+| Binaire getallen              | Getallen die worden uitgedrukt in het binaire stelsel, bestaande uit slechts twee cijfers: 0 en 1.               |
+| Bits                          | De kleinste eenheid van digitale informatie, met een waarde van 0 of 1.                                         |
+| Blaasinstrumenten            | Muziekinstrumenten die geluid produceren door luchttrillingen, zoals fluiten, klarinetten en trompetten.          |
+| Blaasinstrumenten                   | Muziekinstrumenten waarbij geluid wordt geproduceerd door het trillen van lucht in een buis.                         |
+| Brandpunt                      | Het punt waar lichtstralen die door een lens zijn gebogen samenkomen of lijken samen te komen.                   |
+| Brandvlak                      | Het vlak waarin het brandpunt zich bevindt na breking door een lens.                                             |
+| Breking van licht              | Het fenomeen waarbij lichtstralen van richting veranderen wanneer ze een grens tussen twee verschillende media passeren. |
+| Breking van lichtstralen        | Het buigen van lichtstralen wanneer ze van het ene medium naar het andere gaan.                                 |
+| Breking door positieve lens     | Het proces waarbij lichtstralen gebogen worden bij het passeren van een positieve lens.                          |
+| Buigen van golf                | Het verschijnsel waarbij een lichtgolf van richting verandert wanneer deze van het ene medium naar het andere gaat. |
+| Buiging bij een spleet            | Het fenomeen waarbij lichtgolven zich verspreiden en interfereren wanneer ze door een enkele opening gaan.         |
+| Buiging bij een dubbele spleet    | Het verschijnsel waarbij lichtgolven interfereren na doorgang door twee smalle openingen, resulterend in een interferentiepatroon. |
+| Buiklijn                     | De punten op een staande golf waar de uitwijking maximaal is.                                                    |
+| Bytes                         | Een eenheid van digitale informatie bestaande uit een aaneenschakeling van 8 bits.                              |
+| CT-scan                       | Een computertomografiebeeld dat wordt verkregen door röntgenstraling te gebruiken om dwarsdoorsneden van het lichaam te maken, die vervolgens worden samengevoegd tot een 3D-beeld. |
+| CT-scan                       | Een medische beeldvormingstechniek die een reeks röntgenstralen gebruikt om gedetailleerde dwarsdoorsnedebeelden van het lichaam te maken. |
+| Chemische eigenschappen    | De kenmerken van een stof die betrekking hebben op de reacties en interacties met andere stoffen op moleculair niveau. |
+| Chemische energie              | De energie die is opgeslagen in de chemische bindingen van moleculen en die kan worden vrijgegeven tijdens chemische reacties. |
+| Chemische energie                 | De energie die opgeslagen is in de chemische bindingen van een stof.                                   |
+| Cirkelvormige golf                | Een golffront dat zich uitbreidt in alle richtingen vanuit een puntbron, waarbij elke punt op het front gelijkwaardige sferische golven genereert. |
+| Comparator                    | Een elektronisch circuit dat twee signalen vergelijkt en aangeeft of ze gelijk zijn, en zo niet, welke groter is. |
+| Componenten van kracht     | De individuele krachten langs de gekozen assen die samen de oorspronkelijke kracht vormen.                  |
+| Componenten van een kracht         | De afzonderlijke krachten die samenwerken om de oorspronkelijke kracht te produceren.                   |
+| Composieten             | Materialen die zijn samengesteld uit twee of meer verschillende materialen met verschillende eigenschappen, om zo synergetische eigenschappen te verkrijgen. |
+| Constante snelheid          | Een snelheid waarmee een object zich met gelijke mate voortbeweegt in een bepaalde richting zonder te versnellen of te vertragen. |
+| Constante snelheid                 | Een snelheid die niet verandert in de loop van de tijd.                                                 |
+| Cowan-Raines neutrino experiment     | Een experiment waarbij Frederick Reines en Clyde Cowan voor het eerst neutrino's detecteerden in 1956.              |
+| De eerste wet van Newton   | Ook bekend als de wet van de traagheid, deze stelt dat een object in rust blijft of met constante snelheid beweegt tenzij er een resulterende kracht op werkt. |
+| De tweede wet van Newton   | De wet die de relatie beschrijft tussen kracht, massa en versnelling, gegeven door de formule F = ma.        |
+| De derde wet van Newton    | Ook bekend als de wet van actie en reactie, deze stelt dat voor elke actiekracht er een gelijke maar tegengestelde reactiekracht is. |
+| De Broglie golflengte              | De golflengte geassocieerd met een deeltje, zoals voorgesteld door de golf-deeltje dualiteit van de Broglie-relatie. |
+| Deeltje in een doos               | Een eenvoudig kwantummechanisch model dat een deeltje beschrijft dat is opgesloten in een oneindig diepe potentiaalput. |
+| Deeltjes botsing                    | Een gebeurtenis waarbij twee of meer deeltjes fysiek tegen elkaar botsen.                                           |
+| Deeltjes detecteren                 | Het proces van het identificeren en meten van subatomaire deeltjes.                                                   |
+| Deeltjes versnellen                 | Het proces van het verhogen van de snelheid van subatomaire deeltjes, vaak gebruikt in deeltjesversnellers.           |
+| Deeltjesversneller                  | Een apparaat dat de snelheid van geladen deeltjes verhoogt voor onderzoek naar de fundamenten van de materie.         |
+| Diagrammen van kromme naar rechte | Het proces van het omzetten van grafieken met een niet-lineair verband naar grafieken met een lineair verband door middel van geschikte transformaties. |
+| Dichtheid                  | De massa per volume-eenheid van een stof.                                                                     |
+| Dichtheid                          | De massa per volume-eenheid van een stof.                                                                             |
+| Diode                         | Een halfgeleiderapparaat dat elektrische stroom slechts in één richting doorlaat.                                |
+| Diode                                   | Een halfgeleiderapparaat dat elektrische stroom toestaat in één richting.                                               |
+| Doordringend vermogen         | Het vermogen van straling om door materialen of weefsels te reizen voordat het wordt geabsorbeerd.                     |
+| Doorlichting                 | Een techniek waarbij röntgenstraling door het lichaam wordt gestuurd om interne structuren te visualiseren, zoals bij screeningsonderzoeken. |
+| Dopplereffect                 | Het verschijnsel waarbij de frequentie van golven verandert als de bron of de ontvanger van de golven relatief beweegt, vaak gebruikt om de snelheid van sterren en andere hemellichamen te meten. |
+| Dopplereffect                  | Het verschijnsel waarbij de frequentie van waargenomen golven verandert als gevolg van de relatieve beweging tussen de bron van de golven en de waarnemer. |
+| Dosimeter                     | Een apparaat dat de hoeveelheid straling meet waaraan een persoon is blootgesteld.                           |
+| Dosismeter                    | Een apparaat dat wordt gebruikt om de blootstelling aan ioniserende straling te meten, zoals gedragen door werknemers in stralingsgevoelige omgevingen. |
+| Dracht en doordringend vermogen | De afstand die een stralingsdeeltje in een bepaald materiaal kan afleggen voordat het stopt en het vermogen van straling om door materialen te dringen. |
+| Drachtvermogen                | Het vermogen van straling om door materialen of weefsels te reizen zonder te worden geabsorbeerd.                      |
+| Dradenkamer                         | Een type detectiesysteem dat gebruikmaakt van draden om de paden van geladen deeltjes te registreren.                |
+| Drie soorten neutrino's              | De drie bekende soorten neutrino's: elektron-neutrino, muon-neutrino en tau-neutrino.                                |
+| Druk                       | De kracht per oppervlakte-eenheid die wordt uitgeoefend op een oppervlak.                                    |
+| Druk van een gas           | De kracht die wordt uitgeoefend door de gasmoleculen op de wanden van de container.                           |
+| Dubbel spleetexperiment met elektronen | Een experiment waarbij elektronen worden uitgezonden door twee smalle spleten, wat resulteert in een interferentiepatroon dat golfeigenschappen van elektronen aantoont. |
+| Duurzaamheid            | De eigenschap van materialen om langdurig te functioneren met minimale invloed op het milieu, vaak gericht op hergebruik, recycling en verminderde afvalproductie. |
+| Dynamo                       | Een apparaat dat mechanische energie omzet in elektrische energie door magnetische inductie.                       |
+| Echografie                    | Een medische beeldvormingstechniek die geluidsgolven gebruikt om interne structuren van het lichaam in real-time weer te geven. |
+| Echografie                    | Een medische beeldvormingstechniek die geluidsgolven gebruikt om afbeeldingen van structuren in het lichaam te produceren. |
+| Eenheid                     | Een vastgestelde maat waarmee een grootheid wordt gemeten, zoals meter, kilogram, seconde, kelvin, enzovoort.   |
+| Eenheid                            | Een vastgestelde maat waarmee een grootheid wordt gemeten, zoals meter, kilogram, seconde.                           |
+| Eenparig rechtlijnige beweging | Een beweging waarbij een object zich met constante snelheid langs een rechte lijn voortbeweegt.                  |
+| Eenparig versnelde beweging | Een beweging waarbij de snelheid van een object uniform toeneemt over de tijd.                                     |
+| Eenparig rechtlijnige beweging     | Een beweging waarbij een object met constante snelheid langs een rechte lijn beweegt.                   |
+| Eenparig versnelde beweging        | Een beweging waarbij de snelheid van een object verandert met een constante snelheid.                   |
+| Eenparige cirkelbeweging       | Beweging waarbij een object met constante snelheid een cirkelvormig pad volgt.                                   |
+| Eenparige cirkelbeweging           | Een beweging waarbij een object zich met constante snelheid in een cirkelvormig pad voortbeweegt.                |
+| Eerste wet van Newton                 | Ook bekend als de wet van de traagheid, stelt dat een object in rust blijft of met constante snelheid beweegt, tenzij er een resulterende kracht op wordt uitgeoefend. |
+| Effectieve dosis              | Een maat voor de schadelijkheid van straling voor levend weefsel, rekening houdend met de soort straling en de gevoeligheid van verschillende organen. |
+| Eigenschappen van krachten  | Kenmerken die van toepassing zijn op krachten, zoals richting, grootte, punt van toepassing en type kracht.  |
+| Electromagnetisch spectrum     | Het volledige scala aan elektromagnetische golflengten, variërend van radiofrequenties tot gammastraling.           |
+| Elektriciteitscentrale                  | Een faciliteit die elektrische energie produceert uit verschillende energiebronnen.                                     |
+| Elektrisch veld              | Een gebied rond geladen deeltjes waarin een elektrische kracht wordt uitgeoefend op andere ladingen.              |
+| Elektrische stroom            | De beweging van elektrisch geladen deeltjes, zoals elektronen, door een geleidend materiaal.                      |
+| Elektrische spanning          | Het potentiaalverschil tussen twee punten in een elektrisch circuit, dat de drijvende kracht is achter de beweging van elektrische ladingen. |
+| Elektrische componenten       | Apparaten die worden gebruikt in elektrische circuits om elektrische energie om te zetten of te regelen, zoals weerstanden, diodes en LED's. |
+| Elektrische lading           | Een fundamentele eigenschap van deeltjes die aangeeft hoe ze interageren via elektromagnetische krachten.         |
+| Elektrische energie          | De energie die wordt geassocieerd met elektrische ladingen als gevolg van hun positie in een elektrisch veld.      |
+| Elektrische energie                    | Energie die wordt overgedragen door elektrische ladingen in een elektrisch circuit.                                      |
+| Elektrische componenten                 | Apparaten die worden gebruikt in elektrische schakelingen voor verschillende doeleinden.                                |
+| Elektrochemische cel                    | Een apparaat dat chemische energie omzet in elektrische energie.                                                        |
+| Elektromagneet               | Een tijdelijke magneet die wordt geproduceerd door een stroom door een spoel te laten lopen, waardoor een magnetisch veld wordt gegenereerd. |
+| Elektromagnetisch spectrum         | Het volledige scala aan elektromagnetische golven, variërend van radiostraling tot gammastraling.                |
+| Elektromagnetische inductie  | Het proces waarbij een veranderend magnetisch veld een elektrische stroom opwekt in een nabijgelegen geleider.    |
+| Elektromagnetische golven      | Golven die bestaan uit elektrische en magnetische velden die zich door de ruimte voortplanten.               |
+| Elektromagnetisme            | Het gebied van de natuurkunde dat zich bezighoudt met de interactie tussen elektrische stromen en magnetische velden. |
+| Elektromotor                 | Een apparaat dat elektrische energie omzet in mechanische energie door de interactie tussen een magnetisch veld en elektrische stromen. |
+| Elektron in het waterstofatoom    | Een model dat het gedrag van een enkel elektron in een waterstofatoom beschrijft, waarbij orbitale eigenschappen worden bepaald door kwantummechanica. |
+| Elektronenmicroscoop               | Een instrument dat gebruikmaakt van elektronen in plaats van fotonen om structuren op nanometerschaal te visualiseren. |
+| Elementaire deeltjes generaties     | De verschillende generaties van elementaire deeltjes in het standaardmodel van de deeltjesfysica.                    |
+| Elementaire deeltjes                | De fundamentele deeltjes waaruit alle materie is opgebouwd, inclusief quarks, leptonen en bosonen.                   |
+| Emissie van licht              | Het proces waarbij energie wordt uitgestraald in de vorm van licht.                                             |
+| Emissie spectrum               | Het spectrum van licht dat wordt uitgezonden door een bron.                                                      |
+| Emissiespectrum               | Een spectrum van elektromagnetische straling waarbij bepaalde golflengten worden uitgezonden door een bron.         |
+| Energie                       | De capaciteit om arbeid te verrichten of warmte te produceren.                                                     |
+| Energie                         | De capaciteit van een systeem om werk te verrichten.                                                              |
+| Energiebalans                  | Een overzicht van de totale energie binnen een systeem, inclusief alle vormen van energie en hun interconversies. |
+| Energiebalans                     | De balans tussen de energie die een systeem binnenkomt en verlaat, volgens de wet van behoud van energie. |
+| Energiedichtheid                        | De hoeveelheid energie die per volumeof massa-eenheid wordt opgeslagen in een bepaald materiaal.                         |
+| Energieniveaus bij een atoom   | De discrete niveaus van energie waarop elektronen zich kunnen bevinden in een atoom, zoals voorspeld door het kwantummechanische model van Bohr. |
+| Energieomzetting bij trilling | Het proces waarbij energie wordt omgezet tussen kinetische en potentiële energie tijdens een trilling.            |
+| Energievormen                  | Verschillende vormen waarin energie kan voorkomen, zoals potentiele energie, kinetische energie, zwaarte energie, veerenergie, warmte en chemische energie. |
+| Energievormen                    | Verschillende vormen waarin energie kan voorkomen.                                                     |
+| Equivalente dosis             | Een maat voor de biologische effecten van straling, aangepast voor verschillende soorten straling en weefsels, gemeten in sievert (Sv). |
+| Evolutie van sterren          | Het proces waarbij sterren veranderingen ondergaan in hun levenscyclus, van de vorming tot het einde als witte dwergen, neutronensterren of supernova's. |
+| Fase                         | De positie van een trillend object binnen zijn trillingscyclus op een specifiek moment in de tijd.                 |
+| Fasen van stof             | De verschillende aggregatietoestanden waarin materie kan voorkomen, zoals vast, vloeibaar en gas.          |
+| Fasen van een stof      | De verschillende toestanden waarin een stof kan verkeren, zoals vast, vloeibaar en gasvormig.                        |
+| Faseovergangen             | De overgangen tussen de verschillende aggregatietoestanden van materie, zoals smelten, verdampen en condenseren. |
+| Faseovergangen          | De veranderingen in de fase van een stof, zoals smelten, verdampen en condenseren.                                    |
+| Faseverschil                 | Het tijdsverschil of de hoek tussen de fasen van twee trillende objecten.                                         |
+| Flux                         | De hoeveelheid veldlijnen die door een gegeven oppervlak gaan, vaak gebruikt om magnetische of elektrische velden te kwantificeren. |
+| Fluxverandering             | De verandering in de hoeveelheid veldlijnen die door een oppervlak gaan, wat resulteert in een geïnduceerde spanning in nabijgelegen geleiders. |
+| Formule van Einstein                | De beroemde formule E=mc², die de equivalente relatie tussen energie (E) en massa (m) beschrijft.                  |
+| Foto-elektrisch effect             | Het verschijnsel waarbij lichtenergie overdraagt aan elektronen in een materiaal, waardoor ze worden uitgestoten.  |
+| Fotonen                       | Elementaire deeltjes die elektromagnetische straling dragen, inclusief licht.                                       |
+| Fotonen                        | Deeltjes waaruit licht bestaat, met eigenschappen van zowel golven als deeltjes.                                |
+| Frequentie                    | Het aantal herhalingen van een gebeurtenis per eenheid van tijd, zoals het aantal omwentelingen per seconde in een cirkelbeweging. |
+| Functionele materialen  | Materialen die specifieke eigenschappen hebben die hen geschikt maken voor bepaalde toepassingen.                    |
+| Fysische eigenschappen     | De kenmerken van een stof die kunnen worden waargenomen of gemeten zonder dat er een chemische verandering optreedt. |
+| GPS-systeem                     | Een wereldwijd navigatiesysteem dat gebruikmaakt van satellieten om locatie- en tijdinformatie te verstrekken.     |
+| Gebeurtenis                     | Een punt in de ruimtetijd met een specifieke positie en tijd.                                                       |
+| Geheugenspel                  | Een spel waarin geheugen en cognitieve vaardigheden worden getest.                                               |
+| Geiger-Müller teller           | Een instrument dat wordt gebruikt om ioniserende straling te detecteren en te meten, vaak gebruikt in stralingsbewaking en -detectie. |
+| Geiger-Müllerteller            | Een instrument dat wordt gebruikt om ioniserende straling te detecteren en te meten, vaak gebruikt voor stralingsmonitoring en -detectie. |
+| Gekromde ruimte                 | De vervorming van de ruimte veroorzaakt door massa en energie volgens de algemene relativiteitstheorie.            |
+| Geleidbaarheid               | De mate waarin een materiaal elektrische stroom kan geleiden.                                                      |
+| Geleidbaarheid                         | De mate waarin een materiaal elektrische stroom kan geleiden.                                                           |
+| Gelijktijdigheid                | Het concept van gebeurtenissen die op hetzelfde moment plaatsvinden in een referentiestelsel.                       |
+| Geluid                       | Een vorm van energieoverdracht door trillingen van deeltjes in een medium, waargenomen door het menselijk gehoor. |
+| Geluid                              | Trillingen die zich door een medium voortplanten en hoorbaar zijn voor mensen.                                      |
+| Geluidsbronnen               | Objecten of processen die geluid produceren, zoals stemmen, muziekinstrumenten en machines.                      |
+| Geluidsbronnen                      | Objecten of gebeurtenissen die geluid produceren.                                                                  |
+| Gemengde schakelingen         | Elektrische schakelingen die zowel parallelle als serieschakelingen bevatten, wat resulteert in complexere circuits. |
+| Gemengde schakeling                     | Een complexe schakeling die zowel serieschakelingen als parallelschakelingen bevat.                                     |
+| Gemiddelde snelheid         | De totale afstand afgelegd door een object gedeeld door de totale tijdsduur van de beweging.                       |
+| Gemiddelde snelheid                | De totale afstand die een object aflegt gedeeld door de totale tijd die het kost om die afstand af te leggen. |
+| Geocentrisch                       | Het model waarin de aarde als het centrum van het universum wordt beschouwd.                                      |
+| Geostationaire satelliet       | Een kunstmatige satelliet die zich in een geostationaire baan bevindt, waarbij de baanperiode gelijk is aan de rotatieperiode van de aarde, waardoor de satelliet stationair lijkt te blijven boven een bepaald punt op het aardoppervlak. |
+| Geostationaire satellieten         | Satellieten die zich op een hoogte bevinden waarbij hun omlooptijd gelijk is aan de draaiperiode van de aarde, waardoor ze op dezelfde positie boven het aardoppervlak lijken te blijven. |
+| Gereduceerde fase            | De fase van een trillende massa na een bepaalde tijd, uitgedrukt als een fractie van een complete trillingscyclus. |
+| Gewicht                    | De kracht die wordt uitgeoefend op een object als gevolg van de zwaartekracht.                               |
+| Gewichtloosheid            | De toestand waarin een object geen netto zwaartekracht ondervindt, zoals in vrije val of in een baan om een hemellichaam. |
+| Glasvezelkabel                 | Een transmissiemedium voor lichtsignalen, bestaande uit lange, dunne strengen glas die lichtgeleiding mogelijk maken. |
+| Golf-deeltje dualiteit            | Het concept dat de aard van licht en andere deeltjes zowel golfeigenschappen als deeltjeseigenschappen kan omvatten, afhankelijk van de observatiemethode. |
+| Golfeigenschappen                | Kenmerken van licht of andere deeltjes die overeenkomen met golfverschijnselen, zoals interferentie en diffractie.   |
+| Golflengte                   | De afstand tussen twee opeenvolgende punten in een golf die een identieke fase hebben, zoals van top tot top.     |
+| Golflengte                          | De afstand tussen twee opeenvolgende punten met dezelfde fase in een golf.                                         |
+| Golfsnelheid                 | De snelheid waarmee een golf zich door een medium verplaatst, bepaald door de golflengte en de frequentie.       |
+| Golfsnelheid                        | De snelheid waarmee een golf zich voortplant door een medium.                                                       |
+| Golfsuperpositie                    | Het fenomeen waarbij twee of meer golven samenkomen en tijdelijk hun amplitude kunnen versterken of verzwakken.    |
+| Golven                       | Verplaatsing van energie door een medium, gekenmerkt door periodieke veranderingen in amplitude.                  |
+| Golven                              | Verplaatsingen van energie die zich door een medium of lege ruimte voortplanten.                                    |
+| Gravitatieenergie              | De potentiele energie die een object heeft als gevolg van zijn positie in een zwaartekrachtveld, zoals de energie die wordt geassocieerd met een voorwerp dat zich boven het aardoppervlak bevindt. |
+| Gravitatiekracht              | De aantrekkingskracht tussen twee objecten als gevolg van hun massa, zoals de aantrekkingskracht tussen de aarde en een voorwerp op het aardoppervlak. |
+| Gravitatiekracht                   | De kracht van aantrekking tussen massa's in het universum.                                                         |
+| Gravitatiewet van Newton       | De natuurwet die stelt dat de gravitatiekracht tussen twee objecten recht evenredig is met de producten van hun massa's en omgekeerd evenredig is met het kwadraat van de afstand tussen hun zwaartepunten. |
+| Gravitatiewet van Newton           | De wet die de zwaartekracht beschrijft als een kracht die twee massa's op elkaar uitoefenen, evenredig met hun massa's en omgekeerd evenredig met het kwadraat van de afstand tussen hen. |
+| Grensgolflengte bij foto-elektrisch effect | De golflengte van licht die nodig is om het foto-elektrisch effect te produceren voor een specifiek materiaal.       |
+| Grootheid                   | Een fysieke eigenschap of kenmerk dat kan worden gemeten, zoals lengte, massa, tijd, temperatuur, enzovoort.     |
+| Grootheid                          | Een eigenschap van een object, fenomeen of systeem die kan worden gemeten, zoals lengte, massa, tijd, temperatuur.   |
+| Halveringsdikte               | De dikte van een materiaal die nodig is om de intensiteit van straling met de helft te verminderen.                    |
+| Halveringsdikte                | De dikte van een materiaal die nodig is om de intensiteit van een stralingsbundel te halveren.                |
+| Halveringstijd                | De tijd die nodig is voor de helft van de radioactieve kernen in een monster om te vervallen tot een stabielere toestand. |
+| Halveringstijd                | De tijd die nodig is voor de helft van de atomen in een radioactief monster om te vervallen.                  |
+| Harmonische trilling         | Een trilling waarbij de verplaatsing van het object recht evenredig is met de kracht die erop wordt uitgeoefend, zoals bij een veer. |
+| Harmonische trilling                | Een type trilling waarbij de versnelling van het object evenredig is met de afstand tot de evenwichtspositie, zoals bij een massaveersysteem. |
+| Hefbomen                              | Mechanismen die bestaan uit een stijve stang die rond een vast punt draait, waardoor krachten worden vermenigvuldigd of gereduceerd. |
+| Hefboomwet                            | De wet die stelt dat het moment rond een draaipunt gelijk is aan de kracht toegepast op de hefboom vermenigvuldigd met de arm. |
+| Heliocentrisch                    | Het model waarin de zon als het centrum van het zonnestelsel wordt beschouwd.                                     |
+| Hemellichamen                      | Objecten in de ruimte, zoals planeten, sterren en manen.                                                         |
+| Hertzsprung-Russell diagram   | Een diagram dat de relatie toont tussen de helderheid en de temperatuur (kleur) van sterren, vaak gebruikt om de evolutie van sterren te bestuderen. |
+| Het molecuulmodel          | Een model dat de opbouw van stoffen beschrijft in termen van individuele moleculen en hun interacties.      |
+| Het SI-stelsel                     | Het Internationale Stelsel van Eenheden, een gestandaardiseerd systeem van meeteenheden voor wetenschap en techniek.|
+| Het molecuulmodel       | Een model dat de structuur en het gedrag van materie beschrijft op basis van de bewegingen en interacties van individuele moleculen. |
+| Higgsboson                          | Een elementair deeltje dat verantwoordelijk wordt geacht voor het geven van massa aan andere deeltjes via het Higgsmechanisme. |
+| Ideaal gas                 | Een hypothetisch gas waarvan het gedrag perfect overeenkomt met de algemene gaswet onder alle omstandigheden. |
+| Impuls                              | De hoeveelheid beweging van een object, gelijk aan de massa vermenigvuldigd met de snelheid.                        |
+| Inductiespanning             | De spanning die wordt opgewekt in een geleider als gevolg van elektromagnetische inductie.                        |
+| Info overdracht              | Het proces van overbrengen van informatie door geluidsgolven, vaak gebruikt in communicatie.                      |
+| Informatieoverdracht                | Het proces waarbij geluidsgolven gebruikt worden om informatie te verzenden.                                        |
+| Interferentie geluidsgolven   | Het verschijnsel waarbij geluidsgolven elkaar ontmoeten en interfereren, resulterend in versterking of verzwakking van geluidsintensiteit. |
+| Interferentie van licht           | De samenvoeging en interferentie van lichtgolven die leiden tot versterking of verzwakking van het totale lichtpatroon. |
+| Interferentie van golf          | Het fenomeen waarbij twee of meer lichtgolven samenkomen en elkaar versterken of verzwakken.                    |
+| Invertor                      | Een elektronische component die de ingangsspanning omkeert.                                                       |
+| Invoerelementen               | Componenten die input leveren aan een systeem.                                                                   |
+| Ioniserende straling          | Straling die voldoende energie heeft om elektronen uit atomen te verwijderen en ionisatie te veroorzaken.      |
+| Isolatie                | Materialen of structuren die worden gebruikt om warmteoverdracht te verminderen, waardoor warmteverlies wordt beperkt of warmte wordt vastgehouden. |
+| Joulemeter                 | Een apparaat dat wordt gebruikt om de hoeveelheid warmte of energie die wordt overgedragen te meten, vaak in joules. |
+| Joulemeter              | Een instrument dat wordt gebruikt om de hoeveelheid warmte die vrijkomt of wordt geabsorbeerd bij een proces te meten. |
+| Keramische materialen   | Materialen die zijn samengesteld uit anorganische verbindingen en die vaak worden gekenmerkt door hun hardheid, hittebestendigheid en elektrische isolatie. |
+| Kernenergie                         | Energie die vrijkomt bij kernreacties, zoals die in kerncentrales.                                                    |
+| Kernreacties                  | Processen waarbij de kernen van atomen worden veranderd, zoals radioactief verval of kernfusie.                        |
+| Kernreacties                        | Reacties waarbij de kernen van atomen veranderen, resulterend in veranderingen in de aard van de betrokken atomen.    |
+| Kernstraling                 | Straling afkomstig van de kern van een atoom, inclusief alfa-, bèta- en gammastraling.                                |
+| Kernstraling                  | Straling die afkomstig is van de kern van een atoom.                                                          |
+| Kinetische energie             | De energie die een object heeft vanwege zijn beweging.                                                            |
+| Kinetische energie           | De energie die een object heeft als gevolg van zijn beweging.                                                      |
+| Kinetische energie              | De energie die een object bezit vanwege zijn beweging.                                                             |
+| Kinetische energie                | De energie die een object bezit vanwege zijn beweging.                                                 |
+| Knoplijn                     | De punten op een staande golf waar de uitwijking minimaal is.                                                    |
+| Kortsluiting                  | Een onbedoelde verbinding tussen de geleiders in een elektrisch circuit, wat kan leiden tot overbelasting of schade aan apparaten. |
+| Kortsluiting                            | Een ongewenste verbinding tussen twee punten met verschillende potentiaal in een elektrisch circuit.                    |
+| Kracht bij eenparige cirkelbeweging | De kracht die nodig is om een object in een cirkelvormige baan te houden, bekend als de middelpuntzoekende kracht. |
+| Kracht op spoel              | De kracht die wordt uitgeoefend op een spoel die zich in een magnetisch veld bevindt en waar een stroom doorheen gaat. |
+| Kracht en uitwisseling van deeltjes | Het proces waarbij deeltjes met elkaar interageren door de uitwisseling van krachten, zoals elektromagnetische, zwakke en sterke kernkrachten. |
+| Krachten samenstellen      | Het proces van het combineren van verschillende krachten om een resulterende kracht te bepalen.              |
+| Krachten ontbinden         | Het proces van het opsplitsen van een enkele kracht in meerdere componenten langs verschillende assen of richtingen. |
+| Krachten in evenwicht      | Een toestand waarin de resulterende kracht op een object nul is, waardoor het object in rust blijft of met constante snelheid beweegt. |
+| Krachten                       | Fysieke interacties die de beweging of de vorm van een object veranderen.                                        |
+| Krachten bij trilling        | De krachten die optreden op een object tijdens trillingen, zoals de veerkracht en de wrijvingskracht.             |
+| Krachten                          | Fysieke interacties tussen objecten of deeltjes die veranderingen in beweging, vorm of richting kunnen veroorzaken. |
+| Krachten samenstellen             | Het proces van het combineren van meerdere krachten tot een enkele resulterende kracht.                |
+| Krachten ontbinden                | Het proces van het opsplitsen van een enkele kracht in twee of meer componenten.                        |
+| Krachten in evenwicht             | Een situatie waarin de resulterende kracht op een object nul is, wat resulteert in een stabiele toestand waarin het object niet versnelt. |
+| Krachten                          | Fysieke interacties die de beweging of de vorm van een object veranderen.                             |
+| Kringproces                | Een proces waarbij een systeem een reeks veranderingen ondergaat en uiteindelijk terugkeert naar zijn oorspronkelijke toestand. |
+| Kromme lichtstralen             | De baan van licht in een gekromde ruimte, zoals voorspeld door de algemene relativiteitstheorie.                    |
+| Kubieke uitzetting         | De toename in volume van een materiaal als gevolg van een temperatuurstijging, gemeten in alle drie dimensies. |
+| Kwadratenwet                  | Een natuurkundige wet die stelt dat de intensiteit van straling omgekeerd evenredig is met het kwadraat van de afstand tot de stralingsbron. |
+| Kwadratisch evenredig verband      | Een verband waarbij de ene variabele kwadratisch afhangt van de andere variabele.                                     |
+| Kwalitatieve                | Beschrijvend in termen van eigenschappen, kenmerken of observaties zonder kwantitatieve metingen.               |
+| Kwalitatieve waarnemingen          | Waarnemingen die worden gedaan zonder numerieke metingen, gebaseerd op eigenschappen, kenmerken of verschijnselen.  |
+| Kwantitatieve               | Beschreven met behulp van numerieke waarden en metingen.                                                       |
+| Kwantitatieve waarnemingen         | Waarnemingen gedaan door middel van numerieke metingen of gegevens.                                                  |
+| LED                           | Een lichtgevende diode die licht produceert wanneer er elektrische stroom doorheen gaat.                         |
+| LED                                     | Een lichtgevende diode die licht produceert wanneer er elektrische stroom doorheen gaat.                                |
+| Lading                        | De eigenschap van deeltjes die verantwoordelijk is voor elektrische interacties, gemeten in coulombs.             |
+| Lading                                  | Een fundamentele eigenschap van materie, die aangeeft hoeveel elektrische energie een object draagt.                     |
+| Ladingen kracht              | De kracht die optreedt tussen twee elektrisch geladen deeltjes als gevolg van elektrostatische interacties.        |
+| Lengtekrimp                     | Een fenomeen voorspeld door de speciale relativiteitstheorie waarbij objecten in beweging in de richting van hun beweging worden verkort. |
+| Lenzen                         | Optische componenten die lichtstralen buigen om beelden te vormen.                                              |
+| Lenzenformule                  | Een formule die de relatie beschrijft tussen de brandpuntsafstand, de objectafstand en de beeldafstand van een lens. |
+| Leptonen                            | Elementaire deeltjes, zoals elektronen en neutrino's, die niet onderhevig zijn aan de sterke kernkracht.            |
+| Levenscyclus zon              | De verschillende stadia die de zon doorloopt tijdens zijn evolutie, van de geboorte tot het einde als een witte dwerg. |
+| Licht als deeltje                 | Het concept dat licht soms gedrag vertoont dat kenmerkend is voor deeltjes, zoals in het foto-elektrisch effect.    |
+| Licht golfmodel                   | Een model dat licht beschrijft als golven die zich door de ruimte verspreiden en interfereren met elkaar.          |
+| Licht als golf                 | Het concept dat licht zich gedraagt als een golf, met golflengte en frequentie.                                 |
+| Licht als deeltje              | Het concept dat licht bestaat uit discrete deeltjes, fotonen, met energie en impuls.                            |
+| Lichtbundels                   | Bundels van lichtstralen die zich voortbewegen in een bepaalde richting.                                        |
+| Lichtgevoelige weerstand                | Een weerstand waarvan de weerstandswaarde verandert afhankelijk van de hoeveelheid licht waaraan het is blootgesteld.  |
+| Lichtkegel                      | De verzameling gebeurtenissen in de ruimtetijd die door een enkel lichtsignaal kunnen worden beïnvloed.            |
+| Lijnenspectrum                | Een spectrum bestaande uit discrete spectrale lijnen, typisch geassocieerd met atomen of moleculen die elektromagnetische straling absorberen of uitzenden. |
+| Lineair verband             | Een relatie tussen twee variabelen waarbij een verandering in één variabele gepaard gaat met een proportionele verandering in de andere variabele, resulterend in een rechte lijn wanneer grafisch weergegeven. |
+| Lineair verband                    | Een verband tussen twee variabelen waarbij een verandering in de ene variabele een proportionele verandering in de andere veroorzaakt. |
+| Lineaire uitzetting        | De toename in lengte van een materiaal als gevolg van een temperatuurstijging, gemeten langs een enkele dimensie. |
+| Lineaire versneller          | Een apparaat dat geladen deeltjes versnelt in een rechte lijn voor gebruik in deeltjesfysica-experimenten.        |
+| Lineaire vergroting            | De verhouding tussen de grootte van een beeld en de grootte van het object in een optisch systeem.               |
+| Longitudinale golf           | Een golf waarbij deeltjes van het medium parallel bewegen met de richting van golfbeweging, zoals geluidsgolven.   |
+| Longitudinale golven                | Golven waarbij deeltjes van het medium parallel aan de richting van golfvoortplanting bewegen.                      |
+| Loop van lichtstraal           | De baan die een lichtstraal volgt wanneer deze door een lens gaat.                                               |
+| Lopende golven               | Golven waarvan de energie en de beweging zich voortplanten door een medium, zoals geluidsgolven en watergolven.   |
+| Lopende golven                      | Golven die zich voortplanten door een medium, zoals geluidsgolven.                                                  |
+| Lorentzkracht               | De kracht die wordt uitgeoefend op een geladen deeltje dat zich beweegt door een magnetisch veld en een elektrisch veld. |
+| Luchtweerstand                        | De wrijving die ontstaat tussen een object en de lucht tijdens beweging door de atmosfeer.                        |
+| MRI                           | Een medische beeldvormingstechniek die magnetische velden en radiogolven gebruikt om gedetailleerde beelden van de interne structuren van het lichaam te produceren. |
+| MRI                           | Een medische beeldvormingstechniek die magnetische velden en radiogolven gebruikt om gedetailleerde afbeeldingen van de interne structuren van het lichaam te maken. |
+| Maansverduistering                 | Een verschijnsel waarbij de aarde tussen de zon en de maan komt, waardoor de maan tijdelijk donkerder lijkt.     |
+| Machten van 10              | Een notatie die wordt gebruikt om grote of kleine getallen te representeren door ze te schrijven als een getal vermenigvuldigd met een macht van 10. |
+| Machten van eenheden        | De exponenten die worden gebruikt in het machten van 10-systeem om de grootte van een eenheid aan te geven.       |
+| Machten van eenheden               | Machten waarin eenheden worden gebruikt om grootheden met bepaalde dimensies te vertegenwoordigen, zoals m² voor oppervlakte. |
+| Magnetisch veld              | Een veld dat ontstaat rond een magneet of een stroomvoerende geleider en dat een magnetische kracht uitoefent op andere magneten of stroomvoerende geleiders. |
+| Magnetisch spoel             | Een spoel van geleidend materiaal dat wordt gebruikt om een magnetisch veld te genereren of magnetische inductie op te wekken. |
+| Magnetische inductie         | Het fenomeen waarbij een veranderend magnetisch veld een elektrische stroom opwekt in een nabijgelegen geleider.  |
+| Manen                              | Natuurlijke satellieten die in een baan om een planeet bewegen.                                                  |
+| Massa                      | De hoeveelheid materie in een object, een maat voor de traagheid en de weerstand tegen versnelling.          |
+| Massa                           | De hoeveelheid materie in een object.                                                                               |
+| Massa-veer-systeem           | Een systeem bestaande uit een massa die aan een veer is bevestigd, dat vaak wordt gebruikt om harmonische trillingen te bestuderen. |
+| Massadefect                         | Het verschil in massa tussen de massa van een samengesteld deeltje en de som van de massa's van zijn afzonderlijke componenten. |
+| Massadefect                     | Het verschil in massa tussen de massa van een samengesteld deeltje en de som van de massa's van zijn afzonderlijke componenten. |
+| Massagetal                          | Het totale aantal protonen en neutronen in de kern van een atoom.                                                     |
+| Massaveersysteem                    | Een systeem bestaande uit een massa die aan een veer is bevestigd, waarbij de massa heen en weer beweegt rond een evenwichtspositie. |
+| Materiaalkunde          | Een vakgebied dat zich bezighoudt met het bestuderen van de eigenschappen, structuur en toepassingen van materialen.   |
+| Materie                       | Alle stoffen waaruit de fysieke wereld bestaat, inclusief atomen, moleculen en deeltjes.                          |
+| Medische beeld                | Een visuele representatie verkregen door medische beeldvormingstechnieken om interne structuren van het menselijk lichaam te visualiseren. |
+| Meetonzekerheid             | De mate van onzekerheid of fout die gepaard gaat met een meting, meestal uitgedrukt als een bereik of marge van de waarde. |
+| Meetonzekerheid                    | De mate van onzekerheid of fout in een meting, veroorzaakt door beperkingen van instrumenten of menselijke fouten.   |
+| Meetsysteem                   | Een systeem dat gebruikt wordt om fysieke grootheden te meten en te registreren.                                |
+| Mesonen                             | Quarkcombinaties bestaande uit een quark en een antiquark.                                                            |
+| Metalen                 | Materialen die over het algemeen goede geleiders zijn van warmte en elektriciteit, en die vaak worden gebruikt vanwege hun mechanische eigenschappen. |
+| Microfoon                    | Een apparaat dat geluid omzet in een elektrisch signaal door de vibraties van geluidsgolven te registreren.        |
+| Middelpuntzoekende kracht      | De kracht die naar het middelpunt van een cirkelvormige baan wijst en nodig is om een object in die baan te houden. |
+| Middelpuntzoekende kracht    | De kracht die een object naar het middelpunt van een cirkelvormige baan trekt wanneer het in een cirkelvormige beweging verkeert. |
+| Middelpuntzoekende kracht          | De kracht die ervoor zorgt dat een object in een cirkelbeweging naar het middelpunt van die cirkel wordt getrokken. |
+| Modellen van licht                | Diverse theoretische frameworks die worden gebruikt om het gedrag van licht te beschrijven, zoals golven en deeltjesmodellen. |
+| Molecuulmodel           | Een representatie van de opbouw en de onderlinge interacties van moleculen binnen een stof.                           |
+| Momenten                              | De krachten die resulteren in een draaiende beweging rond een vast punt.                                          |
+| Momenten in evenwicht                 | Wanneer de som van de momenten rond een draaipunt nul is, is het systeem in evenwicht.                           |
+| Muon                                | Een subatomair deeltje vergelijkbaar met een zwaarder elektron, behorend tot de leptonfamilie.                        |
+| Muziekinstrumenten           | Apparaten die geluid produceren door trillingen, zoals snaar-, blaas- en slaginstrumenten.                        |
+| Muziekinstrumenten                  | Apparaten die geluid produceren en gebruikt worden om muziek te maken.                                             |
+| NTC temperatuurgevoelige weerstand      | Een weerstand waarvan de weerstandswaarde afneemt naarmate de temperatuur stijgt.                                        |
+| NTC-weerstand                 | Een weerstand waarvan de weerstand afneemt met toenemende temperatuur, bekend als een negatieve temperatuurcoëfficiënt weerstand. |
+| Negatieve lenzen               | Lenzen die lichtstralen divergeren en beelden verkleinen.                                                        |
+| Neutrino's                          | Neutrale, subatomaire deeltjes met zeer kleine massa en geen elektrische lading.                                    |
+| Neutrinodetectoren                  | Detectoren ontworpen om neutrino's te detecteren, vaak gebaseerd op interacties met andere deeltjes.                 |
+| Nevelvat                            | Een apparaat ontworpen om sporen van geladen deeltjes te registreren door condensatie van dampen.                    |
+| Noorderlicht                 | Een natuurlijk fenomeen waarbij gekleurde lichten in de lucht verschijnen in de buurt van de magnetische polen van de aarde als gevolg van interacties tussen zonnewind en het aardmagnetisch veld. |
+| Normaalkracht              | De kracht die loodrecht staat op het oppervlak waarop een voorwerp rust en die wordt uitgeoefend door dat oppervlak op het voorwerp. |
+| Normaalkracht                     | De kracht die loodrecht staat op het oppervlak waarop een object rust, gericht van het oppervlak af.   |
+| Nulpunt van energie            | Een referentiepunt waarbij de potentiele energie van een object als nul wordt beschouwd, vaak gekozen als een handige referentie voor berekeningen. |
+| Numerieke rekenmethode       | Een methode die gebruikmaakt van numerieke benaderingen en berekeningen om oplossingen te vinden voor wiskundige problemen die niet analytisch kunnen worden opgelost. |
+| OF-poort                      | Een logische poort die een logische OF-operatie uitvoert op twee of meer ingangen.                              |
+| Omgekeerd evenredig verband        | Een verband waarbij een toename in één variabele resulteert in een proportionele afname in de andere variabele.       |
+| Omgekeerd kwadratisch evenredig verband | Een verband waarbij de ene variabele omgekeerd kwadratisch afhangt van de andere variabele.                           |
+| Omgekeerde parallellogrammethode  | Een geometrische techniek gebruikt om de componenten van een kracht te vinden door een parallellogram te construeren. |
+| Omlooptijd                    | De tijd die nodig is voor een object om één volledige omwenteling of cirkelbeweging uit te voeren.                |
+| Omlooptijd                         | De tijd die nodig is voor een object om één volledige cirkelbeweging uit te voeren.                              |
+| Omrekenen van eenheden             | Het proces van omzetten van een waarde van de ene eenheid naar een andere, vaak met omrekeningsfactoren.             |
+| Omrekeningsfactor van eenheden | De factor waarmee een grootheid moet worden vermenigvuldigd om deze van de ene eenheid naar de andere om te zetten. |
+| Onbepaaldheidsrelatie            | Het principe dat er een fundamentele beperking is aan hoe nauwkeurig we gelijktijdig de positie en impuls van een deeltje kunnen meten. |
+| Onbepaaldheidsrelatie van Heisenberg | De kwantummechanische onbepaaldheidsrelatie die stelt dat het onmogelijk is om gelijktijdig de exacte positie en impuls van een deeltje te meten. |
+| Ontdekking van neutrino's           | De ontdekking van neutrino's in 1956 door Cowan en Reines, bevestigend dat deze deeltjes daadwerkelijk bestaan.       |
+| Ontsnappingssnelheid           | De minimale snelheid die een object moet hebben om te ontsnappen aan het gravitatieveld van een hemellichaam, zoals de aarde. |
+| Oorzaak en gevolg               | Het concept van gebeurtenissen die elkaar opvolgen in de tijd, waarbij de oorzaak voorafgaat aan het gevolg.       |
+| Opgesloten kwantumdeeltjes        | Deeltjes die zich in een beperkte ruimte bevinden en worden onderworpen aan kwantummechanische effecten zoals energieniveaus en probabilistische locatie. |
+| Oppervlakte                        | De ruimte beslaan door een tweedimensionaal object, uitgedrukt in vierkante eenheden.                                 |
+| Optische telescoop            | Een instrument dat gebruikmaakt van lenzen of spiegels om zichtbaar licht te verzamelen en beelden van hemellichamen te produceren. |
+| Optische eigenschappen         | Eigenschappen van materialen of systemen die invloed hebben op de interactie met licht, zoals brekingsindex en transparantie. |
+| Opwekking van elektrische energie       | Het proces waarbij elektrische energie wordt geproduceerd uit andere vormen van energie.                                |
+| Orde van grootte            | Een benadering van de grootte van een getal of grootheid, meestal uitgedrukt als een macht van 10.              |
+| Orde van grootte                   | Een benadering van de grootte van een getal, meestal uitgedrukt als een macht van 10.                                |
+| Oscilloscoop                 | Een instrument dat wordt gebruikt om elektrische signalen grafisch weer te geven, waaronder trillingspatronen.    |
+| PET-scan                      | Een medische beeldvormingstechniek die positronemissietomografie gebruikt om metabole processen in het lichaam in kaart te brengen. |
+| Parallel-serieschakeling                | Een combinatie van serieschakelingen en parallelschakelingen.                                                            |
+| Parallelschakeling            | Een elektrische schakeling waarbij de componenten parallel zijn verbonden, waardoor de spanning over elk component gelijk blijft. |
+| Parallelschakeling                     | Een schakeling waarin de componenten naast elkaar zijn geschakeld en hetzelfde spanningsverschil ervaren.               |
+| Parsec                        | Een eenheid van afstand in de astronomie, ongeveer gelijk aan 3,26 lichtjaar.                                        |
+| Periodieke beweging          | Een beweging die zich herhaalt in een regelmatig patroon na een bepaalde tijdsperiode.                            |
+| Periodieke beweging                 | Een beweging die zich herhaalt in regelmatige intervallen.                                                          |
+| Plaats en impuls in een deeltjesmodel | De mate van onzekerheid in het bepalen van zowel de positie als de impuls van een deeltje binnen de context van de kwantummechanica. |
+| Plaats en impuls in een golfmodel | De mate van onzekerheid in het bepalen van zowel de positie als de impuls van een golf binnen de context van golffenomenen. |
+| Plaats-tijd diagram          | Een grafische voorstelling waarbij de plaats van een object wordt uitgezet tegen de tijd, waardoor de positie van het object in de tijd kan worden gevolgd. |
+| Plaats-tijd diagram                 | Een grafische voorstelling van de positie van een object ten opzichte van de tijd.                      |
+| Planeten                           | Grote hemellichamen die in een baan om een ster bewegen en geen licht van zichzelf uitstralen.                  |
+| Polaire satelliet              | Een kunstmatige satelliet die in een baan rond de aarde beweegt die over de polen gaat, wat resulteert in een dekkingsgebied over de gehele aarde. |
+| Polaire satellieten                | Satellieten die in een baan om de aarde bewegen met een inclinatie ten opzichte van de evenaar.                   |
+| Polymeren               | Materialen die zijn samengesteld uit lange ketens van moleculen en die vaak worden gebruikt vanwege hun flexibiliteit, lage dichtheid en isolerende eigenschappen. |
+| Positieve lenzen               | Lenzen die lichtstralen convergeren en beelden vergroten.                                                        |
+| Positron                            | Het antideeltje van het elektron, met een positieve lading.                                                            |
+| Potentiele energie             | De energie die een object heeft vanwege zijn positie of configuratie, zoals gravitatie-energie of veerenergie.    |
+| Potentiële energie           | De energie die een object heeft vanwege zijn positie of configuratie in een veld, zoals elektrisch of zwaartekracht.|
+| Pulsenteller                  | Een apparaat dat pulsen telt.                                                                                    |
+| Quarks                              | Elementaire deeltjes die de bouwstenen vormen van hadronen zoals protonen en neutronen.                               |
+| Radar                       | Een technologie die gebruikmaakt van radiogolven om de afstand, snelheid en andere eigenschappen van objecten te detecteren en te meten. |
+| Radiaal homogeen veld        | Een elektrisch veld waarvan de krachtlijnen evenwijdig en gelijkmatig verdeeld zijn vanuit een centraal punt.    |
+| Radioactiviteit               | Het proces waarbij instabiele atomen radioactieve straling uitzenden bij het ondergaan van verval.                    |
+| Radiotelescoop                | Een instrument dat gebruikt wordt om radiogolven van hemellichamen te detecteren en te analyseren.                   |
+| Radiotherapie                 | Een medische behandeling waarbij ioniserende straling wordt gebruikt om kankerweefsel te vernietigen of te beheersen. |
+| Radiotherapie                 | Een medische behandeling waarbij ioniserende straling wordt gebruikt om kanker te behandelen.                 |
+| Recht evenredigheid verband | Een specifiek type lineair verband waarbij de variabelen recht evenredig zijn, wat betekent dat ze in dezelfde verhouding veranderen en door de oorsprong gaan wanneer grafisch weergegeven. |
+| Recht evenredig verband            | Een type lineair verband waarbij de verhouding tussen twee variabelen constant is.                                    |
+| Referentiestelsel               | Een kader dat wordt gebruikt om de positie en beweging van objecten te beschrijven.                                |
+| Regelbare weerstand           | Een weerstand waarvan de weerstandswaarde kan worden aangepast.                                                   |
+| Regelbare weerstand                     | Een weerstand waarvan de weerstandswaarde handmatig kan worden aangepast.                                               |
+| Regelsysteem                  | Een systeem dat regels en voorschriften hanteert om een bepaald doel te bereiken of een proces te reguleren.     |
+| Rek                        | De mate van vervorming of uitrekking van een materiaal onder invloed van een externe kracht.                 |
+| Rekenen met telwaarden             | Het uitvoeren van wiskundige bewerkingen met getallen zonder rekening te houden met eenheden.                         |
+| Rendement                     | De verhouding tussen de bruikbare output van een apparaat, zoals energie of arbeid, en de input, meestal uitgedrukt als een percentage. |
+| Rendement                               | De verhouding tussen de nuttige output en de totale input van een energieomzetting.                                     |
+| Resonantie                   | Het fenomeen waarbij een object wordt gedwongen om te trillen met een specifieke frequentie wanneer het wordt blootgesteld aan een externe trillingsbron met dezelfde frequentie. |
+| Resonantie                          | Het fenomeen waarbij een systeem wordt gestimuleerd om te trillen met een specifieke frequentie als gevolg van een externe trilling met dezelfde frequentie. |
+| Resulterende kracht        | De enkele kracht die hetzelfde effect heeft als alle oorspronkelijke krachten samen, en die de totale beweging of vervorming van een object bepaalt. |
+| Resulterende kracht               | De enkele kracht die het effect van meerdere toegepaste krachten op een object vertegenwoordigt.       |
+| Resulterende kracht                   | De kracht die op een object wordt uitgeoefend, die een verandering in de snelheid van het object veroorzaakt.    |
+| Reëel gas                  | Een gas waarvan het gedrag afwijkt van dat van een ideaal gas onder bepaalde omstandigheden.                 |
+| Risico's van ioniserende straling | Potentiële gevaren voor de gezondheid die gepaard gaan met blootstelling aan ioniserende straling, zoals weefselschade en het verhoogde risico op kanker. |
+| Rood-blauwverschuiving         | Een verschuiving van de golflengte van licht naar het rood of blauw uiteinde van het spectrum als gevolg van respectievelijk een beweging van de lichtbron naar de waarnemer toe of van de waarnemer af. |
+| Roodverschuiving              | Het verschijnsel waarbij de golflengten van elektromagnetische straling langer worden als gevolg van de uitdijing van het universum, vaak waargenomen bij verre sterrenstelsels. |
+| Ruimtetelescoop               | Een telescoop die zich buiten de atmosfeer van de aarde bevindt om de effecten van atmosferische storingen te vermijden en een duidelijker zicht op het heelal te bieden. |
+| Ruimtetelescopen                   | Telescopen die in de ruimte zijn geplaatst om de effecten van de aardse atmosfeer te vermijden.                   |
+| Ruimtetijd diagram              | Een diagram dat de ruimtetijdvisualisatie van gebeurtenissen weergeeft.                                            |
+| Röntgenbuis                  | Een apparaat dat wordt gebruikt om röntgenstralen te produceren voor medische beeldvorming en industriële toepassingen. |
+| Röntgenfoto                   | Een beeld verkregen door röntgenstraling door het lichaam te laten gaan en de absorptie ervan door verschillende weefsels vast te leggen. |
+| Röntgenfoto                   | Een medische beeldvormingstechniek die röntgenstraling gebruikt om afbeeldingen van interne structuren van het lichaam te maken. |
+| SI-eenheden stelsel         | Het Internationale Stelsel van Eenheden, een standaardstelsel dat wordt gebruikt voor het meten van fysieke grootheden, gebaseerd op zeven basiseenheden. |
+| Scanning tunneling microscope    | Een instrument dat gebruikmaakt van het tunneleffect van elektronen om atomaire oppervlakken met ongekende resolutie te visualiseren. |
+| Schaduwvorming                 | Het fenomeen waarbij een object het licht blokkeert, waardoor er een donker gebied ontstaat achter het object.   |
+| Schakeling                             | Een combinatie van elektrische componenten die zijn verbonden om een bepaalde functie uit te voeren.                     |
+| Schakelingen analyseren       | Het proces van het bestuderen en begrijpen van elektrische circuits om hun werking te begrijpen.                   |
+| Schijfwrijvingskracht             | De kracht die optreedt wanneer twee oppervlakken langs elkaar bewegen, waarbij wrijving weerstand biedt tegen de beweging. |
+| Schuifwrijvingskracht      | De kracht die ontstaat tussen twee oppervlakken die over elkaar schuiven en die de beweging belemmert.      |
+| Schwarzschildstraal             | De straal waarbinnen de ontsnappingssnelheid groter is dan de lichtsnelheid, wat een object in een zwart gat zou veranderen. |
+| Scintigrafie                  | Een medische beeldvormingstechniek die gebruikmaakt van radioactieve tracers om de functie van organen en weefsels te beoordelen. |
+| Scintigrafie                  | Een medische beeldvormingstechniek die gebruikmaakt van radioactieve tracers om de functie van interne organen te onderzoeken. |
+| Sensoren                      | Apparaten die fysieke of chemische grootheden omzetten naar elektrische signalen.                               |
+| Sensorresolutie               | De mate waarin een sensor in staat is om kleine veranderingen in de gemeten grootheid waar te nemen en te registreren. |
+| Serieschakeling               | Een elektrische schakeling waarbij de componenten in serie zijn verbonden, waardoor de stroom door elk component gelijk blijft. |
+| Serieschakeling                        | Een schakeling waarin de componenten achter elkaar zijn geschakeld en dezelfde stroom doorlopen.                         |
+| Significante cijfers        | De cijfers in een numerieke waarde die relevant zijn en betekenis hebben op basis van de nauwkeurigheid van de meting. |
+| Significante cijfers               | De cijfers in een numerieke waarde die bijdragen aan de nauwkeurigheid van de meting.                                 |
+| Smart materialen        | Materialen die hun eigenschappen kunnen aanpassen in reactie op externe stimuli, zoals temperatuur, licht of elektrische velden. |
+| Smeltwarmte                | De hoeveelheid warmte die nodig is om een stof van de vaste naar de vloeibare fase te smelten, ook wel latente warmte van smelten genoemd. |
+| Snaarinstrument              | Een muziekinstrument dat geluid produceert door trillingen van een of meer snaren, zoals een gitaar of een viool. |
+| Snaarinstrumenten                   | Muziekinstrumenten waarbij geluid wordt geproduceerd door het trillen van snaren.                                  |
+| Snelheid op een tijdstip     | De snelheid van een object op een specifiek tijdstip, weergegeven op een plaats-tijd diagram.                       |
+| Snelheid op een tijdstip            | De snelheid van een object op een specifiek moment in de tijd.                                           |
+| Snelheid                            | De snelheid waarmee een object zich verplaatst, uitgedrukt als de afstand die wordt afgelegd per tijdseenheid. |
+| Snelheid-tijd diagram               | Een grafische voorstelling van de snelheid van een object ten opzichte van de tijd.                      |
+| Snelheidsverandering                  | De mate waarin de snelheid van een object verandert, bepaald door de resulterende kracht die erop werkt.         |
+| Snijlijn                    | Een lijn die twee andere lijnen of curven op een grafiek snijdt, wat de oplossing vertegenwoordigt voor het snijpunt van twee vergelijkingen. |
+| Soortelijke warmte         | De hoeveelheid warmte die nodig is om de temperatuur van een bepaalde massa van een stof met één graad Celsius te verhogen. |
+| Soortelijke warmte      | De hoeveelheid warmte die nodig is om de temperatuur van eenheid massa van een stof met één graad Celsius te verhogen. |
+| Spankracht                 | De kracht die wordt uitgeoefend door een touw, kabel of ander materiaal wanneer het wordt uitgerekt.         |
+| Spankracht                        | De kracht die wordt uitgeoefend op een uitgerekt of samengedrukt elastisch voorwerp, zoals een touw of veer. |
+| Spanning                   | De kracht per oppervlakte-eenheid die wordt uitgeoefend op een materiaal.                                    |
+| Spanning                                | Het potentiaalverschil tussen twee punten in een elektrisch circuit, gemeten in volt (V).                                |
+| Spanning-rek diagram       | Een grafiek die de relatie tussen de spanning en de mate van vervorming of rek van een materiaal weergeeft.  |
+| Spanningsbronnen                        | Apparaten die elektrische energie leveren en een potentiaalverschil creëren tussen twee punten.                         |
+| Spanningsstroom               | De stroom die optreedt wanneer er een potentiaalverschil is tussen twee punten in een geleider.                    |
+| Spanningswet van Kirchhoff     | Een natuurwet die stelt dat de algebraïsche som van de spanningsveranderingen in een gesloten lus van een elektrische schakeling nul is. |
+| Speciale relativiteitstheorie   | De theorie die de relativiteit van ruimte en tijd beschrijft voor waarnemers in een niet-versnellend referentiestelsel. |
+| Spectraalanalyse              | Het proces van het bestuderen van het spectrum van elektromagnetische straling van een object, vaak gebruikt om de samenstelling, temperatuur en beweging van hemellichamen te achterhalen. |
+| Spectraalanalyse               | Het proces van het analyseren van licht om informatie te verkrijgen over de samenstelling van de lichtbron.      |
+| Standaardmodel van de elementaire deeltjes | De huidige theoretische basis die de eigenschappen van elementaire deeltjes en hun interacties beschrijft.          |
+| Sterkte van lens               | De mate waarin een lens lichtstralen kan buigen, bepaald door de brekingsindex van het materiaal en de kromming van de lens. |
+| Sterren classificeren         | Het proces van het categoriseren van sterren op basis van hun spectraalkenmerken, temperatuur, grootte, en andere eigenschappen. |
+| Sterrenstelsels                   | Grote systemen van sterren, gas en stof, gebonden door zwaartekracht.                                            |
+| Stilstaande en bewegende waarnemer | Het concept van waarnemers die relatieve beweging ervaren ten opzichte van elkaar.                                |
+| Stopcontact                   | Een elektrische aansluiting waarin stekkers worden gestoken om elektrische apparaten op een stroombron aan te sluiten. |
+| Stopcontact                             | Een elektrisch apparaat waarmee elektrische apparaten op een elektrisch circuit kunnen worden aangesloten.               |
+| Straling van sterren           | Elektromagnetische energie die wordt uitgezonden door sterren, variërend van radiofrequenties tot gammastraling.    |
+| Stralingsbronnen              | Materialen of apparaten die ioniserende straling produceren, zoals röntgenbuizen of radioactieve isotopen.             |
+| Stralingsbronnen              | Bronnen die radioactieve materialen bevatten en straling produceren.                                         |
+| Stralingsdosis                | De hoeveelheid energie die door straling aan een object wordt overgedragen, meestal gemeten in gray (Gy) of rad.      |
+| Stralingsdosis                | De hoeveelheid energie die door straling aan een materiaal wordt overgedragen.                               |
+| Stralingsnormen               | Richtlijnen en voorschriften die zijn vastgesteld om de blootstelling aan ioniserende straling te beperken en de volksgezondheid te beschermen. |
+| Stralingsnormen               | Wettelijke limieten die de maximale blootstelling aan ioniserende straling reguleren.                        |
+| Stroboscoop                 | Een apparaat dat periodiek flitslicht produceert om bewegende objecten te bevriezen en hun positie te bepalen.     |
+| Stroboscopische foto                | Een foto gemaakt met een stroboscoop, waarmee snel bewegende objecten kunnen worden vastgelegd en geanalyseerd. |
+| Strooistraling                | Straling die wordt verstrooid wanneer het door een medium gaat, wat kan leiden tot verspreiding van de straling buiten het beoogde gebied. |
+| Stroom                        | De beweging van materie, zoals elektronen, door een bepaald gebied.                                               |
+| Stroom                                  | De beweging van elektrische lading, meestal in de vorm van elektronen, door een geleidend materiaal.                    |
+| Stroomkring                             | Een gesloten pad waarlangs elektrische stroom kan vloeien, bestaande uit een bron van elektrische energie, geleidende draden en elektrische componenten. |
+| Stroomsterkte                           | De mate van elektrische stroom, uitgedrukt in ampère (A), die door een bepaald punt in een stroomkring vloeit.          |
+| Stroomwet van Kirchhoff        | Een natuurwet die stelt dat de som van de stromen die een knooppunt binnenkomen gelijk is aan de som van de stromen die het knooppunt verlaten. |
+| Stuursysteem                  | Een systeem dat verantwoordelijk is voor het aansturen en controleren van andere systemen of processen.          |
+| Subatomaire deeltjes                | Deeltjes die kleiner zijn dan atomen, waaronder quarks, leptonen en bosonen.                                         |
+| Telescopen                         | Instrumenten waarmee verre objecten in de ruimte kunnen worden waargenomen.                                      |
+| Temperatuur                | Een maat voor de gemiddelde kinetische energie van de deeltjes in een systeem.                               |
+| Temperatuur             | Een maat voor de gemiddelde kinetische energie van de deeltjes in een systeem.                                        |
+| Temperatuurschaal          | Een schaal die wordt gebruikt om temperaturen te meten en te vergelijken, zoals de Celsius- of Kelvin-schaal. |
+| Temperatuurschaal       | Een schaalverdeling die wordt gebruikt om temperaturen te meten en uit te drukken, zoals Celsius of Kelvin.           |
+| Temperatuursensor             | Een sensor die gebruikt wordt om de temperatuur te meten.                                                         |
+| Term                          | Definitie                                                                                                    |
+| Thermische geleidbaarheid  | De mate waarin een materiaal warmte kan geleiden, gemeten in watts per meter per graad Celsius.              |
+| Thermische geleidbaarheid | Een maat voor het vermogen van een materiaal om warmte te geleiden.                                                   |
+| Thermostaat                   | Een apparaat dat wordt gebruikt om de temperatuur te regelen door elektrische stroom aan of uit te schakelen bij bepaalde temperatuurniveaus. |
+| Tientallig stelsel            | Het getallenstelsel gebaseerd op het tientallig systeem, dat gebruikmaakt van tien cijfers (0 t/m 9).            |
+| Tijd-plaats diagram          | Een grafische voorstelling waarbij de plaats van een object wordt uitgezet tegen de tijd, waardoor de beweging van het object in de tijd kan worden gevisualiseerd. |
+| Tijdrek                         | Een fenomeen voorspeld door de speciale relativiteitstheorie waarbij tijd langzamer lijkt te gaan voor een waarnemer in beweging ten opzichte van een stilstaand referentiestelsel. |
+| Toepassingen van de onbepaaldheidsrelatie | Diverse toepassingen in de kwantummechanica waarin de onbepaaldheidsrelatie cruciaal is voor het begrijpen van de aard van deeltjes en golven. |
+| Toestand functies                | Wiskundige functies die de kwantumtoestand van een deeltje in een systeem beschrijven.                              |
+| Toonvorming in snaar         | Het proces waarbij trillingen van een snaar een specifieke toonhoogte produceren, afhankelijk van factoren zoals lengte, spanning en massa van de snaar. |
+| Toonvorming in buis gesloten | Het proces waarbij trillingen van een luchtzuil in een gesloten buis resulteren in een specifieke toonhoogte, afhankelijk van de lengte van de buis. |
+| Toonvorming in buis open     | Het proces waarbij trillingen van een luchtzuil in een open buis resulteren in een specifieke toonhoogte, afhankelijk van de lengte van de buis. |
+| Toonvorming in een snaar            | Het proces waarbij een snaar trilt en geluid produceert door resonantie.                                           |
+| Toonvorming in een buis             | Het proces waarbij een luchtkolom in een buis trilt en geluid produceert door resonantie.                          |
+| Totale terugkaatsing           | Een verschijnsel waarbij licht dat een grens tussen twee media raakt, volledig wordt teruggekaatst in plaats van gebroken. |
+| Traagheid                  | De eigenschap van een object om weerstand te bieden tegen veranderingen in zijn bewegingstoestand, zoals veranderingen in snelheid of richting. |
+| Tracers                       | Radioactieve stoffen die worden geïnjecteerd in het lichaam om de circulatie, absorptie, metabolisme en uitscheiding van verschillende stoffen te volgen. |
+| Transformator                          | Een elektrisch apparaat dat spanningen en stromen transformeert tussen twee verschillende circuits via elektromagnetische inductie. |
+| Transport van warmte    | De processen waardoor warmte wordt overgedragen tussen systemen of objecten.                                         |
+| Transport van elektrische energie       | Het proces waarbij elektrische energie wordt overgedragen van de ene locatie naar de andere.                             |
+| Transversale golf            | Een golf waarbij deeltjes van het medium loodrecht op de richting van golfbeweging bewegen, zoals een lichtgolf.   |
+| Transversale golven                 | Golven waarbij deeltjes van het medium loodrecht op de richting van golfvoortplanting bewegen.                     |
+| Trilling                     | Een periodieke beweging rond een evenwichtspositie, gekenmerkt door een herhaaldelijke verplaatsing van het object heen en weer. |
+| Trillingen                   | Periodieke bewegingen van een object rond een evenwichtspunt.                                                     |
+| Trillingen                          | Periodieke bewegingen rond een evenwichtspositie.                                                                 |
+| Trillingsenergie             | De energie geassocieerd met de beweging van een object tijdens trillingen, inclusief kinetische en potentiële energie. |
+| Trillingstijd                | De tijd die nodig is voor een trillend object om één complete cyclus van beweging uit te voeren.                  |
+| Trillingstijd                       | De tijd die nodig is voor een complete cyclus van een harmonische trilling.                                        |
+| Trillingstijd                       | De tijd die nodig is voor één volledige trilling of oscillatie van een deeltje in een golf.                        |
+| Tunnel effect                    | Het kwantummechanische fenomeen waarbij een deeltje door een potentiaalbarrière kan 'tunnelen', zelfs als het energie tekortkomt om de barrière klassiek te overwinnen. |
+| Tunneleffect bij alfaverval      | Het proces waarbij een alfadeeltje door een potentiaalbarrière 'tunnelt', wat resulteert in radioactief verval.       |
+| Tunneleffect bij kernfusie       | Het fenomeen waarbij kernen dichtbij genoeg komen om de elektrostatische afstoting te overwinnen en kernfusie plaatsvindt via tunneling. |
+| Tweede wet van Newton                 | De versnelling van een object is recht evenredig met de resulterende kracht die erop wordt uitgeoefend en omgekeerd evenredig met de massa van het object. |
+| Typen versnellers                   | Verschillende soorten deeltjesversnellers, zoals lineaire versnellers, cyclotrons en synchrotrons.                   |
+| Uitdijend heelal                  | Het concept dat het universum zich in alle richtingen uitbreidt.                                                 |
+| Uittree energie bij foto-elektrisch effect | De minimale energie die een foton moet hebben om een elektron uit een materiaal te bevrijden in het foto-elektrisch effect. |
+| Uitvoerelementen              | Componenten die output produceren als reactie op input van een systeem.                                          |
+| Uitwijking-tijd diagram      | Een grafische weergave die de uitwijking of verplaatsing van een trillend object in de tijd illustreert.           |
+| Ultrasone plaats sensor            | Een sensor die ultrasone geluidsgolven gebruikt om de afstand tot een object te meten.                  |
+| Ultrazone plaats sensor     | Een sensor die ultrageluidsgolven gebruikt om de afstand tot objecten te meten.                                    |
+| Valbeweging                           | De beweging van een object onder invloed van de zwaartekracht.                                                     |
+| Valversnelling                | De versnelling waarmee een voorwerp in vrije val versnelt als gevolg van de zwaartekracht op het oppervlak van een hemellichaam. |
+| Valversnelling                     | De versnelling waarmee een object valt onder invloed van de zwaartekracht.                                      |
+| Veerenergie                    | De potentiele energie die wordt opgeslagen in een veer wanneer deze wordt samengedrukt of uitgerekt.              |
+| Veerkracht                 | De kracht die wordt uitgeoefend door een veer of elastisch materiaal wanneer het wordt samengedrukt of uitgerekt. |
+| Veerkracht                        | De kracht die wordt uitgeoefend door een veer wanneer deze wordt samengedrukt of uitgerekt.              |
+| Veldlijnen                   | Imaginaire lijnen die de richting en sterkte van een elektrisch of magnetisch veld aangeven.                      |
+| Verband druk-volume bij gas| De relatie tussen de druk en het volume van een gas, zoals beschreven door de wet van Boyle.                 |
+| Verband druk-temperatuur bij gas | De relatie tussen de druk en de temperatuur van een gas, zoals beschreven door de wet van Gay-Lussac.       |
+| Verband resulterende kracht en versnelling | De versnelling van een object is recht evenredig met de resulterende kracht die erop werkt.                     |
+| Verband resulterende kracht en massa  | De versnelling van een object is omgekeerd evenredig met de massa van het object volgens de tweede wet van Newton. |
+| Verbonden onderzoeken       | Het analyseren van de relatie tussen verschillende variabelen, vaak door middel van grafische weergave, wiskundige modellering en experimenten. |
+| Verdampingswarmte          | De hoeveelheid warmte die nodig is om een stof van de vloeibare naar de gasvormige fase te verdampen, ook wel latente verdampingswarmte genoemd. |
+| Vermenigvuldigingsfactoren          | Getallen waarmee een grootheid wordt vermenigvuldigd om deze in een andere eenheid uit te drukken.                    |
+| Vermogen                      | De snelheid waarmee arbeid wordt verricht of energie wordt overgedragen, gemeten in watt.                         |
+| Vermogen                       | De snelheid waarmee energie wordt overgedragen of omgezet, gemeten als de hoeveelheid arbeid per tijdseenheid.    |
+| Vermogen                                | De snelheid waarmee elektrische energie wordt overgedragen, uitgedrukt in watt (W).                                     |
+| Vermogen                          | De snelheid waarmee arbeid wordt verricht, of de hoeveelheid energie die per tijdseenheid wordt overgedragen. |
+| Verplaatsing                        | De verandering in positie van een object, gemeten vanaf het startpunt tot het eindpunt, inclusief richting. |
+| Verschuiving wet van Wien          | Een verschijnsel waarbij de golflengte van het uitgestraalde licht van een object verschuift naar het rood of blauw uiteinde van het spectrum als gevolg van respectievelijk een beweging van de lichtbron naar de waarnemer toe of van de waarnemer af. |
+| Versnellen                         | Het proces waarbij de snelheid van een object toeneemt.                                                   |
+| Versnelling                 | De mate van verandering van snelheid van een object per tijdseenheid, gemeten in meters per seconde kwadraat (m/s²).|
+| Vertragen                          | Het proces waarbij de snelheid van een object afneemt.                                                    |
+| Vertraging                  | De mate van afname van snelheid van een object per tijdseenheid, aangeduid als negatieve versnelling.              |
+| Verval bij kernreacties              | Het proces waarbij de ene kern spontaan transformeert in een andere kern, waarbij vaak straling wordt uitgezonden.  |
+| Vervalvergelijking            | Een wiskundige vergelijking die het verval van radioactieve isotopen beschrijft.                              |
+| Videometen                  | Het proces van het meten van posities, snelheden of andere grootheden door middel van videobeelden.                |
+| Videometen                         | Het proces van het meten van fysieke grootheden zoals afstand, snelheid of versnelling met videobeelden en analyse. |
+| Vier fundamentele krachten          | De vier bekende fundamentele krachten in de natuurkunde: zwaartekracht, elektromagnetisme, sterke kernkracht en zwakke kernkracht. |
+| Vlakke golf                       | Een ideale representatie van licht als een continue golffront met gelijke amplitude en fase.                       |
+| Voorplanting van licht         | Het proces waarbij licht zich voortplant door de ruimte of een medium.                                           |
+| Voortplanting van geluid      | Het proces waarbij geluidsgolven zich door een medium verspreiden, zoals lucht, water of vaste stoffen.          |
+| Voorvoegsels                | Prefixen die worden toegevoegd aan een eenheid om verschillende veelvouden of subdelen van die eenheid aan te geven, zoals kilo-, centi-, milli-, enzovoort. |
+| Vrije val                   | Een specifiek geval van eenparig versnelde beweging waarbij een object onder invloed van zwaartekracht valt zonder enige andere krachten die zijn beweging beïnvloeden. |
+| Vrije val                           | Een beweging waarbij een object alleen door de zwaartekracht wordt beïnvloed, zonder luchtwrijving.       |
+| Warmte                     | De vorm van energie die wordt overgedragen als gevolg van temperatuurverschillen tussen objecten.            |
+| Warmte                         | Een vorm van energie die wordt overgedragen als gevolg van temperatuurverschillen tussen objecten.                |
+| Warmte                  | De vorm van energieoverdracht tussen systemen of objecten als gevolg van temperatuurverschillen.                      |
+| Warmte                            | De vorm van energie die wordt overgedragen als gevolg van temperatuurverschillen.                      |
+| Warmtegeleiding            | Het proces waarbij warmte wordt overgedragen door middel van direct contact tussen deeltjes.                |
+| Warmtegeleiding         | Het proces waarbij warmte wordt overgedragen door direct contact tussen de deeltjes van een materiaal.                |
+| Warmtestraling             | De overdracht van warmte door middel van elektromagnetische golven, zonder direct contact tussen de bron en het object. |
+| Warmtestraling          | Het proces waarbij warmte wordt overgedragen door elektromagnetische golven, zoals infraroodstraling.                 |
+| Warmtestromen              | De beweging van warmte door een materiaal of medium, vaak van een warmere naar een koelere regio.            |
+| Warmtestroming          | Het proces waarbij warmte wordt overgedragen door de beweging van vloeistoffen of gassen.                             |
+| Warmtestroom               | De hoeveelheid warmte die per tijdseenheid door een materiaal of medium passeert.                          |
+| Warmtestroom            | De hoeveelheid warmte die per tijdseenheid door een materiaal of systeem wordt overgedragen.                          |
+| Warmtetransport            | Het proces van overdracht van warmte van een warmere naar een koelere omgeving.                             |
+| Weerkaatsing van licht          | Het proces waarbij lichtstralen terugkaatsen van een oppervlak.                                                   |
+| Weerstand                     | De eigenschap van een materiaal om de doorgang van elektrische stroom te belemmeren.                              |
+| Weerstand van materiaal        | De mate waarin een materiaal de doorgang van elektrische stroom belemmert, gemeten in ohm.                        |
+| Weerstand                               | De eigenschap van een materiaal om de stroom van elektrische lading te belemmeren.                                       |
+| Weerstand van materiaal                 | De mate waarin een materiaal de stroom van elektrische lading beperkt.                                                   |
+| Weerstanden                            | Componenten die de stroom van elektrische lading beperken in een elektrisch circuit.                                     |
+| Weerstandskrachten         | Krachten die tegenwerken bij de beweging van een object, zoals luchtweerstand of wrijving.                    |
+| Weerstandskrachten                | Krachten die tegenwerken en de beweging van een object vertragen, zoals luchtweerstand of wrijving.     |
+| Werklijnen van kracht             | Denkbeeldige lijnen die de richting van krachten aangeven en helpen bij het bepalen van de resulterende kracht. |
+| Wet van Ohm                   | Een natuurwet die stelt dat de stroom door een geleider recht evenredig is met de spanning over de geleider, bij constante temperatuur. |
+| Wet van arbeid en kinetische energie | Een natuurwet die stelt dat de arbeid verricht door een resulterende kracht gelijk is aan de verandering in kinetische energie van een object. |
+| Wet van behoud van energie     | Een natuurwet die stelt dat de totale energie in een gesloten systeem constant blijft, waarbij energie niet kan worden gecreëerd of vernietigd, alleen omgezet van de ene vorm naar de andere. |
+| Wet van Coulomb              | Een natuurkundige wet die de kracht beschrijft tussen twee elektrische ladingen, waarbij de kracht evenredig is met het product van de ladingen en omgekeerd evenredig met het kwadraat van de afstand tussen hen. |
+| Wet van Wien                  | Een wet die de relatie beschrijft tussen de temperatuur van een zwart lichaam en de golflengte waarbij het maximale vermogen wordt uitgestraald. |
+| Wet van Stefan-Boltzmann      | Een natuurkundige wet die de totale stralingsenergie van een zwart lichaam relateert aan zijn temperatuur.           |
+| Wet van behoud van impuls           | De wet die stelt dat de totale impuls van een geïsoleerd systeem constant blijft in de tijd.                        |
+| Wet van Ohm                             | De wet die de relatie beschrijft tussen spanning, stroomsterkte en weerstand in een elektrisch circuit.                  |
+| Wet van arbeid en kinetische energie | De wet die stelt dat de arbeid die wordt verricht op een object gelijk is aan de verandering in kinetische energie van dat object. |
+| Wet van behoud van energie        | De wet die stelt dat energie niet kan worden gecreëerd of vernietigd, alleen omgezet van de ene vorm naar de andere. |
+| Wetenschappelijke notatie           | Een methode om zeer grote of zeer kleine getallen te schrijven met machten van 10, voor een eenvoudigere presentatie.|
+| Wrijving                              | De kracht die ontstaat wanneer twee oppervlakken tegen elkaar wrijven, waardoor beweging wordt belemmerd.        |
+| Zekeringen                    | Beschermende apparaten die ontworpen zijn om te smelten en de stroomtoevoer naar een circuit te onderbreken wanneer de stroomsterkte een bepaalde waarde overschrijdt. |
+| Zekeringen                              | Apparaten die elektrische stroom onderbreken bij overbelasting of kortsluiting om schade te voorkomen.                   |
+| Zonnecel                                | Een apparaat dat zonne-energie omzet in elektrische energie via het fotovoltaïsche effect.                              |
+| Zonnestelsel                       | Het geheel van de Zon, planeten, manen, en andere hemellichamen die door de zwaartekracht aan elkaar gebonden zijn. |
+| Zonsverduistering                  | Een verschijnsel waarbij de maan tussen de aarde en de zon komt, waardoor de zon tijdelijk niet zichtbaar is.    |
+| Zuiderlicht                  | Een natuurlijk fenomeen waarbij gekleurde lichten in de lucht verschijnen in de buurt van de magnetische polen van de aarde als gevolg van interacties tussen zonnewind en het aardmagnetisch veld.                                                                                                 |
+| Zwaarte energie                | De potentiele energie die een object heeft als gevolg van zijn positie ten opzichte van een zwaartepunt of een referentiepunt in een zwaartekrachtveld. |
+| Zwaarte-energie                   | De energie die wordt opgeslagen in een object als gevolg van zijn positie in een zwaartekrachtsveld.    |
+| Zwaartekracht               | De aantrekkende kracht die objecten met massa naar elkaar toe trekt en verantwoordelijk is voor het houden van hemellichamen in een baan. |
+| Zwaartekracht                   | De kracht die massa's aantrekt naar elkaar toe.                                                                     |
+| Zwaartekracht                     | De aantrekkende kracht die alle massa's op elkaar uitoefenen, gerelateerd aan hun massa en de afstand tussen hen. |
+| Zwaartepunt                           | Het punt waar de totale massa van een object geconcentreerd lijkt te zijn, en waar de zwaartekracht kan worden gemodelleerd als een enkele puntlast. |
+| Zwart gat                       | Een gebied in de ruimte waaruit niets kan ontsnappen vanwege de enorme zwaartekracht, zelfs geen licht.            |

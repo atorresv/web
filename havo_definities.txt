@@ -1,0 +1,353 @@
+#+TITLE: NATUURKUNDE HAVO: DEFINITIES
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+
+* Hd1
+| **Term**                          | **Definitie**                                                                                                        |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Kwalitatieve waarnemingen          | Waarnemingen die worden gedaan zonder numerieke metingen, gebaseerd op eigenschappen, kenmerken of verschijnselen.  |
+| Kwantitatieve waarnemingen         | Waarnemingen gedaan door middel van numerieke metingen of gegevens.                                                  |
+| Grootheid                          | Een eigenschap van een object, fenomeen of systeem die kan worden gemeten, zoals lengte, massa, tijd, temperatuur.   |
+| Eenheid                            | Een vastgestelde maat waarmee een grootheid wordt gemeten, zoals meter, kilogram, seconde.                           |
+| Het SI-stelsel                     | Het Internationale Stelsel van Eenheden, een gestandaardiseerd systeem van meeteenheden voor wetenschap en techniek.|
+| Afgeleide grootheden               | Grootheden verkregen door wiskundige combinaties van basiseenheden, zoals snelheid (afstand gedeeld door tijd).      |
+| Afgeleide eenheden                 | Eenheden afgeleid van basiseenheden van het SI-stelsel door wiskundige bewerkingen.                                   |
+| Wetenschappelijke notatie           | Een methode om zeer grote of zeer kleine getallen te schrijven met machten van 10, voor een eenvoudigere presentatie.|
+| Orde van grootte                   | Een benadering van de grootte van een getal, meestal uitgedrukt als een macht van 10.                                |
+| Vermenigvuldigingsfactoren          | Getallen waarmee een grootheid wordt vermenigvuldigd om deze in een andere eenheid uit te drukken.                    |
+| Machten van eenheden               | Machten waarin eenheden worden gebruikt om grootheden met bepaalde dimensies te vertegenwoordigen, zoals m² voor oppervlakte. |
+| Omrekenen van eenheden             | Het proces van omzetten van een waarde van de ene eenheid naar een andere, vaak met omrekeningsfactoren.             |
+| Dichtheid                          | De massa per volume-eenheid van een stof.                                                                             |
+| Oppervlakte                        | De ruimte beslaan door een tweedimensionaal object, uitgedrukt in vierkante eenheden.                                 |
+| Meetonzekerheid                    | De mate van onzekerheid of fout in een meting, veroorzaakt door beperkingen van instrumenten of menselijke fouten.   |
+| Significante cijfers               | De cijfers in een numerieke waarde die bijdragen aan de nauwkeurigheid van de meting.                                 |
+| Rekenen met telwaarden             | Het uitvoeren van wiskundige bewerkingen met getallen zonder rekening te houden met eenheden.                         |
+| Lineair verband                    | Een verband tussen twee variabelen waarbij een verandering in de ene variabele een proportionele verandering in de andere veroorzaakt. |
+| Recht evenredig verband            | Een type lineair verband waarbij de verhouding tussen twee variabelen constant is.                                    |
+| Kwadratisch evenredig verband      | Een verband waarbij de ene variabele kwadratisch afhangt van de andere variabele.                                     |
+| Omgekeerd evenredig verband        | Een verband waarbij een toename in één variabele resulteert in een proportionele afname in de andere variabele.       |
+| Omgekeerd kwadratisch evenredig verband | Een verband waarbij de ene variabele omgekeerd kwadratisch afhangt van de andere variabele.                           |
+
+* Hd2
+
+| **Term**                           | **Definitie**                                                                                           |
+|------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Videometen                         | Het proces van het meten van fysieke grootheden zoals afstand, snelheid of versnelling met videobeelden en analyse. |
+| Stroboscopische foto                | Een foto gemaakt met een stroboscoop, waarmee snel bewegende objecten kunnen worden vastgelegd en geanalyseerd. |
+| Ultrasone plaats sensor            | Een sensor die ultrasone geluidsgolven gebruikt om de afstand tot een object te meten.                  |
+| Eenparig rechtlijnige beweging     | Een beweging waarbij een object met constante snelheid langs een rechte lijn beweegt.                   |
+| Gemiddelde snelheid                | De totale afstand die een object aflegt gedeeld door de totale tijd die het kost om die afstand af te leggen. |
+| Constante snelheid                 | Een snelheid die niet verandert in de loop van de tijd.                                                 |
+| Snelheid op een tijdstip            | De snelheid van een object op een specifiek moment in de tijd.                                           |
+| Eenparig versnelde beweging        | Een beweging waarbij de snelheid van een object verandert met een constante snelheid.                   |
+| Versnellen                         | Het proces waarbij de snelheid van een object toeneemt.                                                   |
+| Vrije val                           | Een beweging waarbij een object alleen door de zwaartekracht wordt beïnvloed, zonder luchtwrijving.       |
+| Vertragen                          | Het proces waarbij de snelheid van een object afneemt.                                                    |
+| Plaats-tijd diagram                 | Een grafische voorstelling van de positie van een object ten opzichte van de tijd.                      |
+| Snelheid-tijd diagram               | Een grafische voorstelling van de snelheid van een object ten opzichte van de tijd.                      |
+| Snelheid                            | De snelheid waarmee een object zich verplaatst, uitgedrukt als de afstand die wordt afgelegd per tijdseenheid. |
+| Verplaatsing                        | De verandering in positie van een object, gemeten vanaf het startpunt tot het eindpunt, inclusief richting. |
+
+
+* Hd3
+
+| **Term**                          | **Definitie**                                                                                          |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------|
+| Krachten                          | Fysieke interacties tussen objecten of deeltjes die veranderingen in beweging, vorm of richting kunnen veroorzaken. |
+| Zwaartekracht                     | De aantrekkende kracht die alle massa's op elkaar uitoefenen, gerelateerd aan hun massa en de afstand tussen hen. |
+| Normaalkracht                     | De kracht die loodrecht staat op het oppervlak waarop een object rust, gericht van het oppervlak af.   |
+| Spankracht                        | De kracht die wordt uitgeoefend op een uitgerekt of samengedrukt elastisch voorwerp, zoals een touw of veer. |
+| Veerkracht                        | De kracht die wordt uitgeoefend door een veer wanneer deze wordt samengedrukt of uitgerekt.              |
+| Schijfwrijvingskracht             | De kracht die optreedt wanneer twee oppervlakken langs elkaar bewegen, waarbij wrijving weerstand biedt tegen de beweging. |
+| Weerstandskrachten                | Krachten die tegenwerken en de beweging van een object vertragen, zoals luchtweerstand of wrijving.     |
+| Krachten samenstellen             | Het proces van het combineren van meerdere krachten tot een enkele resulterende kracht.                |
+| Resulterende kracht               | De enkele kracht die het effect van meerdere toegepaste krachten op een object vertegenwoordigt.       |
+| Werklijnen van kracht             | Denkbeeldige lijnen die de richting van krachten aangeven en helpen bij het bepalen van de resulterende kracht. |
+| Krachten ontbinden                | Het proces van het opsplitsen van een enkele kracht in twee of meer componenten.                        |
+| Componenten van een kracht         | De afzonderlijke krachten die samenwerken om de oorspronkelijke kracht te produceren.                   |
+| Omgekeerde parallellogrammethode  | Een geometrische techniek gebruikt om de componenten van een kracht te vinden door een parallellogram te construeren. |
+| Krachten in evenwicht             | Een situatie waarin de resulterende kracht op een object nul is, wat resulteert in een stabiele toestand waarin het object niet versnelt. |
+
+
+* Hd4
+
+| **Term**                              | **Definitie**                                                                                                    |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Eerste wet van Newton                 | Ook bekend als de wet van de traagheid, stelt dat een object in rust blijft of met constante snelheid beweegt, tenzij er een resulterende kracht op wordt uitgeoefend. |
+| Tweede wet van Newton                 | De versnelling van een object is recht evenredig met de resulterende kracht die erop wordt uitgeoefend en omgekeerd evenredig met de massa van het object. |
+| Resulterende kracht                   | De kracht die op een object wordt uitgeoefend, die een verandering in de snelheid van het object veroorzaakt.    |
+| Snelheidsverandering                  | De mate waarin de snelheid van een object verandert, bepaald door de resulterende kracht die erop werkt.         |
+| Verband resulterende kracht en versnelling | De versnelling van een object is recht evenredig met de resulterende kracht die erop werkt.                     |
+| Verband resulterende kracht en massa  | De versnelling van een object is omgekeerd evenredig met de massa van het object volgens de tweede wet van Newton. |
+| Wrijving                              | De kracht die ontstaat wanneer twee oppervlakken tegen elkaar wrijven, waardoor beweging wordt belemmerd.        |
+| Valbeweging                           | De beweging van een object onder invloed van de zwaartekracht.                                                     |
+| Luchtweerstand                        | De wrijving die ontstaat tussen een object en de lucht tijdens beweging door de atmosfeer.                        |
+| Momenten                              | De krachten die resulteren in een draaiende beweging rond een vast punt.                                          |
+| Hefboomwet                            | De wet die stelt dat het moment rond een draaipunt gelijk is aan de kracht toegepast op de hefboom vermenigvuldigd met de arm. |
+| Hefbomen                              | Mechanismen die bestaan uit een stijve stang die rond een vast punt draait, waardoor krachten worden vermenigvuldigd of gereduceerd. |
+| Momenten in evenwicht                 | Wanneer de som van de momenten rond een draaipunt nul is, is het systeem in evenwicht.                           |
+| Zwaartepunt                           | Het punt waar de totale massa van een object geconcentreerd lijkt te zijn, en waar de zwaartekracht kan worden gemodelleerd als een enkele puntlast. |
+
+
+* Hd5
+
+
+| **Term**                    | **Definitie**                                                                                                        |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Het molecuulmodel**       | Een model dat de structuur en het gedrag van materie beschrijft op basis van de bewegingen en interacties van individuele moleculen. |
+| **Molecuulmodel**           | Een representatie van de opbouw en de onderlinge interacties van moleculen binnen een stof.                           |
+| **Temperatuur**             | Een maat voor de gemiddelde kinetische energie van de deeltjes in een systeem.                                        |
+| **Warmte**                  | De vorm van energieoverdracht tussen systemen of objecten als gevolg van temperatuurverschillen.                      |
+| **Fasen van een stof**      | De verschillende toestanden waarin een stof kan verkeren, zoals vast, vloeibaar en gasvormig.                        |
+| **Faseovergangen**          | De veranderingen in de fase van een stof, zoals smelten, verdampen en condenseren.                                    |
+| **Temperatuurschaal**       | Een schaalverdeling die wordt gebruikt om temperaturen te meten en uit te drukken, zoals Celsius of Kelvin.           |
+| **Transport van warmte**    | De processen waardoor warmte wordt overgedragen tussen systemen of objecten.                                         |
+| **Warmtegeleiding**         | Het proces waarbij warmte wordt overgedragen door direct contact tussen de deeltjes van een materiaal.                |
+| **Warmtestroming**          | Het proces waarbij warmte wordt overgedragen door de beweging van vloeistoffen of gassen.                             |
+| **Warmtestraling**          | Het proces waarbij warmte wordt overgedragen door elektromagnetische golven, zoals infraroodstraling.                 |
+| **Soortelijke warmte**      | De hoeveelheid warmte die nodig is om de temperatuur van eenheid massa van een stof met één graad Celsius te verhogen. |
+| **Joulemeter**              | Een instrument dat wordt gebruikt om de hoeveelheid warmte die vrijkomt of wordt geabsorbeerd bij een proces te meten. |
+| **Warmtestroom**            | De hoeveelheid warmte die per tijdseenheid door een materiaal of systeem wordt overgedragen.                          |
+| **Thermische geleidbaarheid** | Een maat voor het vermogen van een materiaal om warmte te geleiden.                                                   |
+| **Isolatie**                | Materialen of structuren die worden gebruikt om warmteoverdracht te verminderen, waardoor warmteverlies wordt beperkt of warmte wordt vastgehouden. |
+| **Functionele materialen**  | Materialen die specifieke eigenschappen hebben die hen geschikt maken voor bepaalde toepassingen.                    |
+| **Materiaalkunde**          | Een vakgebied dat zich bezighoudt met het bestuderen van de eigenschappen, structuur en toepassingen van materialen.   |
+| **Metalen**                 | Materialen die over het algemeen goede geleiders zijn van warmte en elektriciteit, en die vaak worden gebruikt vanwege hun mechanische eigenschappen. |
+| **Keramische materialen**   | Materialen die zijn samengesteld uit anorganische verbindingen en die vaak worden gekenmerkt door hun hardheid, hittebestendigheid en elektrische isolatie. |
+| **Polymeren**               | Materialen die zijn samengesteld uit lange ketens van moleculen en die vaak worden gebruikt vanwege hun flexibiliteit, lage dichtheid en isolerende eigenschappen. |
+| **Composieten**             | Materialen die zijn samengesteld uit twee of meer verschillende materialen met verschillende eigenschappen, om zo synergetische eigenschappen te verkrijgen. |
+| **Smart materialen**        | Materialen die hun eigenschappen kunnen aanpassen in reactie op externe stimuli, zoals temperatuur, licht of elektrische velden. |
+| **Duurzaamheid**            | De eigenschap van materialen om langdurig te functioneren met minimale invloed op het milieu, vaak gericht op hergebruik, recycling en verminderde afvalproductie. |
+
+* Hd6
+
+
+| **Term**                                    | **Definitie**                                                                                                          |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Stroomkring**                             | Een gesloten pad waarlangs elektrische stroom kan vloeien, bestaande uit een bron van elektrische energie, geleidende draden en elektrische componenten. |
+| **Lading**                                  | Een fundamentele eigenschap van materie, die aangeeft hoeveel elektrische energie een object draagt.                     |
+| **Stroom**                                  | De beweging van elektrische lading, meestal in de vorm van elektronen, door een geleidend materiaal.                    |
+| **Stroomsterkte**                           | De mate van elektrische stroom, uitgedrukt in ampère (A), die door een bepaald punt in een stroomkring vloeit.          |
+| **Spanningsbronnen**                        | Apparaten die elektrische energie leveren en een potentiaalverschil creëren tussen twee punten.                         |
+| **Spanning**                                | Het potentiaalverschil tussen twee punten in een elektrisch circuit, gemeten in volt (V).                                |
+| **Weerstand**                               | De eigenschap van een materiaal om de stroom van elektrische lading te belemmeren.                                       |
+| **Geleidbaarheid**                         | De mate waarin een materiaal elektrische stroom kan geleiden.                                                           |
+| **Weerstand van materiaal**                 | De mate waarin een materiaal de stroom van elektrische lading beperkt.                                                   |
+| **Wet van Ohm**                             | De wet die de relatie beschrijft tussen spanning, stroomsterkte en weerstand in een elektrisch circuit.                  |
+| **Elektrische energie**                    | Energie die wordt overgedragen door elektrische ladingen in een elektrisch circuit.                                      |
+| **Vermogen**                                | De snelheid waarmee elektrische energie wordt overgedragen, uitgedrukt in watt (W).                                     |
+| **Rendement**                               | De verhouding tussen de nuttige output en de totale input van een energieomzetting.                                     |
+| **Weerstanden**                            | Componenten die de stroom van elektrische lading beperken in een elektrisch circuit.                                     |
+| **Schakeling**                             | Een combinatie van elektrische componenten die zijn verbonden om een bepaalde functie uit te voeren.                     |
+| **Serieschakeling**                        | Een schakeling waarin de componenten achter elkaar zijn geschakeld en dezelfde stroom doorlopen.                         |
+| **Parallelschakeling**                     | Een schakeling waarin de componenten naast elkaar zijn geschakeld en hetzelfde spanningsverschil ervaren.               |
+| **Parallel-serieschakeling**                | Een combinatie van serieschakelingen en parallelschakelingen.                                                            |
+| **Gemengde schakeling**                     | Een complexe schakeling die zowel serieschakelingen als parallelschakelingen bevat.                                     |
+| **Elektrische componenten**                 | Apparaten die worden gebruikt in elektrische schakelingen voor verschillende doeleinden.                                |
+| **NTC temperatuurgevoelige weerstand**      | Een weerstand waarvan de weerstandswaarde afneemt naarmate de temperatuur stijgt.                                        |
+| **Lichtgevoelige weerstand**                | Een weerstand waarvan de weerstandswaarde verandert afhankelijk van de hoeveelheid licht waaraan het is blootgesteld.  |
+| **Diode**                                   | Een halfgeleiderapparaat dat elektrische stroom toestaat in één richting.                                               |
+| **LED**                                     | Een lichtgevende diode die licht produceert wanneer er elektrische stroom doorheen gaat.                                |
+| **Regelbare weerstand**                     | Een weerstand waarvan de weerstandswaarde handmatig kan worden aangepast.                                               |
+| **Transformator**                          | Een elektrisch apparaat dat spanningen en stromen transformeert tussen twee verschillende circuits via elektromagnetische inductie. |
+| **Opwekking van elektrische energie**       | Het proces waarbij elektrische energie wordt geproduceerd uit andere vormen van energie.                                |
+| **Transport van elektrische energie**       | Het proces waarbij elektrische energie wordt overgedragen van de ene locatie naar de andere.                             |
+| **Elektrochemische cel**                    | Een apparaat dat chemische energie omzet in elektrische energie.                                                        |
+| **Elektriciteitscentrale**                  | Een faciliteit die elektrische energie produceert uit verschillende energiebronnen.                                     |
+| **Zonnecel**                                | Een apparaat dat zonne-energie omzet in elektrische energie via het fotovoltaïsche effect.                              |
+| **Energiedichtheid**                        | De hoeveelheid energie die per volumeof massa-eenheid wordt opgeslagen in een bepaald materiaal.                         |
+| **Bedrading**                               | Draden die worden gebruikt om elektrische circuits aan te leggen en elektrische componenten met elkaar te verbinden.    |
+| **Stopcontact**                             | Een elektrisch apparaat waarmee elektrische apparaten op een elektrisch circuit kunnen worden aangesloten.               |
+| **Aarding**                                 | Een veiligheidsmaatregel die elektrische installaties verbindt met de aarde om elektrische schokken te voorkomen.        |
+| **Kortsluiting**                            | Een ongewenste verbinding tussen twee punten met verschillende potentiaal in een elektrisch circuit.                    |
+| **Beveiliging**                             | Maatregelen of apparaten die worden gebruikt om elektrische installaties en apparatuur te beschermen tegen schade.      |
+| **Zekeringen**                              | Apparaten die elektrische stroom onderbreken bij overbelasting of kortsluiting om schade te voorkomen.                   |
+| **Aardlekschakelaar**                       | Een apparaat dat elektrische circuits uitschakelt bij lekstroom om de veiligheid van gebruikers te waarborgen.            |
+
+
+* Hd8
+
+
+| **Term**                              | **Definitie**                                                                                          |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Arbeid**                            | De hoeveelheid energie die wordt overgedragen wanneer een kracht wordt toegepast over een afstand.   |
+| **Krachten**                          | Fysieke interacties die de beweging of de vorm van een object veranderen.                             |
+| **Kinetische energie**                | De energie die een object bezit vanwege zijn beweging.                                                 |
+| **Wet van arbeid en kinetische energie** | De wet die stelt dat de arbeid die wordt verricht op een object gelijk is aan de verandering in kinetische energie van dat object. |
+| **Vermogen**                          | De snelheid waarmee arbeid wordt verricht, of de hoeveelheid energie die per tijdseenheid wordt overgedragen. |
+| **Energievormen**                    | Verschillende vormen waarin energie kan voorkomen.                                                     |
+| **Zwaarte-energie**                   | De energie die wordt opgeslagen in een object als gevolg van zijn positie in een zwaartekrachtsveld.    |
+| **Chemische energie**                 | De energie die opgeslagen is in de chemische bindingen van een stof.                                   |
+| **Warmte**                            | De vorm van energie die wordt overgedragen als gevolg van temperatuurverschillen.                      |
+| **Wet van behoud van energie**        | De wet die stelt dat energie niet kan worden gecreëerd of vernietigd, alleen omgezet van de ene vorm naar de andere. |
+| **Energiebalans**                     | De balans tussen de energie die een systeem binnenkomt en verlaat, volgens de wet van behoud van energie. |
+
+
+* Hd9
+
+| **Term**                                | **Definitie**                                                                                                      |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Trillingen**                          | Periodieke bewegingen rond een evenwichtspositie.                                                                 |
+| **Periodieke beweging**                 | Een beweging die zich herhaalt in regelmatige intervallen.                                                          |
+| **Amplitude**                           | De maximale afwijking van een trillende beweging vanaf de evenwichtspositie.                                      |
+| **Harmonische trilling**                | Een type trilling waarbij de versnelling van het object evenredig is met de afstand tot de evenwichtspositie, zoals bij een massaveersysteem. |
+| **Massaveersysteem**                    | Een systeem bestaande uit een massa die aan een veer is bevestigd, waarbij de massa heen en weer beweegt rond een evenwichtspositie. |
+| **Trillingstijd**                       | De tijd die nodig is voor een complete cyclus van een harmonische trilling.                                        |
+| **Resonantie**                          | Het fenomeen waarbij een systeem wordt gestimuleerd om te trillen met een specifieke frequentie als gevolg van een externe trilling met dezelfde frequentie. |
+| **Lopende golven**                      | Golven die zich voortplanten door een medium, zoals geluidsgolven.                                                  |
+| **Golven**                              | Verplaatsingen van energie die zich door een medium of lege ruimte voortplanten.                                    |
+| **Transversale golven**                 | Golven waarbij deeltjes van het medium loodrecht op de richting van golfvoortplanting bewegen.                     |
+| **Longitudinale golven**                | Golven waarbij deeltjes van het medium parallel aan de richting van golfvoortplanting bewegen.                      |
+| **Golflengte**                          | De afstand tussen twee opeenvolgende punten met dezelfde fase in een golf.                                         |
+| **Golfsnelheid**                        | De snelheid waarmee een golf zich voortplant door een medium.                                                       |
+| **Trillingstijd**                       | De tijd die nodig is voor één volledige trilling of oscillatie van een deeltje in een golf.                        |
+| **Geluid**                              | Trillingen die zich door een medium voortplanten en hoorbaar zijn voor mensen.                                      |
+| **Informatieoverdracht**                | Het proces waarbij geluidsgolven gebruikt worden om informatie te verzenden.                                        |
+| **Geluidsbronnen**                      | Objecten of gebeurtenissen die geluid produceren.                                                                  |
+| **Golfsuperpositie**                    | Het fenomeen waarbij twee of meer golven samenkomen en tijdelijk hun amplitude kunnen versterken of verzwakken.    |
+| **Muziekinstrumenten**                  | Apparaten die geluid produceren en gebruikt worden om muziek te maken.                                             |
+| **Snaarinstrumenten**                   | Muziekinstrumenten waarbij geluid wordt geproduceerd door het trillen van snaren.                                  |
+| **Toonvorming in een snaar**            | Het proces waarbij een snaar trilt en geluid produceert door resonantie.                                           |
+| **Blaasinstrumenten**                   | Muziekinstrumenten waarbij geluid wordt geproduceerd door het trillen van lucht in een buis.                         |
+| **Toonvorming in een buis**             | Het proces waarbij een luchtkolom in een buis trilt en geluid produceert door resonantie.                          |
+
+
+* Hd10
+
+
+
+| **Term**                          | **Definitie**                                                                                                  |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Echografie**                    | Een medische beeldvormingstechniek die geluidsgolven gebruikt om afbeeldingen van structuren in het lichaam te produceren. |
+| **MRI**                           | Een medische beeldvormingstechniek die magnetische velden en radiogolven gebruikt om gedetailleerde afbeeldingen van de interne structuren van het lichaam te maken. |
+| **Elektromagnetische golven**      | Golven die bestaan uit elektrische en magnetische velden die zich door de ruimte voortplanten.               |
+| **Röntgenfoto**                   | Een medische beeldvormingstechniek die röntgenstraling gebruikt om afbeeldingen van interne structuren van het lichaam te maken. |
+| **Halveringsdikte**                | De dikte van een materiaal die nodig is om de intensiteit van een stralingsbundel te halveren.                |
+| **CT-scan**                       | Een medische beeldvormingstechniek die een reeks röntgenstralen gebruikt om gedetailleerde dwarsdoorsnedebeelden van het lichaam te maken. |
+| **Kernstraling**                  | Straling die afkomstig is van de kern van een atoom.                                                          |
+| **Stralingsbronnen**              | Bronnen die radioactieve materialen bevatten en straling produceren.                                         |
+| **Atoombouw**                     | De structuur en samenstelling van atomen, inclusief hun kernen en elektronenschillen.                        |
+| **Vervalvergelijking**            | Een wiskundige vergelijking die het verval van radioactieve isotopen beschrijft.                              |
+| **Dracht en doordringend vermogen** | De afstand die een stralingsdeeltje in een bepaald materiaal kan afleggen voordat het stopt en het vermogen van straling om door materialen te dringen. |
+| **Scintigrafie**                  | Een medische beeldvormingstechniek die gebruikmaakt van radioactieve tracers om de functie van interne organen te onderzoeken. |
+| **Halveringstijd**                | De tijd die nodig is voor de helft van de atomen in een radioactief monster om te vervallen.                  |
+| **Activiteit**                    | De snelheid waarmee radioactieve isotopen vervallen, uitgedrukt in het aantal vervallen kernen per seconde.   |
+| **Ioniserende straling**          | Straling die voldoende energie heeft om elektronen uit atomen te verwijderen en ionisatie te veroorzaken.      |
+| **Bestraling en besmetting**      | Blootstelling aan ioniserende straling van buitenaf (bestraling) of het inwendige van het lichaam (besmetting). |
+| **Stralingsdosis**                | De hoeveelheid energie die door straling aan een materiaal wordt overgedragen.                               |
+| **Effectieve dosis**              | Een maat voor de schadelijkheid van straling voor levend weefsel, rekening houdend met de soort straling en de gevoeligheid van verschillende organen. |
+| **Stralingsnormen**               | Wettelijke limieten die de maximale blootstelling aan ioniserende straling reguleren.                        |
+| **Radiotherapie**                 | Een medische behandeling waarbij ioniserende straling wordt gebruikt om kanker te behandelen.                 |
+| **Dosimeter**                     | Een apparaat dat de hoeveelheid straling meet waaraan een persoon is blootgesteld.                           |
+| **Geiger-Müllerteller**            | Een instrument dat wordt gebruikt om ioniserende straling te detecteren en te meten, vaak gebruikt voor stralingsmonitoring en -detectie. |
+
+
+
+* Hd11
+
+
+
+| **Term**                                | **Definitie**                                                                                                    |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Zonnestelsel**                       | Het geheel van de Zon, planeten, manen, en andere hemellichamen die door de zwaartekracht aan elkaar gebonden zijn. |
+| **Planeten**                           | Grote hemellichamen die in een baan om een ster bewegen en geen licht van zichzelf uitstralen.                  |
+| **Manen**                              | Natuurlijke satellieten die in een baan om een planeet bewegen.                                                  |
+| **Hemellichamen**                      | Objecten in de ruimte, zoals planeten, sterren en manen.                                                         |
+| **Beweging van de aarde**               | De periodieke rotatie om haar eigen as en de omloop om de Zon.                                                   |
+| **Beweging van de maan**                | De omloop van de maan rond de aarde.                                                                             |
+| **Zonsverduistering**                  | Een verschijnsel waarbij de maan tussen de aarde en de zon komt, waardoor de zon tijdelijk niet zichtbaar is.    |
+| **Maansverduistering**                 | Een verschijnsel waarbij de aarde tussen de zon en de maan komt, waardoor de maan tijdelijk donkerder lijkt.     |
+| **Geocentrisch**                       | Het model waarin de aarde als het centrum van het universum wordt beschouwd.                                      |
+| **Heliocentrisch**                    | Het model waarin de zon als het centrum van het zonnestelsel wordt beschouwd.                                     |
+| **Eenparige cirkelbeweging**           | Een beweging waarbij een object zich met constante snelheid in een cirkelvormig pad voortbeweegt.                |
+| **Omlooptijd**                         | De tijd die nodig is voor een object om één volledige cirkelbeweging uit te voeren.                              |
+| **Baansnelheid**                       | De snelheid waarmee een object zich beweegt langs zijn baan in een cirkelbeweging.                               |
+| **Middelpuntzoekende kracht**          | De kracht die ervoor zorgt dat een object in een cirkelbeweging naar het middelpunt van die cirkel wordt getrokken. |
+| **Gravitatiekracht**                   | De kracht van aantrekking tussen massa's in het universum.                                                         |
+| **Gravitatiewet van Newton**           | De wet die de zwaartekracht beschrijft als een kracht die twee massa's op elkaar uitoefenen, evenredig met hun massa's en omgekeerd evenredig met het kwadraat van de afstand tussen hen. |
+| **Valversnelling**                     | De versnelling waarmee een object valt onder invloed van de zwaartekracht.                                      |
+| **Beweging van planeten**              | De banen die planeten volgen onder invloed van de zwaartekracht van de zon.                                      |
+| **Geostationaire satellieten**         | Satellieten die zich op een hoogte bevinden waarbij hun omlooptijd gelijk is aan de draaiperiode van de aarde, waardoor ze op dezelfde positie boven het aardoppervlak lijken te blijven. |
+| **Polaire satellieten**                | Satellieten die in een baan om de aarde bewegen met een inclinatie ten opzichte van de evenaar.                   |
+| **Sterrenstelsels**                   | Grote systemen van sterren, gas en stof, gebonden door zwaartekracht.                                            |
+| **Afstanden in het heelal**            | De enorme schalen waarop afstanden worden gemeten tussen hemellichamen in het universum.                        |
+| **Uitdijend heelal**                  | Het concept dat het universum zich in alle richtingen uitbreidt.                                                 |
+| **Verschuiving wet van Wien**          | Een verschijnsel waarbij de golflengte van het uitgestraalde licht van een object verschuift naar het rood of blauw uiteinde van het spectrum als gevolg van respectievelijk een beweging van de lichtbron naar de waarnemer toe of van de waarnemer af. |
+| **Elektromagnetisch spectrum**         | Het volledige scala aan elektromagnetische golven, variërend van radiostraling tot gammastraling.                |
+| **Telescopen**                         | Instrumenten waarmee verre objecten in de ruimte kunnen worden waargenomen.                                      |
+| **Ruimtetelescopen**                   | Telescopen die in de ruimte zijn geplaatst om de effecten van de aardse atmosfeer te vermijden.                   |
+
+
+* Hd12
+
+
+| **Term**                           | **Definitie**                                                                                                    |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Voorplanting van licht**         | Het proces waarbij licht zich voortplant door de ruimte of een medium.                                           |
+| **Lichtbundels**                   | Bundels van lichtstralen die zich voortbewegen in een bepaalde richting.                                        |
+| **Optische eigenschappen**         | Eigenschappen van materialen of systemen die invloed hebben op de interactie met licht, zoals brekingsindex en transparantie. |
+| **Schaduwvorming**                 | Het fenomeen waarbij een object het licht blokkeert, waardoor er een donker gebied ontstaat achter het object.   |
+| **Weerkaatsing van licht**          | Het proces waarbij lichtstralen terugkaatsen van een oppervlak.                                                   |
+| **Absorptie van licht**            | Het proces waarbij lichtenergie wordt geabsorbeerd door een materiaal en omgezet in andere vormen van energie.   |
+| **Breking van licht**              | Het fenomeen waarbij lichtstralen van richting veranderen wanneer ze een grens tussen twee verschillende media passeren. |
+| **Breking van lichtstralen**        | Het buigen van lichtstralen wanneer ze van het ene medium naar het andere gaan.                                 |
+| **Totale terugkaatsing**           | Een verschijnsel waarbij licht dat een grens tussen twee media raakt, volledig wordt teruggekaatst in plaats van gebroken. |
+| **Glasvezelkabel**                 | Een transmissiemedium voor lichtsignalen, bestaande uit lange, dunne strengen glas die lichtgeleiding mogelijk maken. |
+| **Lenzen**                         | Optische componenten die lichtstralen buigen om beelden te vormen.                                              |
+| **Positieve lenzen**               | Lenzen die lichtstralen convergeren en beelden vergroten.                                                        |
+| **Negatieve lenzen**               | Lenzen die lichtstralen divergeren en beelden verkleinen.                                                        |
+| **Breking door positieve lens**     | Het proces waarbij lichtstralen gebogen worden bij het passeren van een positieve lens.                          |
+| **Brandpunt**                      | Het punt waar lichtstralen die door een lens zijn gebogen samenkomen of lijken samen te komen.                   |
+| **Bijas**                          | De denkbeeldige lijn die loodrecht door het midden van een lens loopt.                                           |
+| **Brandvlak**                      | Het vlak waarin het brandpunt zich bevindt na breking door een lens.                                             |
+| **Loop van lichtstraal**           | De baan die een lichtstraal volgt wanneer deze door een lens gaat.                                               |
+| **Beeldvorming door lens**         | Het proces waarbij een lens lichtstralen buigt om een beeld te vormen.                                           |
+| **Lineaire vergroting**            | De verhouding tussen de grootte van een beeld en de grootte van het object in een optisch systeem.               |
+| **Lenzenformule**                  | Een formule die de relatie beschrijft tussen de brandpuntsafstand, de objectafstand en de beeldafstand van een lens. |
+| **Sterkte van lens**               | De mate waarin een lens lichtstralen kan buigen, bepaald door de brekingsindex van het materiaal en de kromming van de lens. |
+| **Fotonen**                        | Deeltjes waaruit licht bestaat, met eigenschappen van zowel golven als deeltjes.                                |
+| **Interferentie van golf**          | Het fenomeen waarbij twee of meer lichtgolven samenkomen en elkaar versterken of verzwakken.                    |
+| **Buigen van golf**                | Het verschijnsel waarbij een lichtgolf van richting verandert wanneer deze van het ene medium naar het andere gaat. |
+| **Licht als golf**                 | Het concept dat licht zich gedraagt als een golf, met golflengte en frequentie.                                 |
+| **Licht als deeltje**              | Het concept dat licht bestaat uit discrete deeltjes, fotonen, met energie en impuls.                            |
+| **Emissie van licht**              | Het proces waarbij energie wordt uitgestraald in de vorm van licht.                                             |
+| **Absorptie spectrum**             | Het spectrum van licht dat door een materiaal wordt geabsorbeerd.                                               |
+| **Emissie spectrum**               | Het spectrum van licht dat wordt uitgezonden door een bron.                                                      |
+| **Spectraalanalyse**               | Het proces van het analyseren van licht om informatie te verkrijgen over de samenstelling van de lichtbron.      |
+| **Dopplereffect**                  | Het verschijnsel waarbij de frequentie van waargenomen golven verandert als gevolg van de relatieve beweging tussen de bron van de golven en de waarnemer. |
+| **Rood-blauwverschuiving**         | Een verschuiving van de golflengte van licht naar het rood of blauw uiteinde van het spectrum als gevolg van respectievelijk een beweging van de lichtbron naar de waarnemer toe of van de waarnemer af. |
+
+
+
+* Hd13
+
+
+
+| **Term**                          | **Definitie**                                                                                                    |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Meetsysteem**                   | Een systeem dat gebruikt wordt om fysieke grootheden te meten en te registreren.                                |
+| **Stuursysteem**                  | Een systeem dat verantwoordelijk is voor het aansturen en controleren van andere systemen of processen.          |
+| **Regelsysteem**                  | Een systeem dat regels en voorschriften hanteert om een bepaald doel te bereiken of een proces te reguleren.     |
+| **Analoog-digitaal signaal**      | Een signaal dat zowel continue (analoog) als discrete (digitaal) waarden kan aannemen.                           |
+| **Sensoren**                      | Apparaten die fysieke of chemische grootheden omzetten naar elektrische signalen.                               |
+| **Temperatuursensor**             | Een sensor die gebruikt wordt om de temperatuur te meten.                                                         |
+| **Invoerelementen**               | Componenten die input leveren aan een systeem.                                                                   |
+| **Uitvoerelementen**              | Componenten die output produceren als reactie op input van een systeem.                                          |
+| **Geheugenspel**                  | Een spel waarin geheugen en cognitieve vaardigheden worden getest.                                               |
+| **Pulsenteller**                  | Een apparaat dat pulsen telt.                                                                                    |
+| **Comparator**                    | Een elektronisch circuit dat twee signalen vergelijkt en aangeeft of ze gelijk zijn, en zo niet, welke groter is. |
+| **Invertor**                      | Een elektronische component die de ingangsspanning omkeert.                                                       |
+| **OF-poort**                      | Een logische poort die een logische OF-operatie uitvoert op twee of meer ingangen.                              |
+| **Binaire getallen**              | Getallen die worden uitgedrukt in het binaire stelsel, bestaande uit slechts twee cijfers: 0 en 1.               |
+| **Analoog-digitaal omzetter**     | Een apparaat dat analoge signalen omzet in digitale vorm.                                                         |
+| **Tientallig stelsel**            | Het getallenstelsel gebaseerd op het tientallig systeem, dat gebruikmaakt van tien cijfers (0 t/m 9).            |
+| **Binair stelsel**                | Het getallenstelsel gebaseerd op het binaire systeem, dat gebruikmaakt van slechts twee cijfers (0 en 1).        |
+| **Bits**                          | De kleinste eenheid van digitale informatie, met een waarde van 0 of 1.                                         |
+| **Bytes**                         | Een eenheid van digitale informatie bestaande uit een aaneenschakeling van 8 bits.                              |
+| **Sensorresolutie**               | De mate waarin een sensor in staat is om kleine veranderingen in de gemeten grootheid waar te nemen en te registreren. |

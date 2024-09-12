@@ -1,0 +1,869 @@
+#+TITLE: NATUURKUNDE HAVO: OPGAVENPLANNER 2024-2025
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+
+* Hd1
+** Hd1.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|-----------------|--------------------------------------------|---------------------------------|---------------------------------------------|
+| 1  | Leerlingen, jongens, meisjes                | Leeftijd, grootte, gewicht | Leeftijd, grootte, gewicht van leerlingen             |
+| 2  | Lampje, kracht, broodrooster, luchtballon, bromfiets | Symbolen en eenheden | Symbolen en eenheden van stroomsterkte, kracht, vermogen, volume, geluidsniveau |
+| 3  | Lengte (ℓ), massa (m), tijd (t)              | Betekenis van m    | Betekenis van m in verschillende contexten              |
+| 4  | Racecircuit, afstand, tijd                  | Snelheid           | Snelheid van Max in m/s                                 |
+| 5  | Tomaten                                     | Vergelijking       | Vergelijking van prijzen                                |
+| 6  | Getallen, wetenschappelijke notatie         | Resultaten         | Resultaten van berekeningen in wetenschappelijke notatie |
+| 7  | Getallen in wetenschappelijke notatie       | Herschrijven       | Herschrijven van getallen in wetenschappelijke notatie |
+| 8  | Getallen in verschillende eenheden           | Herschrijven       | Herschrijven van getallen zonder macht van 10            |
+| 9  | Getallen met machten van 10                  | Herschrijven       | Herschrijven van getallen met voorvoegsels              |
+| 10 | Getallen met machten van 10                  | Orde van grootte   | Orde van grootte van meetwaarden                        |
+| 11 | Elektronenmicroscoop, platinadraadjes, gouden elektroden | Schatting          | Schatting van dikte en lengte                          |
+| 12 | Weerkaart, isobaren                          | Druk               | Vergelijking van eenheden                               |
+| 13 | Lucht, geluid                               | Geluidssnelheid    | Snelheid van geluid bij 20 °C in wetenschappelijke notatie en km/h |
+| 14 | Veer, massa, uitrekking                     | Veerkracht         | Veerkracht van de veer                                  |
+| 15 | Auto’s, snelheden                            | Vergelijking       | Vergelijking van topsnelheden                           |
+| 16 | Stof, warmte, massa, temperatuur            | Soortelijke warmte | Eenheid van soortelijke warmte                          |
+| 17 | Waterstofgas, ballon, lucht                  | Massa van waterstofgas | Massa van waterstofgas, eenheid van constante c        |
+| 18 | Maatglas, vloeistof                          | Volume             | Volume van de vloeistof met meetonzekerheid             |
+| 19 | Meetwaarden                                 | Aantal significante cijfers | Aantal significante cijfers                          |
+| 20 | Getallen                                     | Uitkomst           | Uitkomst van berekeningen met significante cijfers       |
+| 21 | Gewichten, volumes                          | Omrekeningen       | Omrekeningen naar wetenschappelijke notatie             |
+| 22 | Houtblok                                     | Dichtheid           | Dichtheid van het hout, houtsoort                       |
+| 23 | Weerstand, spanning                          | Verband            | Verband tussen stroomsterkte en spanning               |
+| 24 | Diagrammen van massa en volume               | Beoordelen         | Beoordelen van grafiekvormen                            |
+| 25 | Veer, massa, uitrekking, kracht              | Trekkracht         | Trekkracht bij uitrekking, evenredigheidsconstante      |
+| 26 | Heistelling, lens, scherm, beeld             | Verband            | Verband tussen afstand en beeldvorming                 |
+| 27 | Koperdraad, diameter, weerstand              | Weerstand          | Weerstand bij verschillende diameters                   |
+| 28 | Tijd, snelheid                               | Verband            | Verband tussen tijd en snelheid                        |
+| 29 | Molen, hoogte                               | Hoogte             | Hoogte van de molen                                     |
+| 30 | Elastiek, massa                             | Verband            | Verband tussen lengte en massa                         |
+| 31 | CD, snelheid                                | Verandering        | Verandering van tijd tijdens het afspelen               |
+| 32 | Cilinder, water, grondvlak                  | Oppervlakte en hoogte | Oppervlakte en hoogte in de cilinder                   |
+| 33 | Jan-van-gent, snelheid, valhoogte           | Vleugelslag        | Vleugelslag bij duik, eenheid van constante             |
+| 34 | Auto, snelheid, stopafstand                 | Stopafstand        | Stopafstand bij verschillende snelheden                 |
+| 35 | Voltmeters, spanning                         | Vergelijking       | Vergelijking van meetonzekerheid van voltmeters         |
+| 36 | Heistelling, meetwiel, lichtsnelheid          | Snelheid           | Snelheid van geluid, tijdsverschil                      |
+
+* Hd2
+** Hd2.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|-----------------------------------------------------|------------------------------------------------|-------------------------------------------------|
+| 1              | Bus, camera, beelden                               | Beweging, versnelling                         | Verandering snelheid, verplaatsing tussen beelden |
+| 2              | Auto, camera, video                               | Beweging, snelheid                            | Diagram bij beweging, snelheid                  |
+| 3              | Ultrasone sensor, zeewater                        | Geluidssnelheid, tijdsmeting                   | Diepte zee, invloed temperatuur op diepte        |
+| 4              | Karretje, ultrasone sensor, helling                | Beweging, ultrasoon geluid                     | Minimale werkafstand sensor                     |
+| 5              | Auto, kabels, computer                            | Beweging, snelheid                            | Snelheid auto, lengte auto                       |
+| 6              | Speelgoedauto, stroboscoop, fototoestel            | Stroboscopische beelden, snelheid              | Snelheid auto, diameter wiel, flitsfrequentie    |
+| 7              | Usain Bolt                                         | Gemiddelde snelheid                           | Gemiddelde snelheid, tijd, afstand              |
+| 8              | Scooter, (x,t)-diagram                             | Versnelling, gemiddelde snelheid              | Gemiddelde snelheid, snelheid na 4 s            |
+| 9              | Auto, trajectcontrole, (v,t)-diagram               | Gemiddelde snelheid                           | Snelheid op t=0, afstand na 33 s, gemiddelde snelheid |
+| 10             | Lichtflits, donder                                | Geluidssnelheid, snelheid van licht            | Afstand onweer, snelheid licht                  |
+| 11             | Fiets, afstand, tijd                              | Gemiddelde snelheid, vertraging               | Minimale snelheid, aankomsttijd, (x,t)-diagram  |
+| 12             | Jachtluipaard, gazelle                             | Snelheid, afstand                              | Duur maximale snelheid, afstand gazelle         |
+| 13             | Paard, (x,t)-diagram, (v,t)-diagram                | Versnelling, afstand                           | Afstand nodig voor versnelling                  |
+| 14             | Vuurpijl, (hoogte,tijd)-diagram                     | Beweging, snelheid                            | Hoogte afschieten, beginsnelheid, gemiddelde snelheid, maximale snelheid |
+| 15             | Lift, (v,t)-diagram                                | Beweging, snelheid                            | Verdiepingen, snelheid                            |
+| 16             | IJsje, (plaats,tijd)-diagram                        | Vrije val, versnelling                        | Beginsnelheid, tijdstip grond raken, snelheid grond raken, gemiddelde versnelling |
+| 17             | Joris, (v,t)-diagram                               | Versnelling, afstand, vertraging               | Versnelling, afstand, vertraging na 6 s         |
+| 18             | Sprinter, (v,t)-diagram                            | Beweging, snelheid                            | Eindtijd van sprinter                           |
+| 19             | Auto, remmen, (v,t)-diagram                        | Remvertraging, snelheid                        | Remvertraging, afstand, snelheid bij flitspaal   |
+| 20             | Dafne, (v,t)-diagram                               | Versnelling, snelheid                         | Versnelling, snelheid tussen 0-5 s, afstand na 11 s |
+| 21             | (x,t)-diagram, (v,t)-diagram                       | Beweging, snelheid                            | Diagrammen bij situaties                        |
+| 22             | Kleuter, (v,t)-diagram                             | Beweging, snelheid                            | Afstand tussen uiterste standen, gemiddelde snelheid, maximale versnelling |
+| 23             | Danai, (v,t)-diagram                               | Versnelling, afstand                          | Afstand van verkeerslicht, versnelling, afstand na 2,5 s |
+| 24             | Auto, kreukelzone, (v,t)-diagram                   | Botsing, versnelling                           | Duur botsing, lengte verkreukeling, gemiddelde versnelling |
+| 25             | Eliica, sportwagen, (v,t)-diagram                  | Versnelling, snelheid                          | Versnelling Eliica, tijdstip inhalen sportwagen  |
+| 26             | Marieke, (x,t)-diagram, (v,t)-diagram              | Snelheid, versnelling                          | Snelheid op 40 s, gemiddelde snelheid, versnelling  |
+| 27             | Boeing 737, startbaan, auto                        | Versnelling, afstand                           | Minimale lengte startbaan, stopafstand auto     |
+| 28             | Skiër, (v,t)-diagram                               | Remmen, versnelling                            | Afstand bij 60 km/h, totale lengte               |
+| 29             | Claire, (v,t)-diagram                              | Reactietijd, remmen                            | Snelheid voor remmen, reactietijd, stopafstand bij alcohol |
+| 30             | Milou, (v,t)-diagram                               | Vrije val, snelheid                            | Snelheid bij grond, hoogte val                    |
+| 31             | Vrachtwagen, figuur 2.58                           | Remmen, afstand                                | Remweg, maximale reactietijd                    |
+| 32             | Gabriëlle, (v,t)-diagram, snelheid                 | Remvertraging, versnelling                     | Minimale remvertraging, versnelling, afstand    |
+| 33             | Stuiterbal, (v,t)-diagram                          | Versnelling, hoogte                            | Hoogte val, aantal stuiteringen, versnelling    |
+| 34             | Space Shot, (v,t)-grafiek                          | Versnelling, snelheid                          | Maximaal snelheid, hoogte, versnelling          |
+
+* Hd3
+** Hd3.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|-----------------------------------------------|----------------------------------------|---------------------------------------------------|
+| 1              | Auto, motor, zwaartekracht, normaalkracht, luchtweerstand, rolweerstand | Krachten in evenwicht, krachtenbalans    | Richting en symbolen van krachten in figuur 3.13  |
+| 2              | Auto met pech, sleepkabel                     | Krachten in evenwicht, krachtenbalans    | Kracht in punt T van figuur 3.13                  |
+| 3              | Blok, tafel, helling                         | Krachten in evenwicht, zwaartekracht    | Massa van het blok, krachten in figuur 3.14      |
+| 4              | Kubus, plexiglas, stalen tafelblad            | Schuifwrijving                         | Maximale schuifwrijvingskracht, grafiek figuur 3.15 |
+| 5              | Tennisbal, racket                            | Zwaartekracht                           | Zwaartekracht op aarde en maan, vergelijking      |
+| 6              | Blokje, veer                                 | Hooke's wet                            | Veerconstante van de veer                         |
+| 7              | Drie krachtmeters                             | Veerkracht                              | Oplopende veerconstanten                         |
+| 8              | Alex, Berend, Charles, Diederik               | Krachten in evenwicht, krachtenbalans    | Winnaar van touwtrekwedstrijd                     |
+| 9              | Twee krachten van 25 N in verschillende situaties | Krachten in evenwicht, krachtenbalans    | Resulterende kracht in elke situatie             |
+| 10             | Twee krachten met F1 = 35 N                   | Krachten in evenwicht, parallellogrammethode | Krachtenschaal, resulterende kracht, hoek        |
+| 11             | Lamp, draad                                  | Krachten in evenwicht, krachtenbalans    | Resulterende kracht van spankrachten             |
+| 12             | Rakker, Lady, riemen                         | Krachten in evenwicht, krachtenbalans    | Krachtenschaal, grootte resulterende kracht      |
+| 13             | Bord, twee touwen                             | Krachten in evenwicht, krachtenbalans    | Resulterende kracht van spankrachten             |
+| 14             | Drie krachten in figuur 3.27                   | Krachten in evenwicht, krachtenbalans    | Grootte van resulterende kracht, hoek             |
+| 15             | Kracht Fres van 50 N                          | Krachten in evenwicht, krachtenbalans    | Krachtenschaal, componenten van kracht            |
+| 16             | Kracht Fres van 50 N                          | Krachten in evenwicht, krachtenbalans    | Componenten van kracht                           |
+| 17             | Voetbal, Klaas Jan, trapkracht                | Krachten in evenwicht, krachtenbalans    | Horizontale en verticale componenten van kracht   |
+| 18             | Balto, Togo, riemen                           | Krachten in evenwicht, krachtenbalans    | Spankrachten, werklijnen van spankrachten        |
+| 19             | Skiër, helling, snelheid                      | Zwaartekracht, krachten in evenwicht     | Componenten van zwaartekracht op helling         |
+| 20             | Hardloper, Baldwin Street                     | Zwaartekracht, krachten in evenwicht     | Component die hardloper tegenwerkt               |
+| 21             | Zeilboot, motorboot, sleeptouw                 | Krachten in evenwicht, krachtenbalans    | Spankrachten, verband met hoeken                 |
+| 22             | Schijfmagneten                                | Magnetische krachten, krachtenbalans     | Krachten op bovenste schijf                      |
+| 23             | Twee krachten in evenwicht met derde kracht  | Krachten in evenwicht, krachtenbalans    | Grootte van derde kracht                          |
+| 24             | Schommel, kracht Fspan, Frots                  | Krachten in evenwicht, krachtenbalans    | Constructie van krachten                         |
+| 25             | Schommel, kracht Fspan, Ftrek                  | Krachten in evenwicht, krachtenbalans    | Constructie van krachten                         |
+| 26             | Albert, Bianca, Charlotte                     | Krachten in evenwicht, krachtenbalans    | Kracht van Charlotte                              |
+| 27             | Touwtjes a, b, c                              | Krachten in evenwicht, krachtenbalans    | Spankrachten in touwtjes b en c                  |
+| 28             | Koffer, helling, massa                        | Krachten in evenwicht, krachtenbalans    | Componenten van zwaartekracht, schuifwrijving     |
+| 29             | Paulien, klimtouw, torens                     | Krachten in evenwicht, krachtenbalans    | Spankrachten in touw                             |
+| 30             | Karlijn, Catootje, Jeroen                      | Krachten in evenwicht, krachtenbalans    | Kracht van Jeroen, hoek                           |
+| 31             | Schommel, opa, Fynn                           | Krachten in evenwicht, krachtenbalans    | Grootste trekkracht                              |
+| 32             | Plank, veren, massa Tom                       | Hooke's wet, krachtenbalans              | Kracht van één veer, massa van Tom                |
+| 33             | Jeri, klimtouw, rotswand                      | Krachten in evenwicht, krachtenbalans    | Kracht van rots op Jeri                           |
+
+* Hd4
+** Hd4.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|--------------------------------------------|--------------------------------|---------------------------------------------|
+| 1              | Fietser, Glas, Speelgoedtrein               | Eerste wet van Newton           | Krachtresultering, Toepassing eerste wet     |
+| 2              | Diëlle, Henk, Touw                         | Tweede wet van Newton           | Kracht Henk, Kracht Diëlle, Versnelling      |
+| 3              | Vliegtuig, Zwaartekracht, Motorkracht, Luchtkracht | Tweede wet van Newton           | Kracht van de lucht                        |
+| 4              | Twee sleepboten, Vrachtschip, Wrijvingskracht | Tweede wet van Newton           | Beweging vrachtschip                       |
+| 5              | Boot, Helling, Spankracht, Wrijvingskracht | Tweede wet van Newton           | Spankracht kabel                            |
+| 6              | Fietser                                    | Tweede wet van Newton           | Versnelling                                  |
+| 7              | Auto, Motor                                | Tweede wet van Newton           | Motorkracht, Massa met nieuwe motor         |
+| 8              | Titi, Fiets                               | Tweede wet van Newton           | Resulterende kracht, Voorwaartse kracht      |
+| 9              | Motorboot, Motor, Wrijvingskracht          | Tweede wet van Newton           | Versnelling, Resulterende kracht            |
+| 10             | Margreet, Slee, Zwaartekracht              | Tweede wet van Newton           | Tegenwerkende kracht                       |
+| 11             | Inez, Lift                                | Tweede wet van Newton           | Kracht liftkabel                            |
+| 12             | Sleetjes, Wrijvingskracht, Trekkracht       | Derde wet van Newton            | Versnelling, Volgorde versnelling           |
+| 13             | Parachutist                                | Derde wet van Newton            | Snelheidsverloop zonder/luchtweerstand      |
+| 14             | Kist                                       | Derde wet van Newton            | Snelheid bij impact, Luchtweerstandkracht   |
+| 15             | Bollen                                     | Derde wet van Newton            | Snelheidsverloop bij verschillende bollen    |
+| 16             | Parachutist                                | Derde wet van Newton            | Massa parachutist, Verandering luchtweerstand |
+| 17             | Basejumper                                 | Derde wet van Newton            | Versnelling, Luchtweerstandkracht           |
+| 18             | Vallerig Voorwerp                           | Derde wet van Newton            | Luchtweerstandkracht                        |
+| 19             | Heliumballon                               | Derde wet van Newton            | Versnelling, Luchtweerstandkracht           |
+| 20             | Potlood, Duim                              | Derde wet van Newton            | Reactiekracht                                |
+| 21             | Karretje, Ventilator                       | Derde wet van Newton            | Beweging karretje                            |
+| 22             | Magneten                                   | Derde wet van Newton            | Magnetische kracht, Evenwicht               |
+| 23             | Baksteen                                   | Derde wet van Newton            | Gewicht, Kracht hand, Gewicht tijdens vallen|
+| 24             | Jurgen, Auto                               | Derde wet van Newton            | Kracht op Jurgen tijdens versnelling         |
+| 25             | Kaart                                      | Momenten                         | Momenten en draairichting                   |
+| 26             | Draaiwielen                                | Momenten                         | Volgorde van momenten                       |
+| 27             | Klok, Mus                                  | Momenten                         | Momenten ten opzichte van draaipunt         |
+| 28             | Ophaalbrug                                 | Momenten                         | Momenten en draairichtingen                 |
+| 29             | Ophaalbrug, Touw                           | Momenten                         | Moment van spankracht                       |
+| 30             | Lamp, Touw, Staaf                          | Momenten                         | Evenwicht van krachten                      |
+| 31             | Ophaalbrug                                 | Momenten                         | Grootte en draairichting van momenten       |
+| 32             | Bank                                       | Momenten                         | Kracht bij verschillende punten             |
+| 33             | Blok                                       | Momenten                         | Kracht om op te tillen, Trekkracht           |
+| 34             | Kruiwagen                                  | Momenten                         | Spierkracht, Normaalkracht                  |
+| 35             | Ophaalbrug                                 | Momenten                         | Volgorde van spankrachten                   |
+| 36             | Takelwagen, Container                      | Momenten                         | Stabiliteit bij takelen                     |
+| 37             | Menselijk lichaam                          | Momenten                         | Zwaartepunt in verschillende posities       |
+| 38             | Turner                                     | Momenten                         | Massa benen/romp, Arm van krachten          |
+| 39             | Amy, Verkoper                              | Momenten                         | Kracht en balans                            |
+
+* Hd5
+** Hd5.txt
+| Probleemnummer | Fysieke objecten                        | Fysieke wetten                              | Observable te berekenen                 |
+|----------------|----------------------------------------|--------------------------------------------|-----------------------------------------|
+| 1              | Alcoholthermometer, lucht, alcoholmoleculen | Temperatuur, moleculaire bewegingen       | Vergelijking van temperatuur, moleculaire snelheid en afstand |
+| 2              | Temperatuur, Kelvin, Celsius            | Omrekeningen tussen temperatuur eenheden  | Omrekeningen van temperaturen            |
+| 3              | Deodorant, lucht                        | Moleculenbewegingen en diffusie            | Verspreiding van geur                    |
+| 4              | Kaarsvet (vast en vloeibaar), pan        | Dichtheid, faseveranderingen                | Gedrag van kaarsvet, temperatuurverandering |
+| 5              | IJs, vriezer, lucht                     | Vriesproces, warmtetransport                | Vorming van ijs, manieren om ijsvorming te verlagen |
+| 6              | Stof, temperatuur                       | Moleculaire snelheid, temperatuurverschil  | Snelheid van moleculen, temperatuurverschil in Celsius en Kelvin |
+| 7              | Bruggen, viaducten, rolletjes            | Warmte-uitzetting, thermische uitzetting    | Gedrag van spleten bij temperatuurverandering |
+| 8              | IJs, vloeibaar water, waterdamp          | Dichtheid, temperatuur                     | Volume van stoffen bij verschillende temperaturen |
+| 9              | Water, pan, deksel, lucht                | Verdamping, koken                          | Verdampingssnelheid bij verschillende temperaturen, aantal druppels |
+| 10             | Reageerbuis, water, glas, lucht          | Warmtetransport: geleiding, stroming, straling | Warmtetransport door verschillende media |
+| 11             | Dekbed, lucht                           | Warmtetransport: geleiding, convectie, straling | Warmtebehoud onder dekbed, effect van compartimenten |
+| 12             | Thermoskan, glas, vacuüm                 | Warmtetransport: straling, geleiding, convectie | Effecten van zilverkleurig glas en vacuüm |
+| 13             | Radiator, water                          | Warmtetransport: geleiding, convectie, straling | Warmtetransport door radiator            |
+| 14             | Hoogrendementsglas, lucht                | Warmtetransport: geleiding, straling        | Vergelijking warmtestroom enkelglas vs dubbelglas |
+| 15             | Buis, lucht, ventilator                  | Warmtestroom, luchtstroom                  | Snelheid van lucht in buis, vergelijking met onder deur |
+| 16             | Isolatiemateriaal, dak, energie           | Warmtetransport, energieverbruik           | Energiebesparing door isolatie, productie van glaswol |
+| 17             | Spiritus, kaasfondue, spiritusbrander    | Verbranding, warmtestroom                  | Stookwaarde van spiritus, warmtestroom naar pan |
+| 18             | Alcohol, thermometer                     | Warmtecapaciteit, temperatuurstijging       | Hoeveelheid opgenomen warmte             |
+| 19             | Lichaam, huid, zweet                     | Warmtegeleiding, verdamping                | Thermische geleidbaarheid van huid, effect van zweten |
+| 20             | Vloeistoffen A en B, warmtecapaciteit     | Soortelijke warmte, temperatuurstijging     | Vergelijking soortelijke warmte, identificatie van water |
+| 21             | Lucht, verwarming, aardgas                | Warmtecapaciteit, energieverbruik          | Massa lucht, benodigde hoeveelheid aardgas |
+| 22             | Metalen (aluminium, koper, messing, ijzer), lucifer | Thermische geleidbaarheid, warmtecapaciteit | Vergelijking van warmtecapaciteit en geleiding van metalen |
+| 23             | Water, bekers, temperatuurdiagram         | Warmteverlies, afkoeling                   | Vergelijking afkoelsnelheid van water en melk |
+| 24             | Water, ijzer, messing, bekerglas         | Warmteoverdracht, warmtecapaciteit          | Massa van ijzer, vergelijking massa ijzer en messing, warmtestroom door bekerglas |
+| 25             | Koelkast, warmtewisselaars               | Warmtepompwerking, energieverbruik         | Functie van warmtewisselaars, stroom koelmiddel |
+| 26             | Zand, water, aardolie                    | Warmteopslag, energieopslag                 | Vergelijking temperatuurverlaging van water en aardolie |
+| 27             | Warmtewisselaar, water                   | Tegenstroomprincipe, warmteoverdracht      | Effectiviteit van warmtewisselaar        |
+| 28             | Ventilatiekanaal, lucht, warmtewisselaar | Luchtstroom, temperatuurstijging           | Benodigde diameter van buis, temperatuurverandering |
+| 29             | Raam, enkelglas, luchtlagen              | Warmtestroom, isolatie                      | Totale warmtestroom door ramen, dikte luchtlagen |
+| 30             | Warmtepomp, water, centrale verwarming   | Warmtestroom, rendement                     | Debiet van centrale verwarming, temperatuurstijging water |
+| 31             | Warmtepomp, hr ketel, energieverbruik     | Rendement, CO2-uitstoot                    | Terugverdientijd, rendement warmtepomp, CO2-uitstootvergelijking |
+| 32             | Beton, lucht, verwarming                 | Warmteoverdracht, energieverbruik          | Energieverbruik voor verwarming van lucht in huis |
+| 33a            | Natriumacetaat                   | Smeltpunt, faseverandering                | Fase van natriumacetaat (vast, vloeibaar, gas) bij punten A, B, C |
+| 33b            | Natriumacetaat                   | Warmteafgifte                             | Warmteafgifte van natriumacetaat bij punten A, B, C (wel of geen) |
+| 33c            | Natriumacetaat, water            | Specifieke warmtecapaciteit                | Vergelijking van specifieke warmtecapaciteit van natriumacetaat bij 70 °C met water |
+| 33d            | Kruikenmoeder, verwarmings-element | Warmteoverdracht (geleiding, convectie)    | Belangrijkste vorm van warmtetransport naar de schachten  |
+| 33e            | Kruikenmoeder, verwarmings-element | Energieoverdracht                          | Tijd om twaalf kruiken op te warmen met gegeven energie en vermogen |
+
+* Hd6
+** Hd6.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|---------------------------------|-------------------------------------------|----------------------------------------------|
+| 1a             | Glazen staaf, doek                | Elektrische lading, ladingoverdracht      | Deeltjes die van de staaf naar de doek zijn gegaan |
+| 1b             | Elektroscoop, geladen staaf       | Elektrische lading, afstoting              | Hoe de blaadjes hun lading hebben gekregen   |
+| 1c             | Elektroscoop                      | Elektrische lading, afstoting              | Of de blaadjes positief of negatief geladen zijn |
+| 2              | Batterijen, schakelingen          | Spanning, elektriciteit                    | Spanningen bij figuren 6.13b t/m d            |
+| 3a             | Spanning (mV naar V)               | Omrekeningen                               | Omrekeningen van 2,3 mV naar V                |
+| 3b             | Spanning (MV naar V)               | Omrekeningen                               | Omrekeningen van 5,8 MV naar V                |
+| 3c             | Spanning (μV naar V)               | Omrekeningen                               | Omrekeningen van 1,2 μV naar V                |
+| 3d             | Spanning (V naar mV)               | Omrekeningen                               | Omrekeningen van 4,5 V naar mV                |
+| 4a             | Loodaccu                           | Spanning, serie- en parallel schakeling    | Hoe 12 V wordt verkregen uit losse cellen    |
+| 4b             | Loodaccu, energie                  | Energie-dichtheid, massa                   | Totale massa van de loodcellen in de accu     |
+| 5a             | Benzine, energie                   | Energie-inhoud, verbranding                | Energieopbrengst van 40 liter benzine        |
+| 5b             | Benzine                           | Massa, energie-inhoud                      | Massa van 40 liter benzine                   |
+| 5c             | Li-ionbatterijen, energie          | Energieverbruik, actieradius               | Massa van li-ionbatterijen voor 700 km actieradius |
+| 6a             | TL-buis, netspanning               | Frequentie van wisselspanning              | Frequentie van knipperen van de TL-buis       |
+| 6b             | Netspanning                        | Effectieve waarde, gemiddelde spanning    | Waarom het maximum van de netspanning groter is dan 230 V |
+| 6c             | Driefase-aansluiting, netspanning  | Spanning, faseverschuiving                 | Maximale spanning tussen zwart en rood       |
+| 7a             | Zonnecellen, zonnepaneel            | Serie- en parallel schakeling              | Of de zonnecellen in serie of parallel zijn geschakeld |
+| 7b             | Zonnepanelen                       | Serie- en parallel schakeling              | Schema voor 36 V met vijf panelen             |
+| 8              | Lamp, batterij, elektrische stroom | Stroom, spanning, spanningsbron            | Invullen van woorden in de tekst              |
+| 9a             | Lampje, batterij, voltmeter, ampèremeter | Stroommeting, spanningsmeting             | Aansluiting van meters in de schakeling       |
+| 9b             | Lampje, batterij, draden           | Elektrische stroom, spanningsmeting        | Schakelschema met richting van stroom         |
+| 9c             | Elektronen, stroomsterkte          | Stroom, lading, aantal elektronen          | Aantal elektronen per seconde                |
+| 10a            | Li-ioncellen, accuboormachine       | Spanning, schakeling                       | Aansluiting van motor en lampje op de accu    |
+| 10b            | Accuboormachine, stroomsterkte      | Lading, tijd                               | Hoeveelheid lading door de aansluitdraad      |
+| 11a            | Stroommeters, draden                | Stroommeting                               | Stroomloop van P via L naar Q of Q via L naar P |
+| 11b            | Stroommeters, draden                | Elektrische stroom, vrije elektronen       | Beweging van vrije elektronen                 |
+| 11c            | Stroommeters                        | Stroommeting, weerstand                    | Vergelijking van wijzeruitslagen van A1 en A2 |
+| 12a            | Adapter, batterij                   | Wisselstroom, gelijkstroom                 | Waarom batterij niet oplaadbaar met wisselspanning |
+| 12b            | Diodes                             | Gelijkrichting van stroom                  | Oplaadmethoden met verschillende diodeposities |
+| 12c            | Batterij, diode, spanningsbron      | Stroomrichting, opladen                   | Opladen van de batterij met bepaalde diodes   |
+| 13a            | Batterij, capaciteit                | Capaciteit, lading                         | Waarom capaciteit geen maat is voor lading    |
+| 13b            | Batterij, elektronennummers         | Capaciteit, elektronen                     | Hoeveelheid elektronen bij 4800 mAh           |
+| 13c            | Batterij, stroomsterkte, tijd       | Gemiddelde stroomsterkte                   | Gemiddelde stroomsterkte door de telefoon    |
+| 14              | Stroomsterkte, weerstand, spanning  | Ohm's wet                                  | Berekeningen van onbekende grootheden         |
+| 15a            | Multimeter, schakeling              | Spanningmeting, stroommeting               | Schakelschema van de opstelling               |
+| 15b            | Multimeters                         | Spanningmeting, stroommeting               | Toelichting op de meetfuncties van de multimeters |
+| 15c            | Multimeter, lampje                  | Weerstand, spanning, stroom                | Weerstand van het lampje                      |
+| 15d            | Stroommeting, lampje                | Stroomsterkte, lampje                      | Verklaring van stroomsterkteafname            |
+| 16              | Elektriciteitsdraden                | Weerstand                                  | Volgorde van draden op basis van weerstand    |
+| 17a            | Lampjes, spanning, gloeilampjes      | Weerstand, stroomsterkte                  | Lampje in het achterlicht                     |
+| 17b            | Lampjes, weerstand                  | Weerstand, stroomsterkte                  | Lampje met grootste weerstand                |
+| 17c            | Lampje, spanning                    | Ohm's wet                                  | Gedrag van lampje 2 bij spanning > 2 V        |
+| 18a            | Draad, metaal, weerstand             | Weerstand, spanning                        | Schema voor weerstandmeting                   |
+| 18b            | Draad, spanning, stroom             | Weerstand, lengte                          | Lengte van de draad                          |
+| 19a            | Lampjes, schakeling                  | Stroomkring, schakelaar                    | Waarom lampje B uitgaat                      |
+| 19b            | Weerstand, lampjes                   | Stroomsterkte, weerstand                   | Effect van weerstand op branden van lampje B  |
+| 20a            | NTC, spanning, stroom                | Weerstand, temperatuur                    | Toename van stroomsterkte bij NTC             |
+| 20b            | NTC, temperatuur                     | Weerstand, temperatuur                    | Temperatuurstijging van de NTC                |
+| 21             | Bliksemstraal, onweerwolken, aarde                   | Spanning, stroomsterkte, energie, vermogen  | Maximaal vermogen, gemiddeld vermogen, aantal gezinnen |
+| 22             | TV met LCD-scherm                                   | Vermogen, energiegebruik                    | Aantal uren TV per dag                                |
+| 23             | Strijkijzer                                          | Vermogen, weerstand, energie                | Totale energie, weerstand van het verwarmingselement   |
+| 24             | Groepen, zekeringen, plafondlamp, keukenapparaten   | Vermogen, stroomsterkte, weerstand          | Maximaal vermogen, werking van apparaten               |
+| 25             | Nuldraad, fasedraad, zekering, aardlekschakelaar     | Stroomsterkte, beveiliging                   | Gevaar van stroomsterkte, werking van zekeringen        |
+| 26             | Spanningzoeker                                       | Spanning, weerstand, contact                | Brandend lampje, waarde van weerstand                  |
+| 27             | Auto, accu, achterruitverwarming, audioversterker    | Stroomsterkte, vermogen, weerstand           | Stroomsterkte, werking van zekeringen, waarde van zekering |
+| 28             | Lampjes, spanningsbron                               | Spanning, stroomsterkte, vermogen           | Veranderingen in spanning, stroomsterkte, helderheid, vermogen |
+| 29             | Batterij, lampje, weerstand                          | Stroomsterkte, spanning, weerstand           | Waarde van weerstand, totale weerstand                 |
+| 30             | Weerstanden, spanningsbron                           | Totale weerstand, spanning                  | Totale weerstand, spanning over weerstanden, stroomsterkte |
+| 31             | Frituurelement, neonlampje, weerstand                 | Vermogen, stroomsterkte, spanning           | Stroomsterkte, waarde van weerstand                    |
+| 32             | Lampjes, weerstand                                   | Spanning, stroomsterkte, weerstand           | Waarde van weerstand                                   |
+| 33             | Weerstand, lampje                                    | Stroomsterkte, vermogen                      | Stroomsterkte door weerstand, stroomsterkte door lampje|
+| 34             | Weerstanden                                          | Stroomsterkte                                | Stroomsterkte door weerstanden, waarde van weerstand 3 |
+| 35             | LDR, lamp, weerstand                                | Verlichtingssterkte, weerstand               | Weerstand van LDR, spanning over weerstanden            |
+| 36             | Lampje, weerstand                                    | Spanning, stroomsterkte, vermogen           | Elektrisch vermogen, warmteontwikkeling in weerstand   |
+| 37             | Kabels, dorp, hoogspanningskabels                    | Stroomsterkte, verlies, rendement            | Stroomsterkte, verlies aan vermogen, rendement         |
+| 38             | Energiecentrales                                     | Voordelen, nadelen                           | Voordelen en nadelen van elke centrale                |
+| 39             | Gloeilamp, LED-lamp                                  | Rendement, energieomzetting                 | Rendement van LED-lamp                                |
+| 40             | Batterijen, zonnecellen, motor                       | Energie, vermogen, stroomsterkte             | Vaartijd, stroomsterkte, rendement van zonnecellen, oplaadtijd |
+| 41             | Zonnepaneeltjes, batterijen                          | Spanning, capaciteit, stroomsterkte          | Oplaadtijd van batterijen                             |
+| 42             | Windmolen, wind, generator                           | Vermogen, windsnelheid, rendement            | Vermogen van de lucht, percentage van vermogen, aantal huishoudens |
+| 43             | Zonnecel                                             | Stralingsenergie, elektrisch vermogen        | Rendement van de zonnecel                             |
+| 44             | Batterij                                             | Energie, prijs                               | Energie geleverd door batterij, prijs per kWh          |
+| 45             | TV, elektriciteit                                   | Vermogen, energiegebruik                    | Kosten van TV-kijken, verspilde energie in stand-by    |
+| 46             | Waterstof, tank                                      | Energie, rendement, massa                   | Massa van waterstof, percentage van beschikbare energie|
+| 47             | Stretchsensor, voltmeter                            | Weerstand, spanning                          | Spanning over punten, maximaal vermogen, werktijd van pak |
+| 48             | Elektrische straalkachel                            | Vermogen, stroomsterkte                      | Aansluitvermogen, werking van de kachel                |
+
+* Hd7
+** Hd7.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|-------------------|---------------|--------------------------------------|
+| 1              | IJzer, Hout       | Dichtheid      | Vergelijking van dichtheden           |
+| 2a             | VR-bril           | Ontwikkeling   | Ontwerpen                                    |
+| 2b             | Protonen          | Botsing        | Deeltjesversnelling en -interacties   |
+| 2c             | Astronauten, ISS  | Gewichtloosheid| Effecten van gewichtloosheid          |
+| 2d             | Luchthaven Schiphol| Geluidsnorm    | Geluidsniveau en -overschrijding      |
+| 3a             | Zweefvliegtuig, Windtunnel | Luchtweerstand | Luchtweerstand met verschillende lengtes|
+| 3b             | Weerman, Regenwolken | Weermodel    | Regenwolkenbewegingen                |
+| 3c             | Wolkenkrabber      | Aardbeving      | Structuureffecten bij aardbevingen    |
+| 3d             | Radioactief materiaal, Zee | Verspreiding | Verspreidingspatroon in de zee        |
+| 4a             | Buienradar         | Bewegingsformule| Verplaatsing van regen                 |
+| 4b             | Regenwolken, Buienradar | Weersomstandigheden | Snelheid en richting van regenwolken |
+| 5              | Gloeilamp          | Ohm's wet       | Spanning en stroomsterkte             |
+| 6a             | VR-bril            | Energieverbruik | Energieverbruik van de VR-bril         |
+| 6b             | Stekkerdoos        | Stroomcapaciteit| Capaciteit van stekkerdoos             |
+| 6c             | Fiets, Fietser     | Weerstandkracht | Weerstandkracht van fietser            |
+| 7a             | Thermometer        | Thermische uitzetting | Temperatuur en vloeistofhoogte      |
+| 7b             | Smeltend ijs, Kokend water | Vloeistofuitzetting | Temperatuurmeetpunten                  |
+| 7c             | Thermometer        | Temperatuureffect| Afstand tussen maatstreepjes          |
+| 7d             | Thermometer        | Ontwerp en onderzoek | Ontwerp of onderzoek bij thermometer   |
+| 8a             | Fiets, Berijder    | Remweg          | Remweg als functie van massa           |
+| 8b             | Massa, Remweg      | Remweg               | Grafieklijnen bij massa-verandering    |
+| 8c             | Massa, Remweg      | Remweg               | Relatie tussen massa en remweg         |
+| 8d             | Hypothese          | Hypothese               | Juiste hypothese voor remweg           |
+| 9a             | Draad, Weerstand    | Ohm's wet       | Weerstand van draad                    |
+| 9b             | Fietser, Snelheid  | Snelheid               | Snelheid van fietser                   |
+| 9c             | Slingsysteem       | Slingertijd     | Lengte slinger en slingertijd          |
+| 9d             | Vloeistof          | Kookpunt        | Kookpunt van vloeistof                 |
+| 10a             | Blokje, Touw       | Slingertijd     | Afhankelijkheid van lengte en massa    |
+| 10b             | Ledlamp, Gloeilamp | Lichtsterkte    | Vergelijking van lichtsterkte          |
+| 10c             | Veer, Metalen balletje | Veerkracht   | Hoogte lancering bij indrukken         |
+| 11a             | Lampje, Spanningsbron | Elektrisch vermogen | Schakelschema van lampje             |
+| 11b             | Ampèremeter        | Stroomsterkte   | Meetplan voor vermogen                 |
+| 11c             | Ampèremeter        | Meetbereik      | Geschikt meetbereik van ampèremeter    |
+| 12a             | Diagrammen         | Diagrammen               | Correctheid van grafieklijnen          |
+| 12b             | Grafiek            | Diagrammen               | Recht evenredig verband                |
+| 12c             | Grafiek            | Diagrammen               | Soort verband in grafiek               |
+| 12d             | Diagrammen         | Diagrammen               | Methoden om grafiek te verifiëren      |
+| 13a             | Water              | Specifieke warmtecapaciteit | Energieverbruik bij verwarming       |
+| 13b             | Water, Verwarmingsbron | Energieverbruik | Werkplan voor energieverbruik          |
+| 14a             | Meetmethoden       | Meetfouten      | Type meetfout bij afwijkingen          |
+| 14b             | Meetmethode        | Voorwaarde      | Voorwaarde voor gebruik van methode   |
+| 15a             | Brandalarm         | Gebruiksvriendelijkheid | Ontwerpcriteria voor brandalarm       |
+| 15b             | VR-bril            | Gebruiksvriendelijkheid | Ontwerpcriteria voor VR-bril           |
+| 15c             | Theemok            | Temperatuurindicator | Ontwerpcriteria voor theemok           |
+| 16a             | Trebuchet          | Krachtwetten    | Effect van balklengte op slingkracht   |
+| 16b             | Trebuchet          | Ontwerpbeperkingen | Beperkingen bij balklengte           |
+| 16c             | Trebuchet          | Kogelafstand    | Verandering aan rechterkant voor afstand |
+| 17              | Nuna-zonnewagen    | Oplossingen     | Oplossingen voor eisen                 |
+| 18a             | Blades, Onderbenen | Stofeigenschappen | Stofeigenschap voor protheses          |
+| 18b             | Blades             | Krachtwerking   | Eigenschap voor krachtwerking          |
+| 18c             | Blades             | Concurrentievoordeel | Voordeel bij gebruik van blades       |
+| 19a             | Thermometer        | Temperatuurmeting | Temperatuuraflezing                    |
+| 19b             | Kubieke uitzetting | Uitzetting               | Eenheid van kubieke uitzettingscoëfficiënt|
+| 19c             | Thermometer        | Betrouwbaarheid | Verbetering van thermometer            |
+| 20              | Keukenvoorwerpen   | Materiaalkeuze  | Stofeigenschap voor materiaalkeuze     |
+| 21a             | Aluminium, Staal   | Materiaalgeschiktheid | Voordelen van aluminium                |
+| 21b             | Koper, Zilver      | Geleiderscapaciteit | Toepassing van koper boven zilver      |
+| 22a             | Stro, Leem         | Composietmaterialen | Eigenschappen van stro-leem composiet   |
+| 22b             | Beton, Staaldraden  | Betonversterking | Voordelen van staaldraden               |
+| 22c             | Kogelwerend vest    | Composietstructuren | Voordelen van composieten in vesten    |
+| 22d             | Fiets, Composiet    | Gewicht en Sterkte | Voordelen van composiet boven metaal   |
+| 23a             | Smartphonebehuizing | Materiaalvereisten | Behuizingseisen en oplossingen         |
+| 23b             | Smartphonescherm    | Schermvereisten  | Schermoplossingen                      |
+| 23c             | Smartphone sensoren | Smart materials | Sensoren en smart materials            |
+| 24              | Materialen         | Toepassingen    | Toepassingen van specifieke materialen  |
+| 25a             | Zonnecellen        | Rendement       | Stralingsvermogen per m²               |
+| 25b             | Zonnecellen, Accu   | Vermogen        | Gebruik van zonnecellen en accu        |
+| 25c             | Nuna, Accu          | Energieverbruik | Tijd om finish te bereiken             |
+| 25d             | Nuna, Accu          | Energieverbruik | Accu-energie bij constante snelheid    |
+| 25e             | Luchtweerstand      | Ontwerpeisen    | Kleinste grootheden voor luchtweerstand |
+| 26a             | NTC-weerstand       | Temperatuur    | Aansluitdraden voor NTC-weerstand      |
+| 26b             | NTC-weerstand, Thermometer | Temperatuur    | Grootheden meten bij temperatuur       |
+| 26c             | NTC-weerstand       | Temperatuur en weerstand | Verbinding tussen weerstand en temperatuur |
+| 26d             | Regelbare weerstand | Spanning        | Minimale spanning over regelbare weerstand |
+| 26e             | NTC-weerstand       | Stroomsterkte   | Stroomsterkte bij 20 °C                |
+| 26f             | Regelbare weerstand | Stroomsterkte   | Weerstand voor LED bij 20 °C            |
+
+
+* Hd8
+** Hd8.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|------------------------------------|----------------------------------------|-----------------------------------------------------------------|
+| 1a             | Harm, Jannie, wind, fiets          | Arbeid, kracht                          | Fout in de arbeidstelling van Harm                               |
+| 1b             | Harm, Jannie, wind, fiets          | Arbeid, kracht                          | Arbeid op de fiets tijdens terugweg zonder trappen               |
+| 2a             | Tas, krachten                       | Arbeid                                  | Positieve, negatieve of nul arbeid bij het optillen van een tas   |
+| 2b             | Tas, krachten                       | Arbeid                                  | Arbeid bij tas op tafel                                          |
+| 2c             | Kastanje, zwaartekracht             | Arbeid                                  | Arbeid bij vallende kastanje                                     |
+| 2d             | Fiets, constante snelheid           | Arbeid                                  | Arbeid bij fietsen met constante snelheid                        |
+| 2e             | Auto, snelheid, versnelling         | Arbeid                                  | Arbeid bij versnellen van auto van 70 naar 90 km/h                |
+| 2f             | Bal, spierkracht, zwaartekracht     | Arbeid                                  | Arbeid bij het recht omhoog trappen van een bal                   |
+| 3              | Speerwerpster, speer                | Verplaatsing, arbeid                    | Verklaring van techniek voor maximale werpafstand                |
+| 4              | Annika, Jennifer, halters           | Arbeid                                  | Vergelijking van arbeid verricht door spierkracht                 |
+| 5a             | Bal, zwaartekracht                  | Arbeid                                  | Minimale arbeid door zwaartekracht in verschillende situaties    |
+| 5b             | Bal, luchtweerstand                 | Arbeid                                  | Minimale arbeid door luchtweerstand in verschillende situaties   |
+| 6a             | Auto, wrijvingskracht, motorkracht  | Arbeid                                  | Grootte van de motorkracht                                       |
+| 6b             | Auto, wrijvingskracht, motorkracht  | Arbeid                                  | Arbeid verricht door de motorkracht                              |
+| 7a             | Slee, Marijn, trekkracht           | Arbeid                                  | Component Ftrek,y en arbeidverrichting                           |
+| 7b             | Slee, trekkracht, hoek              | Kracht, verplaatsing                    | Bepaling van Ftrek,x                                              |
+| 7c             | Slee, trekkracht                    | Arbeid                                  | Arbeid verricht door trekkracht                                  |
+| 7d             | Slee, wrijving                      | Arbeid                                  | Wrijvingsarbeid bij trekken van de slee                           |
+| 8a             | Kar, massa, helling                 | Arbeid                                  | Arbeid door wrijvingskracht                                      |
+| 8b             | Kar, trekkracht, massa, helling     | Arbeid                                  | Arbeid door trekkracht                                           |
+| 8c             | Kar, massa, zwaartekracht           | Arbeid                                  | Arbeid door zwaartekracht                                        |
+| 9              | Kist, spierkracht                   | Arbeid, kinetische energie              | Verklaring van constante snelheid en kinetische energie          |
+| 10a             | Gemaal, water, kracht                | Arbeid                                  | Kracht van de pompen                                              |
+| 10b             | Gemaal, water, tijd                 | Vermogen                                | Nuttig vermogen van de pompen                                    |
+| 11a             | Ferrari, luchtweerstand             | Vermogen, kracht                        | Luchtweerstandskracht bij topsnelheid Ferrari                     |
+| 11b             | Peugeot, Ferrari, vermogen, snelheid | Vermogen, snelheid                      | Verklaring van snelheid verschil bij verschillende vermogens      |
+| 12              | Honkbal, handschoen, massa          | Arbeid, kracht                          | Gemiddelde remkracht tijdens vangen                              |
+| 13a             | Trein, massa, versnelling            | Bewegingsenergie, kinetische energie    | Bewegingsenergie na 60s                                         |
+| 13b             | Trein, kracht                        | Arbeid                                  | Arbeid van de resulterende kracht                                |
+| 13c             | Trein, motorkracht, versnelling      | Kracht, arbeid                          | Verandering in motorkracht gedurende versnelling                 |
+| 14              | Auto, massa, kracht, snelheid        | Arbeid, kracht                          | Afstand tijdens versnelling                                      |
+| 15a             | Auto, veiligheidsgordel, massa       | Kracht, arbeid                          | Kracht op Mark zonder gordel                                      |
+| 15b             | Auto, veiligheidsgordel, massa       | Kracht, afstand                         | Kracht met veiligheidsgordel                                     |
+| 15c             | Veiligheidsgordel                    | Kracht, arbeid                          | Uitleg over afstelling van veiligheidsgordel                     |
+| 16a             | Jan-van-gent, snelheid, massa        | Versnelling, kracht                     | Gemiddelde versnelling tijdens duik                              |
+| 16b             | Jan-van-gent, kracht, massa          | Kracht                                  | Gemiddelde kracht tijdens duik                                   |
+| 16c             | Jan-van-gent, snelheid, hoogte       | Kinetische energie, zwaartekracht       | Snelheid bij wateroppervlak                                       |
+| 17a             | Energieformules, joule               | Energie, eenheden                       | Eenheidscontrole van energieformules                             |
+| 17b             | Energieformules                       | Energie, eenheden                       | Eenheidscontrole van energieformules                             |
+| 18a             | Steen, wrijvingskracht               | Energie, arbeid                         | Energieveranderingen bij vallen van een steen                    |
+| 18b             | Pijl, boog, luchtweerstand           | Energie, arbeid                         | Energieveranderingen bij omhoogschieten van een pijl              |
+| 18c             | Auto, snelheid                       | Energie, arbeid                         | Energieveranderingen bij constante snelheid van een auto          |
+| 18d             | Regendruppel, snelheid                | Energie, arbeid                         | Energieveranderingen bij constante snelheid van regendruppel      |
+| 19a             | Sandra, reuzenrad, massa, cirkelbaan | Zwaarte-energie                          | Toename of afname in zwaarte-energie                             |
+| 19b             | Sandra, reuzenrad, massa             | Arbeid                                  | Arbeid verricht door zwaartekracht                                |
+| 19c             | Sandra, reuzenrad, massa             | Zwaarte-energie                          | Verandering in antwoord bij draairichting van het rad             |
+| 20a             | Dozen, massa, hoogte                 | Arbeid                                  | Arbeid bij verplaatsen van dozen                                  |
+| 20b             | Dozen, massa, hoogte                 | Arbeid                                  | Verklaring van extra arbeid bij meerdere keren lopen              |
+| 21a             | Auto, benzine, chemische energie     | Energie, arbeid                         | Hoeveelheid chemische energie uit benzine                        |
+| 21b             | Auto, chemische energie              | Energie                                  | Verdeling van energie bij verbranden van benzine                  |
+| 21c             | Auto, weerstandskrachten             | Kinetische energie, weerstandskrachten   | Som van weerstandskrachten bij auto                               |
+| 22a             | Fiets, helling, massa                | Zwaarte-energie, hoogte                 | Hoogte van de helling                                             |
+| 22b             | Fiets, massa, hoogte                 | Zwaarte-energie                          | Zwaarte-energie boven aan de helling                              |
+| 22c             | Fiets, snelheid, massa               | Kinetische energie                       | Kinetische energie onder aan de helling                           |
+| 22d             | Fiets, weerstandskrachten            | Energie, arbeid                         | Som van weerstandskrachten tijdens afdaling                       |
+| 22e             | Fiets, weerstandskrachten            | Weerstandskrachten                       | Toename van weerstandskrachten tijdens afdaling                   |
+| 23a             | Aardgas, rendement, warmteverlies    | Energie, aardgas                        | Hoeveelheid aardgas per stookseizoen                             |
+| 23b             | Aardgas, temperatuurverschil         | Energie                                  | Besparing bij lagere thermostaatinstelling                        |
+| 23c             | Zonnepanelen, warmtepomp, energie    | Energie, vermogen                       | Minimaal aantal zonnepanelen                                      |
+| 24a             | Steentje, hoogte, snelheid           | Zwaarte-energie, kinetische energie     | Maximale hoogte van steentje                                      |
+| 24b             | Steentje, snelheid, hoogte           | Kinetische energie, zwaarte-energie     | Bevestiging van snelheid bij terugkomst op hoogte                 |
+| 24c             | Steentje, luchtweerstand, hoogte     | Energie, hoogte                         | Effect van luchtweerstand op maximale hoogte                      |
+| 25              | Auto, snelheid, massa                | Arbeid, kracht                           | Som van tegenwerkende krachten tijdens afremmen                  |
+| 26              | Waterraket, snelheid, hoogte         | Kinetische energie, hoogte              | Maximale hoogte van de raket                                      |
+| 27              | Loes, sprongetjes                    | Kinetische energie, arbeid              | Verschil in spronhoogte met verschillende technieken
+| 28             | Atleet, polsstok, grond                               | Energieconversie, zwaarte-energie    | Hoogte van het zwaartepunt van de atleet bij de lat                                |
+| 29a            | Steentje, water, massa                                | Kinetische energie, zwaarte-energie  | Snelheid bij K1                                                                   |
+| 29b            | Steentje, water, kinetische energie                   | Kinetische energie, zwaarte-energie  | Uitleg van figuur 8.30                                                            |
+| 29c            | Steentje, water, massa                                | Energieverandering                   | Energieverlies bij eerste botsing met water                                       |
+| 29d            | Steentje, hoogte, kinetische energie                  | Zwaarte-energie                       | Maximale hoogte tussen K1 en K2                                                    |
+| 30a            | Trein, helling, massa, snelheid                       | Arbeid, zwaarte-energie              | Minimale elektrische energie nodig om de trein omhoog te trekken                   |
+| 30b            | Trein, afdaling, snelheid, hoogte                     | Energie, warmte                      | Hoeveelheid energie omgezet in warmte tijdens afdaling                             |
+| 30c            | Trein, weerstandskracht                               | Kracht, arbeid                       | Gemiddelde weerstandskracht tijdens afdaling                                      |
+| 31a            | Windmolen, windsnelheid, vermogen                      | Vermogen                             | Vermogenafname bij halveren van de windsnelheid                                     |
+| 31b            | Windmolen, constante k                                | Vermogen                             | Eigenschap van een windmolen die k beïnvloedt                                      |
+| 31c            | Zeewater, valmeer, massa                              | Zwaarte-energie                       | Hoeveelheid water die gepompt moet worden                                          |
+| 31d            | Windmolens, vermogen, tijd                            | Vermogen, tijd                       | Minimale tijd om water van hoogste naar laagste niveau te brengen                 |
+| 31e            | Zeewater, generator, vermogen                         | Energie, rendement                   | Rendement van omzetting van bewegingsenergie in elektrische energie                |
+| 31f            | Valmeercentrale, energie, kosten                      | Energie, kosten                      | Argument voor de bouw van een valmeercentrale                                      |
+| 32a            | Parkiet, windsnelheid, energieverbruik                | Vermogen, energie                    | Afstand afgelegd door parkiet bij 8,0 m/s                                          |
+| 32b            | Parkiet, wrijvingskracht                              | Vermogen                             | Uitleg waarom Pw een stijgende functie is                                         |
+| 32c            | Parkiet, wrijving, Pk                                | Vermogen                             | Uitleg waarom vogels Pk moeten leveren en niet lopende dieren                      |
+| 32d            | Parkiet, snelheid, arbeid                            | Arbeid, snelheid                     | Arbeid per meter bij 10 m/s vs. 8,0 m/s                                           |
+| 32e            | Parkiet, luchtweerstand, zwaartekracht                | Krachten                             | Derde kracht en grootte in newton bij constante snelheid                           |
+| 32f            | Parkiet, hoogte, vermogen, hoek                       | Vermogen, hoogte                     | Stijging van parkiet en extra vermogen bij schuin omhoog vliegen                    |
+| 32g            | Parkiet, vermogen, hoogte                             | Vermogen                             | Extra vermogen bij schuin omhoog vliegen                                          |
+
+* Hd9
+** Hd9.txt
+
+
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|----------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------|
+| 1              | Takje, stoeltje, zuiger, heiblok                         | Trillingen, bewegingen                           | -                                                         |
+| 2              | Slinger, blokje ijzer                                    | Periodieke bewegingen, frequentie, trillingstijd | Trillingstijd, frequentie                                |
+| 3              | Hart, cardio-gram                                        | Periodieke bewegingen, frequentie                | Frequentie van hartslag, hoogte spanningspiek             |
+| 4              | Blokje, veer                                              | Trillingen, frequentie                            | Frequentie, meetonzekerheid                              |
+| 5              | Peuterschommel                                           | Trillingen, amplitude, snelheid                   | Amplitude, frequentie, maximale snelheid                 |
+| 6              | Trillingsgrafieken                                      | Periodieke bewegingen, amplitude, frequentie     | Amplitude, frequentie, gewijzigde grafieken              |
+| 7              | Oscillogrammen                                           | Frequentie, tijdbasis                             | Frequentie van oscillogrammen, tijdbasis                 |
+| 8              | Bungee-elastiek, Berna                                    | Harmonische trilling, veerconstante              | Trillingstijd, harmonische trilling                      |
+| 9              | Blokje, veer                                              | Harmonische trilling, veerconstante              | Amplitude, massa, maximale snelheid                      |
+| 10             | Blokje, veer                                              | Trillingstijd, veerconstante                      | Veerconstante, trillingstijd                              |
+| 11             | Auto, vering                                              | Trillingen, veerconstante                         | Veerconstante                                            |
+| 12             | Slinger, schommel                                        | Trillingstijd, lengte van de slinger              | Tijdsduur van slingerbewegingen                           |
+| 13             | Chauffeursstoel, trillingen                              | Frequentie, veerconstante                         | Massa van de stoel, eigenfrequentie, geschiktheid veer    |
+| 14             | Toeschouwers, stadion                                    | Golven, transversale of longitudinale golf        | Frequentie, golfsnelheid, golflengte                      |
+| 15             | Koord, puls                                               | Transversale golf, trillingsfrequentie            | Richting van beweging, amplitude, golfsnelheid           |
+| 16             | Aardbeving, golven                                        | Golfsnelheid, frequentie                           | Golflengte, tijdsverschil, aantal meetstations            |
+| 17             | Tsunami, waterdiepte                                     | Golfsnelheid, amplitude                           | Amplitude bij verschillende waterdiepten                  |
+| 18             | Koord, transversale golf                                 | Golfsnelheid, frequentie                           | Frequentie, golfsnelheid, tijdstip van de golfstand       |
+| 19       | Geluid, vleermuis, dolfijn, echo          | Golfsnelheid, frequentie, golflengte   | Kleinste golflengte, afstand tot voorwerp |
+| 20       | Geluid, vleermuis, dolfijn                | Golfsnelheid, frequentie, golflengte   | Kleinste golflengte, afstand tot voorwerp |
+| 21       | Klarinet, lucht                          | Golfsnelheid, frequentie               | Frequentie van de toon, effect temperatuur |
+| 22       | Lichtflits, donder, onweer                | Golfsnelheid van geluid en licht       | Afstand tot onweer, tijdsverschil         |
+| 23       | Toongenerator, microfoon, luidspreker     | Golfsnelheid, frequentie, amplitude    | Frequentie van het geluid, oorzaak amplitude verandering |
+| 24       | Ultrasone plaatssensor, geluidspulsen     | Golfsnelheid, frequentie               | Golflengte, effect van pulsduur op meting |
+| 25       | Ukelele, snaren, grondtoon                | Golfsnelheid, frequentie, golflengte   | Golfsnelheid van de snaar, afstand tussen knoop en buik |
+| 26       | Radiozender, antenne, mobiele telefoon    | Golfsnelheid, frequentie               | Golfsnelheid van radiofrequentie, antenne lengte |
+| 27       | Vlaggenlijn, katrol, spankracht           | Golfsnelheid, frequentie               | Voortplantingssnelheid, massa per lengte-eenheid |
+| 28       | Gitaar, snaren, klankkast                 | Golfsnelheid, frequentie, golflengte   | Golfsnelheid van de snaar, invloed van frets op toonhoogte |
+| 29       | Klankkast, stemvork                       | Golfsnelheid, frequentie               | Frequentie van de stemvork               |
+| 30       | Muziekslang, lucht, draaisnelheid         | Golfsnelheid, frequentie               | Omlooptijd, golflengte van geluid, laagste frequentie |
+| 31       | Mondharmonica, metalen lipjes             | Golfsnelheid, frequentie               | Frequentie van de lipjes, plaats knopen/buiken |
+| 32       | Hoekharp, snaren                          | Golfsnelheid, frequentie, grondtoon    | Frequentie van de grondtoon, effect van snaarlengte |
+| 33       | Seismograaf, aardbevingsgolven            | Golfsnelheid, frequentie, veerconstante| Golflengte van transversale golven, veerconstante, snelheid van longitudinale golven |
+
+* Hd10
+** Hd10.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|---------------------------------|---------------------------------------------|------------------------------------------------------------|
+| 1              | Elektromagnetische golven, Geluidsgolven  | Golfsnelheid, Frequentie, Golflengte       | Verschillen tussen golven, Geschiktheid voor onderzoek     |
+| 2              | Gel, Transducer, Geluidspulsen   | Reflectie, Geluidssnelheid, Golflengte      | Reflectie zonder gel, Voordelen van gel, Golflengte       |
+| 3              | Ultrasone golven, Transducer, Weefsel | Geluidssnelheid in water, Pulsen            | Tijd tot ontvangst weerkaatst geluid, Frequentie waarneming |
+| 4              | Ader, Geluidsgolf, Frequentie     | Golflengte, Frequentie                      | Frequentie voor reflectie, Geschiktheid frequentie         |
+| 5              | Ultraviolette straling, Technetium | Ionisatie-energie, Frequentie, Stralingstype | Type UV-straling, Frequentie technetium                    |
+| 6              | Ijzeren plaat, Gammastraling       | Dempingswetenschap                          | Dikte van de plaat                                         |
+| 7              | Gammastraling, Verpakkingen       | Dempingscapaciteit van materialen            | Geschiktheid van verpakking                                |
+| 8              | Röntgenfoto's, Bot, Water         | Halveringsdikte                              | Intensiteit op verschillende plekken, Aanwezigheid beenmerg|
+| 9              | Bariumpap, Röntgenfoto's           | Halveringsdikte                              | Halveringsdikte van bariumpap                               |
+| 10             | Aluminium plaat, Röntgenstraling   | Halveringsdikte                              | Vergelijking van straling door platen                     |
+| 11             | Aluminium cilinder, Röntgenstraling | Halveringsdikte                              | Percentages doorgelaten straling, Kleur van de foto         |
+| 12             | Atoomkern                          | Isotopen, Stralingstype                     | Isotopen met en zonder straling                            |
+| 13             | Isotopen                           | Stabiliteit, Vervalreactie                  | Stabiliteit en vervalreacties van isotopen                 |
+| 14             | Achtergrondstraling                | Radioactieve vervuiling                     | Redenen voor verhoogde straling in bergen                 |
+| 15             | Uranium-238, Lood-206              | Vervalreacties, Massagetal                  | Verschil in massagetal, Type vervaldeeltjes                |
+| 16             | Technetium-99m, Gammafotonen        | Vervalreacties                               | Vervalreacties van Technetium-99m en Technetium-99         |
+| 17             | Alpha-deeltje, Beta-deeltje        | Ionisatievermogen, Energie                  | Vergelijking van dracht en ionisatievermogen               |
+| 18             | I-123 preparaat, Schildklier        | Activiteit, Verval                          | Activiteitsdaling, Stralingsdosis                          |
+| 19             | I-131, Activiteit                   | Halveringstijd, Activiteit                  | Halveringstijd en activiteit na verloop van tijd           |
+| 20             | Radioactieve preparaten            | Activiteit, Halveringstijd                  | Activiteitsvergelijking, Halveringstijd                    |
+| 21             | Splijtstoffen, Radioactieve stoffen | Halveringstijd, Activiteit                  | Halveringstijd en problemen van radioactieve stoffen       |
+| 22             | I-125, I-131, Vervalcurve          | Activiteit, Verval                          | Activiteit van I-125 en I-131, Verval in tijd              |
+| 23             | Cesium-137, Strontium-90           | Halveringstijd                              | Halveringstijd van cesium-137 en strontium-90              |
+| 24             | Badge, Ioniserende straling        | Ionisatievermogen                           | Blootstelling aan alfa- en gammastraling                   |
+| 25             | Stralingsmeter, Beschermingsmiddelen| Besmetting, Bestraling                       | Verschil tussen besmetting en bestraling                  |
+| 26             | Bestralingsbronnen, Tumoren        | Stralingsdosis, Intensiteit                 | Voordelen van meerdere bronnen, Toepassing bij tumoren     |
+| 27             | Stralingsbron, Tumor               | Stralingsdosis, Absorptie                   | Geschiktheid van alfa- en bètastralers                     |
+| 28             | Röntgenfotonen, Weefsel             | Stralingsdosis                              | Totale röntgenfotonen, Stralingsdosis                     |
+| 29             | Bananen, Kalium, K-40               | Radioactiviteit, Effectieve dosis           | Activiteit van K-40, Stralingsdosis van kalium             |
+| 30             | Radon-222, Radon Health Mine        | Verval, Stralingsenergie                    | Stralingsenergie per uur, Stralingsniveau in WL            |
+| 31             | Röntgenstraling, Technetium-99m     | Verval, Stralingsdosis                      | Geschiktheid van technetium-99m, Percentage overblijvend    |
+
+* Hd11
+** Hd11.txt
+
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|----------------------------------------------------|---------------------------------------------|-----------------------------------------|
+| 1              | Zon, maan, planeet, komeet, vallende ster         | Gravitatie, maancyclus, schijngestalten     | Verschil tussen maan en planeet, overeenkomst en verschil komeet en vallende ster, verduistering |
+| 2              | Aarde, maan                                         | Gravitatie, maancyclus, schijngestalten     | Dag en jaar op de maan, zicht op aarde vanuit de maan, schijngestalten van de aarde |
+| 3              | Maan                                                | Maancyclus                                   | Volgorde van maanfases                   |
+| 4              | Zon, maan                                           | Zonsverduistering, maancyclus                | Afstand van maan tot aarde, afstand van zon tot aarde  |
+| 5              | Venus                                               | Maancyclus, lichtverspreiding                | Schijngestalten van Venus, verklaringen voor observaties van Galilei |
+| 6              | Aarde                                               | Aardas, seizoenen, draaias                   | Afwisseling van seizoenen, schets van keerkringen en poolcirkels |
+| 7              | Zon, maan                                           | Zonsstraling                                 | Totale hoeveelheid ontvangen energie op maan  |
+| 8              | Wasmachine, waterdruppel                           | Cirkelbeweging                               | Omlooptijd, baansnelheid, middelpuntzoekende kracht, toerental |
+| 9              | Schijf, houten blokjes                             | Schuifwrijving                               | Vergelijking van afglijden van blokjes  |
+| 10             | Satelliet, aarde                                   | Cirkelbeweging                               | Straal van cirkelbaan, baansnelheid van satelliet |
+| 11             | Kampala, Sint Petersburg, aarde                    | Cirkelbeweging                               | Verhouding van baansnelheden en omlooptijden, baansnelheid bij verschillende breedtegraden |
+| 12             | Kogelslinger, kogel                                | Cirkelbeweging                               | Baankromming van kogel                    |
+| 13             | Aarde, zon                                         | Gravitatie, cirkelbeweging                   | Baansnelheid van aarde, middelpuntzoekende kracht  |
+| 14             | Centrifuge, wasgoed                                | Cirkelbeweging                               | Middelpuntzoekende kracht, veranderingen tijdens centrifugeren |
+| 15             | Ruimtewiel, astronaut                              | Kunstmatige zwaartekracht                    | Middelpuntzoekende kracht, rotatietijd voor aardse zwaartekracht |
+| 16             | Aarde, zon                                         | Gravitatie, cirkelbeweging                   | Gravitatiekracht, middelpuntzoekende kracht, snelheid van richtingverandering |
+| 17             | Aarde                                               | Gravitatie                                   | Waarde van g op verschillende breedtegraden |
+| 18             | Twee loden bollen                                  | Gravitatie                                   | Massa van de bollen, gravitatiekracht tussen bollen |
+| 19             | Twee satellieten                                   | Gravitatie, cirkelbeweging                   | Verhoudingen van gravitatiekrachten, baansnelheden, en omlooptijden |
+| 20             | Satelliet, aarde                                   | Gravitatie, cirkelbeweging                   | Hoogte van geostationaire satelliet, afgeleide formules |
+| 21             | Mars, maan van Mars                                | Derde wet van Kepler, gravitatiewetten       | Massa van Mars, straal van Mars, valversnelling op Mars |
+| 22             | Satelliet (Sentinel5P)                             | Cirkelbeweging                               | Hoogte van baan, positie na één rondje   |
+| 23             | Komeet, ruimtesonde Rosetta                         | Gravitatie, cirkelbeweging                   | Gravitatiekracht, baansnelheid van Rosetta, snelheid van Rosetta |
+| 24             | Voyager2, Jupiter                                  | Gravitatie                                   | Gravitatiekracht van Jupiter, vergelijking van gravitatiekracht van zon en Jupiter, positie van Neptunus |
+| 25             | Sterrenhemel, Poolster                             | Rotatie van sterrenhemel                     | Lichtjaar van Poolster                   |
+| 26             | Proxima Centauri                                   | Astronomische eenheid                       | Afstand in lichtjaar en AE, baansnelheid in geocentrisch model |
+| 27             | Sterrenstelsels                                    | Wet van Hubble                               | Hubbleconstante, Hubbletijd             |
+| 28             | Zon, zonnevlekken                                  | Temperatuur, straling                        | Oppervlaktetemperatuur van zonnevlek, voorspelling van zonnevlekken |
+| 29             | James Webbtelescoop                                | Elektromagnetische straling                  | Golflengtegebied, energie van fotonen, temperatuur van zonneschild |
+| 30             | Glas, licht                                        | Golflengte, doorlaatcurve                    | Energie van fotonen, doorlaatpercentages |
+| 31a            | Arcturus, Aarde                          | Aftand                                           | Afstand tot Arcturus in km                     |
+| 31b            | Arcturus                                 | Wet van Planck                               | Stralingsmaximum bij 647,8 nm                  |
+| 31c            | Arcturus                                 | Dopplereffect                                | Snelheid van de ster                           |
+| 31d            | Geluid, Auto                              | Dopplereffect                                | Verandering van golflengte bij benadering      |
+| 31e            | Arcturus                                 | Dopplereffect                                | Roodverschuiving of blauwverschuiving          |
+| 32a            | Laser                                    | Vermogen                                            | Piekvermogen van de laser                      |
+| 32b            | Laser                                    | Vermogen                                            | Gemiddeld vermogen van de laser                |
+| 32c            | Laserlicht                               | Golflengte                                            | Golflengte van het laserlicht (opties)         |
+| 32d            | Laser, Maan                               | Afstand                                            | Afstand tussen de aarde en de maan             |
+| 32e            | Laser, Maan                               | Afstand                                            | Onnauwkeurigheid in afstand                    |
+| 32f            | Maan, Aarde                               | Gravitatiekracht                              | Vergelijking gravitatiekracht nu en vroeger    |
+| 32g            | Maan, Aarde                               | Derde wet van Kepler                         | Vergelijking omlooptijd nu en vroeger          |
+| 33a            | Corot Exo 7b, Ster                       | Afstand                                            | Afstand tot Corot Exo 7 in lichtjaar           |
+| 33b            | Corot Exo 7b                             | Dichtheidsvergelijking                       | Massa van de planeet in massa van de aarde     |
+| 33c            | Corot Exo 7b                             | Transitmethode                               | Duur van een jaar op de planeet                |
+| 33d            | Corot Exo 7b                             | Baansnelheid                                            | Baansnelheid van de exoplaneet                 |
+| 33e            | Corot Exo 7b, Ster                       | Diameter                                            | Diameter van de ster                           |
+| 33f            | Corot Exo 7b, Ster                       | Golflengte                                            | Kleur van de ster in vergelijking met de zon   |
+
+* Hd12
+** Hd12.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|---------------------------------|-----------------------------------|----------------------------------------------|
+| 1a             | Sirius, aarde                    | Lichtsnelheid, tijd = afstand/snelheid | Tijd in jaren voor licht om aarde te bereiken |
+| 1b             | Lichtjaar                        | Lichtsnelheid, afstand = snelheid × tijd | Afstand in meters van een lichtjaar          |
+| 1c             | Sterren, afstanden in het heelal | Lichtjaar vs kilometers            | Reden voor het gebruik van lichtjaren        |
+| 1d             | Sterren, ruimte                  | Lichtreizen over tijd              | Betekenis van kijken naar het verleden       |
+| 1e             | Alien, aarde, dinosaurus         | Lichtsnelheid, tijd = afstand/snelheid | Orde van grootte van afstand van alien       |
+| 2a             | Zonnebril                        | Lichtdoorlaatbaarheid              | Naam voor stof die licht doorlaat            |
+| 2b             | Zonnebril                        | Lichtreflectie                     | Ander verschijnsel bij zonnebril             |
+| 2c             | Ontspiegelde brillen              | Lichtreflectie, vuilhechting       | Verklaring waarom glazen sneller vuil worden |
+| 3a             | Lichtbronnen L1 en L2, karton     | Schaduwvorming, kleurfilters       | Kleur van schaduw bij L1                    |
+| 3b             | Lichtbronnen L1 en L2, karton     | Schaduwvorming, kleurfilters       | Kleur van schaduw bij L2                    |
+| 3c             | Lichtbronnen L1 en L2, scherm     | Kleurcombinatie                     | Kleur van elke schaduw                       |
+| 4a             | Periscoop, spiegels               | Lichtstraalreflectie               | Loop van lichtstraal p door periscoop        |
+| 4b             | Periscoop, spiegels               | Lichtstraalreflectie               | Verklaring of boot rechtop gezien wordt      |
+| 5a             | Hooker Telescope, spiegels        | Lichtreflectie, optische weg        | Loop van lichtstralen naar oculair            |
+| 5b             | Hooker Telescope, primaire spiegel| Lichtverzameling                    | Reden voor grote primaire spiegel            |
+| 5c             | Hooker Telescope, secundaire spiegel | Lichtverzameling                    | Grootte van secundaire spiegel               |
+| 6a             | Lucht, water, lichtstraal         | Breking van licht                   | Breking ‘naar de normaal’ of ‘van de normaal af’ |
+| 6b             | Lucht, water                      | Brekingsindex                       | Brekingsindex van lucht naar water           |
+| 6c             | Lucht, water                      | Breking van licht                   | Voorwaarden voor geen breking                |
+| 6d             | Ster, dampkring, lichtstraal      | Breking van licht                   | Licht breekt naar de normaal toe             |
+| 6e             | Ster, dampkring, lichtstraal      | Breking van licht                   | Ster hoger of lager aan de hemel            |
+| 7a             | Optische schijf, vloeistof        | Breking van licht                   | Brekingsindex van vloeistof                   |
+| 7b             | Vloeistof                         | Breking van licht                   | Type vloeistof in de foto                     |
+| 7c             | Vloeistof, lucht                  | Breking van licht                   | Hoek van breking bij overgang                 |
+| 7d             | Vloeistof, lucht                  | Breking van licht                   | Breking bij 50° hoek van inval                |
+| 8              | Lichtstralen, schijnwerper        | Lichtreflectie, waarneming          | Zichtbaarheid van lichtstralen boven water    |
+| 9a             | Prisma, rood licht                | Breking van licht                   | Brekingsindex voor rood licht                 |
+| 9b             | Prisma, rood licht                | Breking van licht                   | Verloop van lichtstraal bij tweede grensvlak  |
+| 9c             | Prisma, blauw licht               | Breking van licht                   | Verloop van blauwe lichtstraal               |
+| 10a            | Glasplaat, tekst                  | Breking van licht                   | Voorwaarden voor geen/nauwelijks verschuiving|
+| 10b            | Glasplaat, lichtstraal            | Brekingsindex                       | Brekingsindex van glas                        |
+| 10c            | Glasplaat, lichtstraal            | Brekingsindex                       | Verschil in verschuiving met andere glasplaat|
+| 10d            | Glasplaat                         | Lichtbreking, brekingsindex         | Factor die verschuiving beïnvloedt           |
+| 11a            | Glasvezelkabel, lichtstraal       | Breking, grenshoek                  | Geen breking bij punt P                      |
+| 11b            | Glasvezelkabel, lichtstraal       | Lichtsnelheid, brekingsindex        | Lichtsnelheid in glasvezel                    |
+| 11c            | Glasvezelkabel, lichtstraal       | Lichtsnelheid, breking               | Totale terugkaatsing bij punt C              |
+| 11d            | Glasvezelkabel, lichtstraal       | Lichtstraal                         | Verloop van lichtstraal bij SS’               |
+| 11e            | Glasvezelkabel, lichtstraal       | Lichtstraal                         | Breking van lichtstraal bij SS1               |
+| 11f            | Glasvezelkabel, lichtstraal       | Totale terugkaatsing, grenshoek      | Beperkingen bij buigen van glasvezel          |
+| 12a            | Bolle en holle lens               | Breking van licht                   | Verloop van lichtstralen door de lenzen       |
+| 12b            | Bolle en holle lens               | Convergentie, divergentie            | Verklaring van lenswerking                   |
+| 13a            | Positieve lens, lichtstraal        | Breking van licht                   | Verloop van lichtstraal door lens             |
+| 13b            | Positieve lens                    | Brandpunt, lensvergelijking          | Bepalen van brandpunt van lens                |
+| 14a            | Twee positieve lenzen, telescoop  | Optische werking, buisverschillen    | Behoefte aan uitschuifbare buis               |
+| 14b            | Twee lenzen, lichtstralen          | Lenswerking, beeldvorming            | Verloop van lichtstralen door lenzen          |
+| 14c            | Twee lenzen, telescoop             | Beeldvorming, lenskwaliteit          | Nadeel van de telescoop                       |
+| 14d            | Telescoop, lichtstralen            | Brandpunt, lenswerking               | Verloop van lichtstralen naar beeldpunt B     |
+| 14e            | Telescoop, lichtstralen            | Brandpunt, bijbrandpunt              | Verloop van lichtstralen vanaf bijbrandpunt   |
+| 14f            | Telescoop, maan                    | Lichtabsorptie, beeldvorming         | Effect van absorptie door wand van koker      |
+| 15a            | Positieve lens, voorwerp, scherm   | Beeldvorming, lensformule            | Grootte van het beeld en plaats van brandpunt|
+| 15b            | Positieve lens, lichtstraal        | Lenswerking, beeldvorming            | Verloop van lichtstraal bij beeldvorming      |
+| 16a            | Positieve lens, voorwerp, oog      | Beeldvorming, lensformule            | Ligging van beeld BB’                        |
+| 16b            | Positieve lens, voorwerp           | Beeldsoort                          | Reëel of virtueel beeld                       |
+| 16c            | Positieve lens, oog                | Lichtstraal, beeldvorming            | Verloop van lichtstraal naar oog              |
+| 17a            | Lens, zon, film                    | Lensformule, beeldvorming            | Afstand tussen toren en lens                 |
+| 17b            | Lens A en B, brandpuntsafstand     | Lenskwaliteit, beeldvorming          | Verschil in beeldvorming door lens A of B     |
+| 17c            | Lens B, lens C, scherm             | Brandpuntsafstand, beeldafstand      | Verschil in beeldvorming door lens C          |
+| 18a            | Lens, beeldvorming                 | Lensformule                         | Berekening van f en N                        |
+| 18b            | Lens, beeldvorming                 | Lensformule                         | Berekening van b en N                        |
+| 18c            | Lens, beeldvorming                 | Lensformule                         | Berekening van b en f                        |
+| 19a            | Leeshulp, tekst                    | Vergroting, lenssterkte              | Reëel of virtueel beeld                      |
+| 19b            | Leeshulp, tekst                    | Lensformule                         | Afstand tussen lens en beeld                 |
+| 19c            | Leeshulp, tekst                    | Vergroting                           | Vergroting door leeshulp                     |
+| 19d            | Kleine lens, leeshulp              | Lenssterkte                          | Brandpuntsafstand van kleine lens            |
+| 20a            | Vergrootglas, tekst                | Vergroting, beeldvorming             | Vergroting van het beeld                      |
+| 20b            | Vergrootglas, tekst                | Vergroting, lensformule              | Vergroting met en zonder vergrootglas         |
+| 20c            | Vergrootglas, tekst                | Vergroting, beeldafstand            | Effect van lensafstand op vergroting         |
+| 21a            | Vergrootglas, tekst                | Vergroting                           | Vergrotingsfactor van lens bij kijkafstand    |
+| 21b            | Vergrootglas, tekst                | Vergroting, beeldafstand             | Vergroting van tekst bij aanpassing lensafstand|
+| 21c            | Vergrootglas, tekst                | Vergroting, lensformule              | Vergroting bij andere brandpuntsafstanden    |
+| 22a            | Lens, lenzenformule                                | Lensformule                             | Waarom lineaire vergroting toeneemt bij uitschuiven     |
+| 22b            | Lens, tussenring, muntstuk                         | Lensformule                             | Diameter van het muntstuk                              |
+| 23a            | Hooker Telescope, golflengte, resolutie            | Resolutieformule                         | Diameter van de Hooker Telescope                       |
+| 23b            | Diameter van telescoop, resolutie                  | Resolutieformule                         | Verklaring van de bewering over telescoopdiameter       |
+| 23c            | Grote telescoop, golfeigenschappen                 | Golfeigenschappen van licht              | Effect van grotere diameter op golfeigenschappen       |
+| 23d            | Kleine telescoop, sterren                          | Resolutie, telescoopkwaliteit           | Reden voor minder zichtbaarheid van sterren            |
+| 24a            | CD, rood laserlicht                                | Interferentie                            | Verschijnsel van interferentie                         |
+| 24b            | CD, helium-neonlaser                               | Interferentieformule                     | Hoek waaronder laserlicht zichtbaar is                |
+| 24c            | DVD, laserlicht                                    | Interferentie                            | Vergelijking van hoeken voor CD en DVD                 |
+| 24d            | Wit licht, CD                                       | Spectrum                                | Reden voor continu spectrum bij wit licht              |
+| 24e            | Wit licht, CD                                       | Spectrum                                | Verklaring van zichtbaar wit licht                     |
+| 25a            | Calcium in poeder, vlam                            | Emissiespectrum                           | Kleur van het licht                                    |
+| 25b            | Calcium, lichtenergie                              | Energie van fotonen                     | Aantal uitgezonden fotonen                             |
+| 26a            | Ster, absorptiespectrum                            | Dopplereffect                            | Beweging van de ster ten opzichte van de aarde          |
+| 26b            | Ster, absorptiespectrum                            | Dopplereffect                            | Element betrokken bij absorptielijnen                  |
+| 26c            | Dopplereffectformule, eenheden                      | Dopplereffect                            | Effect van eenheden op formule                         |
+| 26d            | Ster, Dopplereffect                                | Dopplereffectformule                     | Snelheid van de ster ten opzichte van de aarde           |
+| 27a            | Zon, absorptielijnen                               | Absorptie binnen de zon                 | Verklaring van absorptielijnen in het zonnespectrum    |
+| 27b            | Helium, zon                                         | Zonsamenstelling, ontdekking              | Verklaring voor ontdekking van helium op de zon        |
+| 27c            | Ster, absorptielijnen                              | Absorptiespectrum, BINAS                 | Verklaring van extra absorptielijnen door waterstofgas  |
+| 28a            | Sterrenstelsels, uitdijend heelal                   | Roodverschuiving, blauwverschuiving       | Type verschuiving van sterrenstelsels                 |
+| 28b            | Sterrenstelsels, afstand                           | Hubble's wet, snelheid van sterrenstelsels | Snelheid van verre sterrenstelsels                     |
+| 28c            | Hubble ruimtetelescoop, telescopen op aarde         | Astronomische waarnemingen                | Voordelen van ruimte-telescoop                          |
+| 29a            | Zakspectroscoop, lens, spleet                        | Lenswerking, spectroscopie                | Functie van de lens in de zakspectroscoop              |
+| 29b            | Lens, zakspectroscoop                               | Lenssterkte                              | Sterkte van de lens in de zakspectroscoop              |
+| 29c            | Blauwe en rode lichtstralen, netvlies               | Breking van licht                         | Verloop van blauwe en rode lichtstralen                |
+| 29d            | Zakspectroscoop, natriumlamp                         | Breking van licht                         | Brekingsindex voor geel licht                           |
+| 29e            | Prisma B en A, brekingsindex                        | Brekingsindex, prisma’s                   | Vergelijking van brekingsindex van prisma’s            |
+| 29f            | Prisma B en A, lichtsnelheid                        | Brekingsindex, lichtsnelheid              | Vergelijking van lichtsnelheid in prisma’s              |
+| 30a            | Waterdruppel, lens                                  | Lenssterkte                              | Verandering in lenssterkte door druk                   |
+| 30b            | Waterlens, voorwerp                                 | Lensformule                              | Lineaire vergroting van de waterlens                    |
+| 30c            | Waterlens, voorwerp                                 | Lensconstructie                          | Positie van de lens in het figuur                       |
+| 30d            | Lichtstraal, waterlens                              | Lichtstraal                               | Verloop van lichtstraal door waterlens                 |
+
+* Hd13
+** Hd13.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|-------------------------------------|------------------------------------------|----------------------------------------------|
+| 1a             | Telefoon, telefoonnummer            | Automatiseringsprincipes                 | Type automaat (meet- of stuursysteem)       |
+| 1b             | GPS, satellieten, zendmasten        | Automatiseringsprincipes                 | Type automaat (meet- of stuursysteem)       |
+| 1c             | Telefoon, geomagnetische sensor     | Automatiseringsprincipes                 | Type automaat (meet- of stuursysteem)       |
+| 1d             | Telefoon, gyroscoop                 | Automatiseringsprincipes                 | Type automaat (meet- of stuursysteem)       |
+| 2a             | Zwembad, temperatuurregelaar         | Blokschema regelsystemen                 | Blokschema van het zwembad                   |
+| 2b             | Zwembad, temperatuurregelaar         | Signaaltypes in regelsystemen            | Analoog of digitaal signaal                  |
+| 2c             | Zwembad, temperatuurregelaar         | Signaaltypes in regelsystemen            | Signaalhoogte bij temperatuur < 30 °C         |
+| 3a             | Rookmelder, testknop, led, lichtsensor | Rookmelderwerking, testknopfunctie       | Oorzaken voor niet-piepen bij testknop       |
+| 3b             | Rookmelder, testknop, led, lichtsensor | Rookmelderwerking, testknopfunctie       | Blokschema van de rookmelder                 |
+| 4a             | Thermostaat, straatverlichting, stoplicht | Automatiseringsprincipes                 | Type automaat (meet-, stuursysteem of regelsysteem) |
+| 4b             | Thermostaat, straatverlichting      | Automatiseringsprincipes                 | Sensoren voor thermostaat en straatverlichting |
+| 4c             | Straatverlichting                    | Blokschema                               | Blokschema van automatische straatverlichting |
+| 5a             | Lift, gewichtssensor, geluidssignaal  | Blokschema regelsystemen                 | Type automaat (meet-, stuursysteem of regelsysteem) |
+| 5b             | Lift, gewichtssensor                 | Analoge signaalverwerking                | Signaal S1 is analoog                        |
+| 5c             | Lift, gewichtssensor                 | Digitale vs. analoge signalen            | Signaal S3 is analoog of digitaal            |
+| 5d             | Lift, gewichtssensor                 | Digitale signalen                        | Binaire signalen                             |
+| 6a             | Glucosemeter, insulinepomp           | Automatiseringsprincipes                 | Type systeem (meet-, stuur- of regelsysteem)|
+| 6b             | Glucosemeter, insulinepomp           | Voor- en nadelen van apparaten           | Voordeel en nadeel van elk apparaat          |
+| 7a             | Temperatuursensor                    | Lineaire karakteristiek                 | Voordeel van lineaire karakteristiek         |
+| 7b             | Temperatuursensor                    | Gevoeligheid van sensoren                | Gevoeligheid bij 20 °C                       |
+| 7c             | Temperatuursensor                    | Meetbereik                               | Meetbereik van de sensor                     |
+| 7d             | Temperatuursensor                    | Verschillende sensoren                   | Keuze van sensor voor zwembad of druppel    |
+| 8a             | Microfoon, geluidssensor             | Karakteristiek van de sensor             | Gevoeligheid bij 85 dB vs. 95 dB             |
+| 8b             | Microfoon, geluidssensor             | Karakteristiek van de sensor             | Gevoeligheid bij 95 dB                       |
+| 9              | Temperatuursensor                    | Sensorkeuze                              | Keuze van sensor voor huiskamer              |
+| 10a            | Weerstanden, NTC, temperatuur        | Stroomsterkte en weerstand               | Verandering van stroomsterkte bij stijgende temperatuur |
+| 10b            | Weerstanden, NTC                     | Stroomsterkte en weerstand               | NTC-bepaling uit schakeling b                 |
+| 10c            | Weerstanden, temperatuuronafhankelijk | Stroomsterkte en weerstand               | Weerstand bij sensorspanning 5,7 V            |
+| 10d            | Weerstanden, temperatuuronafhankelijk | G-kracht                                  | Maximale G-kracht                            |
+| 11a            | Lichtsensor, LDR, weerstand           | Spanning en lichtsterkte                 | Spanning UAB bij 150 lux                    |
+| 11b            | Lichtsensor, LDR, weerstand           | Spanning en lichtsterkte                 | Keuze tussen UAB of UBC als sensorspanning  |
+| 12a            | Krachtmeter, krachtsensor, knikker    | Krachtmeterwerking, sensorweerstand       | Verklaring van spanningsverandering          |
+| 12b            | Krachtmeter, krachtsensor             | Kracht en weerstand                      | Verandering van weerstand tijdens beweging   |
+| 12c            | Krachtmeter, krachtsensor             | Spanning en weerstand                    | Weerstand bij sensorspanning 5,7 V           |
+| 12d            | Krachtmeter, krachtsensor             | G-kracht                                  | Maximale G-kracht                            |
+| 13a            | Telefoonantenne                      | Invoer- en actuatorprincipes             | Uitleg over invoer en actuator               |
+| 13b            | Telefoonantenne                      | Invoerelementen                           | Twee andere actuatoren in telefoon           |
+| 14a            | Geluidssensor, drukschakelaar, variabele spanning, pulsgenerator | Signaaltypes                              | Binaire signalen                             |
+| 14b            | Geluidssensor, drukschakelaar, variabele spanning, pulsgenerator | Nabootsen van sensor effecten             | Invoerelement dat effect sensor nabootst      |
+| 15a            | Drukschakelaar, led, spanningsbron    | Schakeling en stroomkring                 | Schakelingen waarbij led brandt zonder ingedrukte schakelaar |
+| 15b            | Drukschakelaar, led, spanningsbron    | Schakeling en stroomkring                 | Schakelingen waarbij led brandt bij ingedrukte schakelaar |
+| 15c            | Drukschakelaar, led, spanningsbron    | Schakeling en stroomkring                 | Schakeling in het systeembord                |
+| 16a            | Pulsgenerator                        | Frequentie en tijd                       | Tijd voor 20 pulsen                          |
+| 16b            | Pulsgenerator, zoemer                 | Frequentie en tijd                       | Stilte tussen twee geluidssignalen          |
+| 17a            | Relais, led, spanningsbron            | Relaiswerking                             | Relais niet nodig voor led in- en uitschakeling |
+| 17b            | Relais, lamp, spanningsbron           | Relaiswerking                             | Verbindingsdraden voor lamp en relais       |
+| 18a            | Reedcontact, magneet                  | Reedcontactwerking                        | Metaalsoorten in reedcontact                 |
+| 18b            | Reedcontact, zoemer                   | Reedcontactwerking                        | Schakeling voor reedcontact                 |
+| 19a            | Geheugencel, pulsenteller              | Schakeling en tellerwerking              | Reden voor werking of niet-werken van de teller |
+| 19b            | Geheugencel, pulsenteller              | Geheugencelwerking                         | Stoppen bij getal 4 op display              |
+| 19c            | Geheugencel, pulsenteller              | Geheugencelwerking                         | Stoppen bij getal 6 op display              |
+| 19d            | Geheugencel, pulsenteller              | Geheugencelwerking                         | Stoppen bij getal 4 na herstart             |
+| 20             | Geheugencel, ingangssignalen           | Geheugencelwerking                         | Uitgangssignaal als functie van de tijd     |
+| 21             | Pulsgenerator, drukschakelaar, pulsenteller   | Frequentie, tijdsafhankelijkheid                 | Waarde op display als functie van de tijd                 |
+| 22             | Drukschakelaar, pulsgenerator, telapparaat    | Reactietijd meten                                | Schema compleet maken, keuze frequentie                  |
+| 23             | Pulsgenerator, led, drukschakelaars, geheugencel | Frequentie, tijdsafhankelijkheid                 | Tijd led aan, schakeling tekenen, frequentie aanpassen   |
+| 24             | Broodrooster, drukschakelaar, pulsgenerator   | Tijd, resetten                                    | Schema compleet maken, frequentie aanpassen              |
+| 25             | Drukschakelaars, geheugencel                  | Logische schakelingen                            | Signalen bij drukschakelaars                              |
+| 26             | Lichtsluis, drukschakelaar                    | Tellen van onderbrekingen                         | Schakeling compleet maken, effect van invertor            |
+| 27             | Lichtsensor, comparator, invertor, relais     | Lichtmeting, analoog vs digitaal                 | Referentiespanning instellen, invloed van invertor        |
+| 28             | Lichtsensor, bewegingssensor, leds            | Lichtmeting, bewegingsdetectie                    | Referentiespanning, schakeling tekenen                   |
+| 29             | Lichtsensor, infraroodsensor, led              | Lichtmeting, bewegingsdetectie                    | Schakeling aanvullen, lamp blijft branden                |
+| 30             | Temperatuursensor, comparatoren               | Temperatuurmetingen, binaire signalen            | Referentiespanning, schakeling compleet maken            |
+| 31             | Windsnelheidssensor, comparatoren              | Windsnelheidmetingen, logische poorten           | Referentiespanning, schakeling compleet maken            |
+| 32             | Pulsgenerator, led, drukschakelaars            | Frequentie, tijdsafhankelijkheid                 | Tijd led aan, schakeling tekenen                         |
+| 33             | Binaire getallen                              | Decimale conversie, binair systematiek           | Decimale getallen, grootste getal bij zeven bits          |
+| 34             | Decimale getallen                             | Binaire conversie                                | Binaire representatie van decimale getallen              |
+| 35             | Temperatuursensor, AD-omzetter                 | Temperatuurmetingen, binair getal                | Binaire getal bij 50 °C                                 |
+| 36             | AD-omzetter                                   | Resolutie, spanningsbereik                       | Resolutie vergelijken, resolutie berekenen               |
+| 37             | Temperatuursensor, AD-omzetter                 | Temperatuurmetingen, binaire getallen            | Binaire getal bij 0 °C, temperatuurgebied                |
+| 38             | Temperatuursensor, AD-omzetter                 | Temperatuurmetingen, binaire getallen            | Temperatuurwaarden voor signaal A                        |
+| 39             | AD-omzetter, bemonsterfrequentie               | Bemonstering, stapgrootte                         | Bemonsterfrequentie, stapgrootte, digitale beeld verbeteren |
+| 40             | Draaihoeksensor, fotodiode, led                | Hoekmetingen, pulsdetectie                       | Verplaatsing berekenen bij tellerstand                   |
+| 41             | Temperatuursensor, verwarmingselement, grill   | Temperatuurmetingen, schakelingseisen            | Gevoeligheid, temperatuurinstelling, schakeling compleet maken |
+| 42             | Elektromotor, accu, waarschuwinglampje         | Spanning, digitale conversie, tijd               | Signaal bij knipperen, spanning, schakeling tekenen       |
+
+* Hd14
+** Hd14.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|---------------------------------------------|-------------------------------------|-------------------------------------|
+| 1              | Hand, tafel, lucht                         | Druk = Kracht / Oppervlakte          | Kracht die lucht uitoefent           |
+| 2              | Olifant, naaldhakken                        | Druk = Kracht / Oppervlakte          | Vergelijking van druk                |
+| 3              | Water, schaaltje                           | Druk = Gewicht / Oppervlakte         | Dikte van waterlaag, waterdruk       |
+| 4              | Water, diepte                              | Druk = ρ·g·h                         | Waterdruk op 2,5 m diepte            |
+| 5              | Glas, water, papier                        | Druk = ρ·g·h                         | Bewijs van druk op papier            |
+| 6              | Vaalserberg                                | Drukafname per hoogte                | Gecorrigeerde luchtdruk              |
+| 7              | Atmosfeer                                   | Temperatuurveranderingen             | Temperatuurdaling, absorptie         |
+| 8              | Vliegtuig                                   | Druk en dichtheid                     | Druk en dichtheid op 11 km hoogte    |
+| 9              | Lucht, zuurstof                            | Volume en druk                       | Hoeveelheid ingeademde zuurstof      |
+| 10             | Lucht op verschillende hoogtes             | Gaswet: p·V = n·R·T                  | Controle p / ρ·T constant            |
+| 11             | Lucht op verschillende locaties             | Ideale gaswet                        | Ontbrekende gegevens                 |
+| 12             | Lucht, moleculaire massa                   | Dichtheid en gaswet                  | p / ρ·T = R / M                      |
+| 13             | Ballon, luchtdruk, temperatuur             | Gaswet                                | Luchtdruk en volume op hoogte        |
+| 14             | Land, zee, lucht                           | Windrichtingseffecten                | Uitleg van windrichting              |
+| 15             | Luchtbel, temperatuur                      | Temperatuurdaling                    | Temperatuurdaling per km, hoogte     |
+| 16             | Draaiende aarde, bewegende objecten        | Corioliseffect                        | Effect van snelheid en rotatietijd   |
+| 17             | Weersystemen, aarde                        | Corioliseffect                        | Afwijking op zuidelijk en noordelijk halfrond |
+| 18             | Windmolen, lucht                            | Kinetische energie                   | Vermogen en efficiëntie van windmolen |
+| 19             | Regenbui, temperatuur                      | Temperatuureffecten                  | Afkoeling en windverandering         |
+| 20             | Luchtvochtigheid, wolken                   | Vochtigheidseffecten                 | Condenseren en afkoelen              |
+| 21             | Lucht, lichaam                             | Gevoelstemperatuur                    | Effect van luchtvochtigheid en wind  |
+| 22             | Wolken, regendruppels                       | Luchtweerstand en zwaartekracht      | Relatie tussen druppelgrootte en snelheid |
+| 23             | Wolk                                        | Neerslag en wolkenstructuur          | Locatie van druppels en kristallen   |
+| 24             | Luchtbel, dampdruk                         | Relatieve luchtvochtigheid            | Condenseringshoogte                  |
+| 25             | Aarde, ijs, stof, bewolking                 | Invloed op temperatuur                | Effecten van veranderingen           |
+| 26             | Zon, aarde                                  | Zonnestraling en warmte              | Gemiddelde uitgestraalde intensiteit |
+| 27             | IJs, zoutwater                              | Faseverandering                      | Eindtemperatuur van mengsel          |
+| 28             | Zand, Sahara                                | Temperatuurverandering               | Temperatuurseffecten over een dag    |
+| 29             | Zonnepaneel, zonne-energie                  | Energieopslag en rendement           | Oppervlakte zonnepaneel              |
+| 30             | Mars, zonnestraling                         | Zonnestraling en temperatuur         | Gemiddelde temperatuur van Mars      |
+| 31             | Elektriciteit, energieopslag                | Opslagmethoden en problemen          | Methoden voor energieopslag          |
+| 32             | Broeikasgassen                              | Broeikaseffect                       | Versterkende processen               |
+| 33             | Wolk, luchtdruk, waterdruppels              | Luchtdruk en snelheid                | Hoogte van wolk, werkelijke dichtheid |
+| 34             | Mars, zonnestraling                         | Zonnestraling en albedo              | Intensiteit en temperatuur op Mars   |
+
+* Hd15
+** Hd15.txt
+|  Opgave | Gegeven                            | Formules/Concepten                   | Gevraagd                      |
+|----------------|-----------------------------------------|----------------------------------------|--------------------------------------------|
+| 1              | Oor, gehoorzenuw                        | Geluidstrillingen, omzetting naar zenuwsignalen | Gehoororgaan, signaaltransmissie            |
+| 2              | Vliegtuig, sliksituatie                  | Drukveranderingen, geluidsweerstand    | Geluidsverandering, drukverschil bij dalen  |
+| 3              | Geluidsbron, hoofd, oorschelpen          | Geluidssnelheid, golflengte             | Tijdsverschil, frequentie                  |
+| 4              | Basilair membraan, massa's, veertjes     | Verplaatsings- en veerconstantewetten  | Massa, frequentieverschil                |
+| 5              | Trommelvlies, ovale venster, gehoorbeentjes | Drukverhouding, hefboomwerking          | Drukverschil, versterkingsfactor          |
+| 6              | Geluidsinstallatie, luidsprekers         | Geluidsgolven, ruimtelijke effecten     | Ruimtelijke plaatsing van instrumenten     |
+| 7              | Auto, geluidsintensiteit                 | Geluidsintensiteitswetten               | Geluidsintensiteitsniveaus, afstandsverschil|
+| 8              | Geluidsbron, afstand                     | Geluidsintensiteitswet                  | Intensiteitsverandering bij afstand        |
+| 9              | Geluidsbronnen, intensiteitsniveaus      | Intensiteitsverhouding, dB-schaal       | Intensiteitsverhouding, perceptie         |
+| 10             | Geluidsbron, frequenties                  | Geluidsspectrum                         | Hoorbaarheid van frequenties               |
+| 11             | Geluidsintensiteit, geluidsdrukniveau    | Drempelwaarde, percentageverschil       | Geluidsintensiteit overschrijding          |
+| 12             | Explosie, energie, geluidsintensiteit    | Energieverdeling, geluidsintensiteitswet| Geluidsintensiteit, energie op trommelvlies|
+| 13             | Wekker, geluidsintensiteit               | Intensiteitswet                          | Vergelijking van geluidsintensiteit        |
+| 14             | Smartphone, geluidsopname                | Geluidsweergave, perceptie              | Waarneming van geluidskwaliteit            |
+| 15             | Gehoorverlies, muziekfrequenties         | Gehoorverlieswetenschap, frequentiereactie | Effecten van muziekkeuze op gehoor        |
+| 16             | Geluidsintensiteitsniveau, tijdsduur     | Geluidsintensiteitswet, tijdsverhouding | Luisterduur bij hoge intensiteit            |
+| 17             | Audiogram, gehoormetingen                | Audiogramweergave                        | Audiogramtekening                          |
+| 18             | Fluit, afstand, geluidsintensiteit       | Geluidsintensiteitswet                  | Intensiteitsniveau, gehoorcapaciteit       |
+| 19             | Smartphone, EU-volumebegrenzing          | Geluidsintensiteitswet, veilig volume   | Luisterduur, vergelijkende niveaus         |
+| 20             | Camera, oog                              | Optische vergelijkingen                 | Overeenkomsten en verschillen              |
+| 21             | Kegeltjes, licht                         | Kleurperceptie, kegeltjesrespons         | Kleurperceptie bij verschillende lichtomstandigheden |
+| 22             | Flitslicht, camera                        | Reflectie en absorptie van licht         | Rode pupillen bij flitslicht               |
+| 23             | Verlichte kamer, donker, ledlampje       | Visuele aanpassing                       | Aangepast zicht bij verschillende lichtomstandigheden |
+| 24             | Lens, beeldafstand                       | Lensformule                             | Beeldafstand bij verre objecten            |
+| 25             | Lens, voorwerp                           | Lensformule                              | Beeldafstand, beeldtype                    |
+| 26             | Lens, voorwerp                           | Lensformule                              | Beeldafstand, grootte van beeld            |
+| 27             | Lens, voorwerp                           | Lensformule                              | Beeldlocatie, beeldgrootte                 |
+| 28             | Oog, voorwerp, details                   | Accommodatie                             | Scherpte bij verschillende afstanden       |
+| 29             | Pen, oog                                  | Accommodatie, lenssterkte                | Naaste scherpteafstand, lenssterkte        |
+| 30             | Leesbril, lamp                            | Verlichting, leesvermogen               | Lezen bij verschillende lichtsterktes      |
+| 31             | Voorwerp, netvlies, accommodatie         | Accommodatie en beeldgrootte             | Beeldgrootte en scherpte bij verschillende afstanden |
+| 32             | Oog, camera                               | Lensformule, scherpte                    | Beeldafstand, scherpte bij verschillende afstanden |
+| 33             | Leesbril, verafstand                     | Verziendheid, accommodatie               | Scherp zicht zonder bril, met bril         |
+| 34             | Bril, vertepunt, nabijheidspunt           | Accommodatiewet, brilsterkte             | Sterkte van lenzen, scherpte op afstand    |
+| 35             | Leesbril, boek, afstand                  | Lenssterkte, scherpte                   | Effecten van verschillende lenssterkten    |
+| 36             | Bril, oog, lichtstralen                   | Brilsterkte, visuele scherpte            | Correctie van bijziendheid                 |
+| 37             | Lenzen, accommodaties                    | Verziendheid, bijziendheid                | Effect van leeftijd op lenssterkte         |
+| 38             | Gehoorgang, trommelvlies, ovale venster   | Resonantie, drukverhouding               | Frequentie van resonantie, druk op ovale venster |
+| 39             | Oog, sterkte van de lens, accommodatiewaarden | Sterkte en afstand van lenzen            | Oogsterkte bij verschillende leeftijden    |
+
