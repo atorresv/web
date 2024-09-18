@@ -166,6 +166,8 @@ Door goede reflexen te ontwikkelen, kun je de hoeveelheid denkwerk die je moet v
 
 * denktips
 
+** Bloom
+
 | Systeem                 | Categorie                   | Eenvoudige vraagprompts                                                               | Actie                                                                                     |
 |-------------------------+-----------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------|
 | Taxonomie van Bloom      | Herinneren                  | Wat is de definitie van X? / Wie is verantwoordelijk voor Y? / Wanneer gebeurde Z?      | Ik ben nieuwsgierig naar feiten en wil graag herinneren wat ik heb geleerd.                |
@@ -175,10 +177,19 @@ Door goede reflexen te ontwikkelen, kun je de hoeveelheid denkwerk die je moet v
 |                         |                             | ondersteunt deze bewering?                                                            | begrijpen.                                                                                |
 |                         | Evalueren                   | Bent u het eens met dit argument? / Welke criteria zou u gebruiken om X te beoordelen?  | Ik benader beslissingen kritisch en beoordeel alle perspectieven.                         |
 |                         | Creëren                     | Kunt u een oplossing voor X ontwerpen? / Hoe zou u een nieuwe aanpak voor Y samenstellen?| Ik ben vindingrijk en sta open voor het creëren van nieuwe oplossingen en ideeën.          |
+
+** Costa
+| Systeem                 | Categorie                   | Eenvoudige vraagprompts                                                               | Actie                                                                                     |
+|-------------------------+-----------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------|
 | Costa's niveaus          | Niveau 1: Verzamelen        | Wat is X? / Wanneer vond Y plaats? / Waar bevindt Z zich?                              | Ik sta open voor het leren van feiten en het ontdekken van de basisprincipes.              |
 |                         | Niveau 2: Verwerking        | Waarom gebeurde X? / Hoe zijn X en Y met elkaar verbonden? / Wat is de oorzaak van Z?   | Ik probeer relaties te begrijpen en dieper in te gaan op de betekenis ervan.               |
 |                         | Niveau 3: Toepassen          | Wat is de betekenis van X? / Hoe kan Y in dit geval worden toegepast? / Wat zijn de     | Ik ben reflectief en wil graag mijn kennis gebruiken om complexe uitdagingen op te lossen. |
 |                         |                             | implicaties van Z?                                                                    |                                                                                           |
+
+** Onderzoek
+
+| Systeem                 | Categorie                   | Eenvoudige vraagprompts                                                               | Actie                                                                                     |
+|-------------------------+-----------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------|
 | Onderzoekstypen          | Beschrijvend                | Wat zijn de belangrijkste kenmerken van X? / Hoe zou je Y beschrijven? / Hoe ziet Z     | Ik observeer nauwkeurig en beschrijf nauwkeurig en met oog voor detail.                   |
 |                         |                             | eruit?                                                                                 |                                                                                           |
 |                         | Vergelijkend                | Waarin verschilt X van Y? / Wat zijn de overeenkomsten tussen X en Z? / Wat is beter,   | Ik waardeer verschillende standpunten en vergelijk ideeën om inzicht te krijgen.          |
