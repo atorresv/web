@@ -202,7 +202,6 @@
    - Voorbeeld van een antwoord: Bij een MRI-scan wordt de patiënt niet bestraald met ioniserende straling.
    - Voorbeeld van een antwoord: De weerstandstemperatuurcoëfficiënt bepaalt hoe de weerstand verandert met temperatuur.
    - Voorbeeld van een antwoord: De Hall-spanning is het grootst als het magneetveld loodrecht op het Hallplaatje staat.
-   - Voorbeeld van een antwoord: De Hall-spanning is het grootst als het magneetveld loodrecht op het Hallplaatje staat.
    - Voorbeeld van een antwoord: Een velletje papier wordt gebruikt **om** te testen of alfadeeltjes worden geregistreerd.
    - Voorbeeld van een antwoord: Helmconstructie voorkomt grote versnellingen door gecontroleerde krachtsopbouw.
    - Voorbeeld van een antwoord: De veldlijnen lopen bij toenemende afstand verder uit elkaar, **wat zorgt voor** een lagere veldlijnendichtheid.
