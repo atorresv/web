@@ -1,0 +1,496 @@
+#+TITLE: SCHRIJFVAARDIGHEDEN VOOR EXAMENKANDIDATEN: 2025
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+#+HTML_HEAD: <style>
+#+HTML_HEAD: body {
+#+HTML_HEAD:   max-width: 1200px; /* Change to your desired width */
+#+HTML_HEAD:   margin: 0 auto;    /* Center the content */
+#+HTML_HEAD: }
+#+HTML_HEAD: </style>
+
+*  Schrijfvaardigheden
+
+| Schrijfvaardigheden                            | Beschrijving                                                                                     | Signaalwoorden                                                                                     |
+|------------------------------------------+------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------|
+| Berekening-gebaseerd                     | Bevat wiskundige relaties, formules en numerieke redenering.                                  | geldt, invullen, levert, volgt, dus, dan, toepassen, bepaald worden, opzoeken                  |
+| Causaal redeneren                        | Verklaart oorzaak-gevolgrelaties tussen concepten of gebeurtenissen. Geeft een rechtvaardiging of uitleg voor een uitspraak of fenomeen.  | dus, wat, omdat, doordat, waardoor, zodat, daardoor, hierdoor, betekent dat                    |
+| Functioneel redeneren (Teleologisch)      | Verklaart het doel of de functie van een proces of object.                                    | om, zodat, waardoor, wat zorgt voor, wat leidt tot, daarom, hiermee, omdat                     |
+| Mechanistisch redeneren (Proces-gebaseerd)| Beschrijft hoe processen of systemen werken en hoe verschillende onderdelen interageren.      | dus, waardoor, omdat, doordat, wat, dan, tegelijkertijd, tijdens, neemt toe, neemt af         |
+| Conceptueel redeneren (Inzicht-gebaseerd) | Legt conceptuele of abstracte relaties tussen ideeën uit.                                |      dus, waardoor, wat, want, daarom, betekent dat, omdat, hierdoor                               |
+| Vergelijkend redeneren (Contrasterend)    | Vergelijkt twee of meer situaties, concepten of uitkomsten.                                   | dus, waardoor, terwijl, dan, omdat, maar, wat betekent dat, in vergelijking met,in tegenstelling tot, meer/minder dan                                                                          |
+| Statistisch/Empirisch redeneren           | Baseert verklaringen op meetgegevens, observaties of statistische analyses.                 | aflezen, blijkt, bevestigt, levert, uit de tabel blijkt, in figuur, uit de grafiek volgt, uit de foto is af te leiden, de verhouding van, evenredig met, foutmarge, bepaald wordt door        |
+| Model-gebaseerd redeneren (Theoretisch)   | Gebruikt theoretische modellen of wetenschappelijke wetten om fenomenen te verklaren.       | volgens, geldt, dus, uitgaande van, bepaald door, voor geldt, leidt tot, evenredig met, de wet van, de formule                                                                                |
+| Hypothetisch/Contrafeitelijk redeneren    | Overweegt "wat als"-scenario’s of alternatieve realiteiten.                                 | als, zou, dan, hierdoor, waardoor, stel dat, indien, verwaarloosd wordt, als er geen         |
+| Heuristisch/Regel-gebaseerd redeneren     | Baseert verklaringen op vuistregels, praktische methoden of algemeen geaccepteerde regels.  | moet, betekent dat, volgt uit, gebruikt moet worden, met behulp van, geeft, dus, waarbij, komt overeen met, voor geldt                                                                       |
+
+
+
+* 1. Berekening-gebaseerd
+   - Voorbeeld van een bepaling: Bij een stroom door de LED van 0,60 mA is de spanning over de LED 1,64 V.
+   - Voorbeeld van een berekening: Op de geostationaire hoogte **geldt**: Fmpz **Invullen** **levert**: m.
+   - Voorbeeld van een berekening: ln 2 Voor de activiteit **geldt**: A = N / t(1/2).
+   - Voorbeeld van een berekening: Er **geldt**: I = I0 * (1/2)^(d/d1/2).
+   - Voorbeeld van een bepaling: De versnelling op t = 1,0 dag is gelijk aan de helling van de raaklijn aan het (v,t)-diagram op dat punt.
+   - Voorbeeld van een berekening: De halveringsdikte voor lucht is 3,7 * 10^3 cm.  
+     Voor de intensiteit van -fotonen in de lucht **geldt**: I = I0 * (1/2)^(d/d1/2).
+   - Voorbeeld van een berekening: px Uit figuur 3 **volgt**: sinθ = p/h.
+   - Voorbeeld van een berekening: In verticale richting **geldt**: Flift = Fz = mg = 710 * 9,81 = 6,965 * 10^3 N.
+   - Voorbeeld van een berekening: ln(2) Er **geldt**: A = N / t(1/2).
+   - Voorbeeld van een berekening: Per seconde ontstaan 37 * 10^3 deeltjes. Elk deeltje heeft een energie van 5,6 * 10^6 eV.  
+      **dus**  **geldt** voor het aantal ionisaties per seconde: (5,6 * 10^6) / (6,1 * 10^9 s^-1).
+   - Voorbeeld van een berekening: Bij 20 mA is de weerstand R = 1 * 10^3 Ω.
+   - Voorbeeld van een bepaling: Spanning over de IR-LED is 1,3 V.  
+     **Dan geldt** voor de weerstand in serie: U = 1,5 - 1,3  
+     R = 1 * 10^3 Ω / (I = 0,20 * 10^-3 A).
+   - Voorbeeld van een berekening: Er **geldt**: P = Fv.  
+     **Invullen** geeft: 1,5 * 10^3 = F * 11 → Dit **levert**: F = 1,4 * 10^2 N.
+   - Voorbeeld van een bepaling: s_AB is gelijk aan de oppervlakte onder de grafiek van nul tot de eerste knik.  
+     Dit geeft: s_AB = 1/2 * 0,92 * 8,3 = 3,8 m.
+   - Voorbeeld van een berekening: mM Er **geldt**: E_g = GMm / r en E_k = 1/2 mv^2.  
+     **Invullen** in E_g = 2E_k met r = R + h **levert**: 6,674 * 10^-11.
+   - Voorbeeld van een berekening: De tijd voor 4 trillingen bedraagt: t = (0,0091 - 0,0023) / 4 = 0,0068 s.  
+     Frequentie: f = 1 / t = 588 Hz = 0,59 kHz.
+   - Voorbeeld van een berekening: Er **geldt**: I_R3 = I_R1 + I_R2. Dit **levert**:  
+     I_R3 = 0,71 + 0,25 = 0,96 A.  
+     Verder **geldt**: U_R3 = 12,0 - 0,25 * 1,8. Hieruit **volgt**: U_R3 = 11,55 V.  
+     Dit **levert**: P_R3 = U_R3 * I_R3 = 11,55 * 0,96 = 11 W.
+   - Voorbeeld van een berekening: **Toepassen** van de spanningswet van Kirchhoff op kring ABEF:  
+     U_zp = 0,71 * 2,6 + 12,0 - 0,25 * 1,8 = 13,4 V.
+   - Voorbeeld van een berekening: E_nuttig = P * t = 250 * 0,5 = 125 Wh.  
+     Met rendement: 125 / 0,80 = 156 Wh.  
+     Energiedichtheid van 190 Wh/kg: m = 156 / 190 = 0,822 kg.  
+     Volume: V = 0,822 / 3,0 * 10^3 = 2,7 * 10^-4 m³.
+   - Voorbeeld van een berekening: R = (3,0 * 16,8 * 10^-9) / (0,25 * 10^-3)^2 = 0,257 Ω.  
+     R_totaal = 24 * 0,257 = 6,16 Ω.  
+     I = 1,5 / 6,16 = 0,243 A.  
+     Gebruikstijd: t = C / I = 2,3 / 0,243 = 9,4 h.
+   - Voorbeeld van een berekening: De resulterende arbeid komt overeen met de oppervlakte onder de grafiek.  
+     Deze is voor Wüst groter dan voor Schippers.  
+     Volgens de relatie tussen arbeid en kinetische energie: W = ΔE_k.  
+     Omdat Wüst aan het eind van de race de grootste snelheid heeft, is de resulterende arbeid het grootst voor Wüst.
+   - Voorbeeld van een berekening:  
+     \( \text{U} = \text{IR} \). Dit **levert**:  
+     \( R_{\text{lek}} = \frac{230}{0,030} = 7,7 \times 10^3 \Omega \).  
+     De aardlekschakelaar moet werken bij lagere weerstanden.
+     De lengte van de loop is gelijk aan de door de granaat afgelegde weg.  
+     Deze **volgt** uit de oppervlakte onder de grafiek:  
+     \( L = 34 \pm 2 \text{m} \).
+     Bij het ontbranden van 180 kg buskruit komt \( 180 \times 3,0 \times 10^6 = 5,4 \times 10^8 \) J energie vrij.  
+     Deze wordt omgezet in kinetische energie van de granaat:  
+     \( E_k = \frac{1}{2} m v^2 = \frac{1}{2} \times 106 \times 1640^2 = 1,43 \times 10^8 \) J.
+   - Voorbeeld van een berekening: Voor de energie van een foton **geldt**:  
+     \( E = hf \). **Invullen** geeft:  
+     \( E = \frac{6,63 \times 10^{-34} \times 3,00 \times 10^8}{\lambda} \).
+   - Voorbeeld van een berekening: Voor de hoogte **geldt**:  
+     \( h = \frac{v^2}{2g} = \frac{27,8^2}{2 \times 9,81} = 39,4 \) m.
+   - Voorbeeld van een berekening: Bij minimale snelheid in de looping **geldt**:  
+     \( \frac{mv^2}{r} = mg \),  **dus**   
+     \( v = \sqrt{gr} = \sqrt{9,81 \times 5,50} = 7,35 \) m/s.
+   - Voorbeeld van een berekening: Het volume van de tumor is  
+     \( V = \frac{4}{3} \pi r^3 = \frac{4}{3} \pi (0,015)^3 = 1,41 \times 10^{-5} \) m³.
+   - Voorbeeld van een bepaling: De snelheid in punt B:  
+     \( v = \sqrt{v_x^2 + v_y^2} = \sqrt{20^2 + 23^2} = 30 \) m/s.
+   - Voorbeeld van een berekening: Uit dit energieverlies **volgt** de gemiddelde wrijvingskracht:  
+     \( W_w = E_{k,\text{in}} - E_{k,\text{uit}} = 0,88 \times 10^6 - 0,60 \times 10^6 = 0,28 \times 10^6 \) J.
+   - Voorbeeld van een bepaling: De absorptiepiek in figuur 2 zit bij \( 5,25 \times 10^2 \) nm.  
+     Uit \( c = f\lambda \) **volgt** de frequentie.
+   - Voorbeeld van een berekening: Het aantal atoomkernen kan **bepaald worden** met behulp van de activiteit:  
+     \( A t_{1/2} = N \ln 2 \).
+   - Voorbeeld van een bepaling: De oppervlakte onder de grafiek is ongeveer 21,5 hokjes.  
+     Elk hokje komt overeen met \( 9,0 \times 10^{-3} \) J.
+   - Voorbeeld van een berekening: Voor de snelheid van de satelliet **geldt**:  
+     \[
+     v = \sqrt{\frac{GM}{r}}
+     \]
+     **Opzoeken** van de waarden van \( G, M, \) en \( r \), met \( r \) gelijk aan de straal van de aarde plus de hoogte van de satelliet, en **invullen** geeft:  
+     v = \sqrt{\frac{6,674 \times 10^{-11} \times 5,972 \times 10^{24}}{6,371 \times 10^6 + 425 \times 10^3}} = 7,658 \times 10^3 \text{ m/s}
+   - Voorbeeld van een bepaling: De fotonenergie wordt **bepaald** met:  
+     E_f = hc / \lambda
+   - Voorbeeld van een berekening: Voor de doorsnede van de draad **geldt**:  
+     R = \frac{\rho L}{A}
+   - Voorbeeld van een antwoord: De weerstandstemperatuurcoëfficiënt voor constantaan is \( 0,05 \times 10^{-3} \).
+   - Voorbeeld van een berekening: De omlooptijd van de satelliet kan **bepaald worden** met:  
+     T = \frac{2 \pi r}{v}
+   - Voorbeeld van een berekening: Voor de energie van één foton **geldt**:  
+     E = \frac{hc}{\lambda} = \frac{6,63 \times 10^{-34} \times 3,00 \times 10^8}{645 \times 10^{-9}}
+     Dit **levert** \(E = 3,08 \times 10^{-19} \) J.
+   - Voorbeeld van een berekening: Voor de gravitatiekracht **geldt**:  
+     F_g = \frac{G m M}{r^2}
+   - Voorbeeld van een bepaling: De versnelling kan **bepaald worden** uit de helling van de raaklijn aan het (v,t)-diagram:  
+     a = \frac{\Delta v}{\Delta t}
+   - Voorbeeld van een berekening: Voor de debroglie-golflengte **geldt**:  
+     \lambda = \frac{h}{p}
+   - Voorbeeld van een berekening: Er **geldt**:  
+     E_{\text{put}} = E_{\text{kin}} - 1,0 = 6,8 \text{ eV}
+   - Voorbeeld van een bepaling: De akoestische lengte wordt **bepaald** als:  
+     L = \frac{\lambda}{2} = \frac{1,27}{2} = 0,64 \text{ m}
+   - Voorbeeld van een berekening: De minimale golflengte hoort bij de \( H \)-overgang, van \( n = 8 \) naar \( n = 2 \). De energie is:  
+     E_f = 13,6 \left( \frac{1}{2^2} - \frac{1}{8^2} \right) = 3,188 \text{ eV}
+   - Voorbeeld van een berekening: De bovengrens voor de snelheid **geldt**:  
+     v = 53,3 \text{ km/h} \quad (\pm 0,7 \text{ km/h})
+
+
+
+
+* 2. Causaal redeneren
+   - Voorbeeld van een antwoord: De spanning over de groene LED is groter dan de spanning over de rode LED,  **dus**  de spanning over de weerstand is kleiner.
+   - Voorbeeld van een antwoord: Scandium-47 kan pas vervallen nadat het ontstaan is uit calcium-47. De activiteit neemt toe, **wat betekent dat** de vervalreactie sneller verloopt.
+   - Voorbeeld van een antwoord: Als de absolute waarde van 2v_j - v_x zo groot mogelijk moet zijn, **betekent dit dat** v_x en v_j tegengesteld gericht zijn.
+   - Voorbeeld van een antwoord: De energiewinst van de verkenner is gelijk aan het energieverlies van Jupiter.
+   - Voorbeeld van een antwoord: Als er naast -straling ook -straling of -straling vrijkomt, kan deze grotendeels in het lichaam geabsorbeerd worden,  
+     **wat** de kans op stralingsschade vergroot.
+   - Voorbeeld van een antwoord: Een grotere k **betekent** meer wrijving,  **dus**  minder water.  
+     De constante k heeft geen eenheid en **volgt** uit F_w = k * m * g * cos(hoek).
+   - Voorbeeld van een antwoord: Boven een bepaalde spanning zullen alle elektronen die per seconde uit de kathode vrijkomen,  
+     ook bij de anode aankomen, waarna de stroomsterkte verzadigd raakt.
+   - Voorbeeld van een antwoord: **Omdat** de verzwakking onafhankelijk is van de golflengte, heeft de kromme van de gloeidraad  
+     dezelfde max-waarde als de Planck-kromme.
+   - Voorbeeld van een antwoord: Hersenweefsel bevat meer waterstofkernen dan ander weefsel.  
+     Het aangegeven gebied bevat relatief veel waterstofkernen en is  **dus**  hersenweefsel.
+   - Voorbeeld van een antwoord: **Als** de Gravitron draait, is een middelpuntzoekende kracht nodig  
+     om de passagier in de cirkelbeweging te houden.  
+     Deze kracht wordt geleverd door de horizontale component van de normaalkracht.
+   - Voorbeeld van een antwoord: Het resulterend vermogen is het verschil tussen het vermogen dat de atlete levert  
+     en het vermogen nodig om wrijving te overwinnen.  
+     Dit vermogen is bij hardlopen kleiner,  **dus**  de wrijvingskrachten zijn groter bij hardlopen.
+   - Voorbeeld van een antwoord: Het positron wordt in het weefsel steeds meer afgeremd  
+     totdat het langzamer gaat dan de lichtsnelheid in het medium en stopt met Cerenkov-straling.
+   - Voorbeeld van een antwoord: De granaat vertraagt tijdens de val,  
+     **omdat** de luchtdichtheid toeneemt en daarmee de luchtwrijving groter wordt.
+   - Voorbeeld van een antwoord: De kinetische energie van het treintje is het kleinst in figuur 1,  
+     waar de zwaarte-energie het grootst is.
+   - Voorbeeld van een antwoord: Witte gebieden tonen een hoge stralingsintensiteit  
+     en  **dus**  goed functionerende transportstructuren.  
+     De patiënt in figuur 3b heeft Parkinson, **omdat** de dopaminetransportstructuren deels verdwenen zijn.
+   - Voorbeeld van een antwoord: Een kleine weerstand **levert** een grote stroomsterkte op.  
+     Dit **veroorzaakt** een groot vermogen, **zodat** de batterij sneller zijn energie verliest.
+   - Voorbeeld van een antwoord: De quantum-dot zal altijd een foton uitzenden dat maximaal de energie heeft van het invallende foton.  
+     Een violet foton heeft meer energie dan een blauw, groen of rood foton.
+   - Voorbeeld van een antwoord: De vrijkomende \(\gamma\)-straling heeft een groot doordringend vermogen en kan door het lichaam van de patiënt een ander persoon bestralen.
+   - Voorbeeld van een antwoord: **Omdat** de hoogte \( h \) afneemt, neemt ook de straal \( r \) af.  
+     Volgens de formule \( v = \sqrt{GM/r} \) **neemt** de snelheid **toe**.
+   - Voorbeeld van een antwoord: **Door** de wrijving **neemt** de hoogte van de satelliet **af**.
+   - Voorbeeld van een antwoord: **Als** de golflengte groter is dan de buislengte, liggen de buiken van de staande golf buiten de buis.
+   - Voorbeeld van een antwoord: Tijdens de botsing ondervindt het hoofd een (gemiddelde) remkracht, **waardoor** de versnelling kan worden bepaald.
+   - Voorbeeld van een antwoord: **Door** tunneling kan een deeltje door een barrière gaan terwijl zijn energie kleiner is dan de hoogte van de barrière.
+   - Voorbeeld van een antwoord: **Door** het grote verschil in akoestische weerstand tussen lucht en huid wordt een groot deel van het geluidssignaal gereflecteerd.
+
+
+
+
+* 3. Functioneel redeneren
+   - Voorbeeld van een antwoord: Bij een echoscopie wordt gemeten hoe geluid zich gedraagt in zachte weefsels. **Hiermee** kan geen informatie uit de binnenkant van botten verkregen worden.
+   - Voorbeeld van een antwoord: Een MRI-scan geeft een beeld van de omgeving van waterstofatomen in de zachte weefsels in de patiënt en geen informatie over botten.
+   - Voorbeeld van een antwoord: Bij Marieke hoort figuur II. Het signaal daalt **omdat** de detector minder licht detecteert.
+   - Voorbeeld van een antwoord: Bij Hugo hoort figuur III. Eerst is er geen straling en later is er wel een signaal.
+   - Voorbeeld van een antwoord: Een CT-scan gebruikt ioniserende straling en verhoogt gezondheidsrisico’s.  
+     Een MRI-scan gebruikt magneetvelden en radiogolven en is **daarom** veiliger.
+   - Voorbeeld van een antwoord: Spoel L moet alleen een magneetveld geven  
+     als de tussenruimte zich op de juiste plek bevindt.  
+     Bij een grotere snelheid moet de stroom sneller aan en uit gaan.
+   - Voorbeeld van een antwoord: De aardlekschakelaar is gevoeliger als een kleiner magneetveld de stroom onderbreekt.  
+     **Omdat** inductiespanning afhankelijk is van de fluxverandering, verhoogt een groter aantal windingen de gevoeligheid.
+   - Voorbeeld van een antwoord: De schakeling is een spanningsdelingschakeling.  
+     **Om** de spanning naar de versterker te verlagen, moet de parallelle weerstand kleiner worden.
+   - Voorbeeld van een antwoord: Het model moet stoppen als de granaat de grond raakt,  
+     **omdat** **dan** de krachtbalans verandert.
+   - Voorbeeld van een antwoord: De schakeling is een spanningsdelingsschakeling.  
+     **Om** een kleinere spanning naar de versterker te sturen, moet de weerstand parallel aan de versterker kleiner worden.
+   - Voorbeeld van een antwoord: De Hall-spanning is het grootst als het magneetveld loodrecht op het Hallplaatje staat.  
+     Dit gebeurt bij -90° en 90°.
+   - Voorbeeld van een antwoord: Bij een MRI-scan wordt de patiënt niet bestraald met ioniserende straling.
+   - Voorbeeld van een antwoord: De weerstandstemperatuurcoëfficiënt bepaalt hoe de weerstand verandert met temperatuur.
+   - Voorbeeld van een antwoord: De Hall-spanning is het grootst als het magneetveld loodrecht op het Hallplaatje staat.
+   - Voorbeeld van een antwoord: De Hall-spanning is het grootst als het magneetveld loodrecht op het Hallplaatje staat.
+   - Voorbeeld van een antwoord: Een velletje papier wordt gebruikt **om** te testen of alfadeeltjes worden geregistreerd.
+   - Voorbeeld van een antwoord: Helmconstructie voorkomt grote versnellingen door gecontroleerde krachtsopbouw.
+   - Voorbeeld van een antwoord: De veldlijnen lopen bij toenemende afstand verder uit elkaar, **wat zorgt voor** een lagere veldlijnendichtheid.
+   - Voorbeeld van een antwoord: Gel voorkomt een luchtlaagje tussen transducer en huid, **wat leidt tot** betere echo’s.
+   - Voorbeeld van een antwoord: Het magnetisch veld beïnvloedt de beweging van geladen deeltjes, **wat leidt tot** cirkelbewegingen.
+
+
+
+* 4. Mechanistisch redeneren
+   - Voorbeeld van een antwoord: De elektronenstroom loopt van de min- naar de pluspool van de batterij en **dus** van materiaal B naar materiaal A.
+   - Voorbeeld van een antwoord: Uit figuur 1 **volgt** dat de benodigde middelpuntzoekende kracht op grotere hoogte dan de geostationaire hoogte groter is dan de gravitatiekracht.
+   - Voorbeeld van een antwoord: De resulterende kracht treedt op als middelpuntzoekende kracht, **waardoor** het vliegtuig een bocht maakt.
+   - Voorbeeld van een antwoord: Op elk tijdstip is (x - x_j) de horizontale afstand tussen Jupiter en de verkenner.
+   - Voorbeeld van een antwoord: De minimale waarde v_min is de snelheid **waarbij** de afname van de kinetische energie gelijk is aan de toename van de gravitatie-energie.
+   - Voorbeeld van een antwoord: De twee parallelle takken ABD en ACD zijn identiek. **Dus** staat er geen spanning over de motor en loopt er geen stroom.
+   - Voorbeeld van een antwoord: In buisdeel AB is geen beweging loodrecht naar beneden,  
+     maar langs een helling van 77°, **waardoor** wrijving optreedt.  
+     De versnelling is: a = g sin(77) = 9,6 m/s².
+   - Voorbeeld van een antwoord: Als we ervan uitgaan dat de golfsnelheid in beide strips gelijk is,  
+     **dan** zou strip 1 1,4 keer zo lang moeten zijn als strip 7.  
+     Uit de foto **blijkt** dat dit niet het geval is.
+   - Voorbeeld van een antwoord: De accu wordt opgeladen als de stroomrichting negatief is.  
+     Uit de grafiek **blijkt**: U_zp = 14,6 V (met marge 0,2 V).  
+     Als de accu stroom levert aan het zonnepaneel, **geldt**: U_zp = 10,4 V.
+   - Voorbeeld van een antwoord: Bij een draaiende Gravitron moet de normaalkracht  
+     groter worden **om** de benodigde middelpuntzoekende kracht te **leveren**.
+   - Voorbeeld van een antwoord: Na \( t = 6,0 \) s **neemt** de snelheid van Schippers **af**.  
+     Het resulterend vermogen **levert** **dan** een negatieve bijdrage aan de kinetische energie.
+   - Voorbeeld van een antwoord: In figuur 2a zijn de gerichte watermoleculen symmetrisch verdeeld (geen elektrisch veld).  
+     In figuur 2b zijn ze asymmetrisch verdeeld, **waardoor** er een netto elektrisch veld is.
+   - Voorbeeld van een antwoord: De granaat heeft gedurende de hele vlucht een snelheid in de x-richting.  
+     **Tijdens** de val werken er twee krachten: zwaartekracht en luchtweerstand.  
+     Door de toegenomen luchtweerstand vertraagt de granaat.
+   - Voorbeeld van een antwoord: De oppervlakte onder de grafiek **geeft** de lengte van de baan van de granaat.  
+     **Omdat** Fabian de horizontale afstand wil bepalen, is deze waarde te groot.
+   - Voorbeeld van een antwoord: **Omdat** elk ion maar één geleidingselektron heeft,  
+     is \( n \) gelijk aan het aantal atomen per \( m^3 \), **dus** \( n = \frac{\text{massa}}{\text{atoommassa}} \).
+   - Voorbeeld van een antwoord: Bij een naar rechts bewegende golf passeert tussen tijdstip \( t_1 \) en \( t_2 \)  
+     een omhoog gericht elektrisch veld, **wat** een omlaag gerichte kracht op het plasmon veroorzaakt.
+   - Voorbeeld van een antwoord: De normaalkracht in punt 2 is groter dan in punt 1,  
+     **waardoor** de wrijvingskracht ook groter is in punt 2.
+   - Voorbeeld van een antwoord: De richting van de stroom is tegengesteld aan de richting van de beweging van de \(\beta\)-deeltjes.  
+     De Lorentzkracht **zorgt voor** een afbuiging van de \(\beta\)-deeltjes.
+   - Voorbeeld van een antwoord: Door botsingen met luchtmoleculen kunnen bètadeeltjes via een omweg de GM-sensor bereiken.
+   - Voorbeeld van een antwoord: De Geigerteller **registreert** in het begin ongeveer 29000 deeltjes in 5 minuten.
+   - Voorbeeld van een antwoord: De activiteit \( A \) van \( Rn-222 \) is **evenredig met** de hoeveelheid die aanwezig is.
+   - Voorbeeld van een antwoord: De kans op een botsing van een elektron met een gasatoom **neemt toe** met de afstand, **wat** de intensiteit vermindert.
+   - Voorbeeld van een antwoord: Het sterlicht wordt geabsorbeerd door de atmosfeer, **waardoor** bepaalde golflengtes niet zichtbaar zijn.
+   - Voorbeeld van een antwoord: De kans op botsing van een elektron met een gasatoom **neemt toe** met de afstand, **wat** de intensiteit vermindert.
+   - Voorbeeld van een antwoord: Bij een pijl in een interferentiepatroon treedt destructieve interferentie op.
+
+
+
+* 5. Conceptueel redeneren
+   - Voorbeeld van een antwoord: Als het H-atoom stil zou staan, **zou** dat betekenen: p = 0 en x = 0. Dit **zou** in strijd zijn met de onbepaaldheidsrelatie van Heisenberg.
+   - Voorbeeld van een antwoord: Bij het quantummodel van een energieput met oneindig hoge wanden liggen de energieniveaus voor grotere n steeds verder uit elkaar.
+   - Voorbeeld van een antwoord: De massa van een proton is een factor 128 kleiner dan de massa van een naftaleenmolecuul, **dus** is f ook evenredig kleiner.
+   - Voorbeeld van een antwoord: Volgens de golftheorie is elk punt van de spleet een nieuwe bron die in alle richtingen uitzendt.  
+     Er treedt een weglengteverschil op, **wat** destructieve interferentie veroorzaakt.
+   - Voorbeeld van een antwoord: De massa van een proton is een factor 128 kleiner dan de massa van een naftaleenmolecuul,  
+     **dus** is f ook dezelfde factor kleiner.
+   - Voorbeeld van een antwoord: De toonhoogte is niet afhankelijk van het tempo waarmee de strips worden aangeslagen,  
+     **dus** de toonhoogte verandert niet.
+   - Voorbeeld van een antwoord: Men brengt op het metaal een coating aan met een minimale dikte  
+     voor een grotere tunnelkans, **waarbij** de uittree-energie kleiner is dan die van het metaal.
+   - Voorbeeld van een antwoord: De optimale stapgrootte **komt overeen met** het minimum van R.  
+     Dit minimum ligt bij v = 1,25 m/s.  
+     **Aflezen** bij deze snelheid **levert** f = 1,65 Hz → S = v / f = 0,76 m.
+   - Voorbeeld van een antwoord: De lichtgolven in figuur 2b zijn in fase,  
+     **waardoor** constructieve interferentie optreedt en de laserintensiteit groot wordt.
+   - Voorbeeld van een antwoord:  
+     Het geladen deeltje is een positron, **want** de watermoleculen richten hun negatieve kant naar de lading.  
+     UV-C wordt nagenoeg volledig geabsorbeerd door de dampkring.  
+     UV-A heeft een kleine weegfactor, **dus** de schadelijke effecten zijn beperkt.
+   - Voorbeeld van een antwoord: Een boventoon wordt niet waargenomen  
+     als er een knoop boven het element ligt.
+   - Voorbeeld van een antwoord: Bij lagere versnelspanningen wordt de De Broglie-golflengte groter,  
+     **waardoor** interferentie verdwijnt.
+   - Voorbeeld van een antwoord: Uit figuur 2 **blijkt** dat vooral groen (en blauw) licht wordt geabsorbeerd  
+     en rood licht nauwelijks. Rood licht wordt doorgelaten, **daarom** kleurt de beker in figuur 1a rood.
+   - Voorbeeld van een antwoord: De metaalionen zijn veel zwaarder en trager dan de elektronen.  
+     Door ladingsscheiding trekken positieve en negatieve ladingen elkaar aan,  
+     **waardoor** de elektronen naar de evenwichtsstand teruggaan.
+   - Voorbeeld van een antwoord: De ster zendt het overgrote deel van de straling uit in het golflengtegebied onder 380 nm.  
+     **Dit betekent dat** de straling een hogere frequentie heeft dan zichtbaar licht.
+   - Voorbeeld van een antwoord: De fotonenergie moet groter zijn dan de bandgap.  
+     **Dus** halfgeleiders met een bandgap kleiner dan 2,75 eV zijn geschikt.
+   - Voorbeeld van een antwoord: Het vervalproduct X van \( Po-214 \) is \( Pb-210 \).  
+     De halveringstijd van dit isotoop bedraagt 22 jaar en is veel langer dan die van \( Rn-222 \).
+   - Voorbeeld van een antwoord: Het spectrum van de zonnevlek **vertoont** een maximum bij \( \lambda_{\text{max}} \).
+   - Voorbeeld van een antwoord: Magenta domineert **onder** 100 km vanwege een grotere dichtheid van \(N_2\), **terwijl** boven 300 km vooral rood licht wordt uitgezonden.
+   - Voorbeeld van een antwoord: Resonantie **treedt op** bij specifieke golflengtes en kinetische energieën.
+   - Voorbeeld van een antwoord: Magenta domineert **onder** 100 km vanwege de grotere dichtheid van \( N_2 \), **terwijl** boven 300 km vooral rood licht wordt uitgezonden.
+   - Voorbeeld van een antwoord: De veldlijnendichtheid is een maat voor de sterkte van het magnetisch veld.
+
+
+
+* 6. Vergelijkend redeneren
+   - Voorbeeld van een antwoord: De frequentie van piek B is tweemaal de frequentie van piek A, **dus** de energie is ook tweemaal zo groot.
+   - Voorbeeld van een antwoord: De spanning over de groene LED is groter dan de spanning over de rode LED, **waardoor** de weerstand kleiner moet zijn **om** de stroomsterkte gelijk te houden.
+   - Voorbeeld van een antwoord: Uit de grafiek van figuur 5 **blijkt** dat voor de eindsnelheid na de passage **geldt**:  
+     v_na = sqrt(v_na,x^2 + v_na,y^2) = 4,0 * 10^4 m/s.
+   - Voorbeeld van een antwoord: De afname in resonantiefrequentie **blijkt** uit het minteken in de formule.  
+     De resonantiefrequentie **neemt af**, **terwijl** de golflengte in het nanobuisje niet verandert.
+   - Voorbeeld van een antwoord: Tim heeft ongelijk. Vanaf de rechterkant is de energiebarrière hoger,  
+     **waardoor** de kans op een omgekeerde reactie kleiner is.
+   - Voorbeeld van een antwoord: Bij vervanging van H door D **neemt** de massa van het tunnelende deeltje **toe**,  
+     **waardoor** de kans op quantum-tunneleffect kleiner wordt.
+   - Voorbeeld van een antwoord: De Gravitron **levert** een grotere normaalkracht  
+     dan een stilstaande vloer, **omdat** een extra middelpuntzoekende kracht nodig is.
+   - Voorbeeld van een antwoord: In een laser hebben alle fotonen hetzelfde faseverschil,  
+     **waardoor** interferentieconstructie optreedt. Bij een gewone lichtbron is dit niet het geval.  
+     d_CLI is kleiner dan d_PET, **wat betekent dat** de locatie van de stofverval nauwkeuriger te bepalen is.  
+     Deuterium heeft een andere massa, **waardoor** het massa-veersysteem een andere frequentie heeft.  
+     **Dit zorgt voor** andere energieovergangen dan bij gewoon waterstof.
+   - Voorbeeld van een antwoord: De granaat raakt de grond met een lagere snelheid in de y-richting  
+     **dan** waarmee hij werd afgeschoten. **Dit blijkt** uit het (y,t)-diagram.
+   - Voorbeeld van een antwoord: De Hall-spanning is **evenredig met** de component van de Lorentzkracht  
+     evenwijdig aan het Hall-plaatje en daarmee **evenredig met** de sinus van de hoek,  
+     en **dus** niet met de hoek zelf.
+   - Voorbeeld van een antwoord: De grootte van B is in de orde van 0,1 T,  
+     de Hall-spanning is in de orde van \( 1 \times 10^{-6} \) V,  
+     en de breedte b is in de orde van \( 1 \times 10^{-2} \) m.  
+     **Dus** de snelheid is in de orde van \( 10^3 \) m/s.
+   - Voorbeeld van een antwoord: In BiNaS tabel 19A is te zien dat de fotonenergie van infrarood kleiner is dan 2,75 eV.  
+     **Dus** infrarood wordt niet geabsorbeerd, **maar** ultraviolet kan wel worden geabsorbeerd.
+   - Voorbeeld van een antwoord: In de eerste meetreeks wordt de achtergrondstraling gemeten.  
+     In de tweede meetreeks is de extra bijdrage van de bron zichtbaar.
+   - Voorbeeld van een antwoord: In een gewone vervalcurve wordt slechts één isotoop gemeten,  
+     **hier worden twee isotopen tegelijkertijd gemeten**.
+   - Voorbeeld van een antwoord: Magenta is de overheersende kleur **omdat** **onder** 100 km de dichtheid van \( N_2 \) veel groter is **dan** die van O.
+   - Voorbeeld van een antwoord: Het piepschuim met 31 kg/m³ **geeft** de kleinste maximale versnelling en is **dus** het meest geschikt.
+   - Voorbeeld van een antwoord: De Orionnevel beweegt van ons af, **wat blijkt uit** de waargenomen roodverschuiving.
+   - Voorbeeld van een antwoord: De brede banden in de meetresultaten **wijzen erop dat** bètadeeltjes niet allemaal dezelfde energie hebben.
+
+
+* 7. Empirisch redeneren
+   - Voorbeeld van een antwoord: Door de best passende rechte lijn door de oorsprong te tekenen, **worden** de meetfouten uitgemiddeld.
+   - Voorbeeld van een antwoord: **Aflezen** uit figuur 1 **levert**: 4,5T = 19,2 - 0,4 = 18,8 ms.
+   - Voorbeeld van een antwoord: In figuur 5 is te zien dat de frequentieverandering afhankelijk is van de plaats waar het naftaleenmolecuul vasthecht op het nanobuisje.
+   - Voorbeeld van een antwoord: Bij figuur II heeft het signaal overlap tussen laag en hoog, **wat leidt tot** vals alarm.
+   - Voorbeeld van een bepaling: Bijvoorbeeld bij T = 3000 K valt in figuur 4 **af te lezen** dat J = 1,5 * 10^5 A/m².
+   - Voorbeeld van een antwoord: **Uit de tabel blijkt** dat het lang duurde voordat het heelal laag genoeg was  
+     voor quantum-tunneleffect en waterstofvorming.
+   - Voorbeeld van een bepaling: In figuur 3b **levert aflezen** voor de linkerpiek:  
+     marge van 0,2 * 10^-2.  
+     **Invullen** in de vergelijking geeft L = 7.
+     **Aflezen** in figuur 1 en 2 geeft een intensiteitsverhouding van \( 83 \times 10^3 / 40 \times 10^3 \) met marge.  
+     Dit **moet** volgens de kwadratenwet overeenkomen met **de verhouding van** zon-aarde afstand.
+   - Voorbeeld van een bepaling: In figuur 4a is de helling van de raaklijn aan het eind kleiner dan aan het begin,  
+     **wat bevestigt** dat de snelheid in de y-richting afneemt.
+   - Voorbeeld van een antwoord: Het stralingsvermogen is **evenredig met** het aantal aanwezige deeltjes.  
+     Op \( t = 4,8 \) h vindt een afname plaats van \( \frac{3,7 - 2,9}{3,7} = 22\% \).
+   - Voorbeeld van een antwoord: De oppervlakte onder de (P,t)-grafiek geeft de totale energie die de batterij **levert**.  
+     **De verhouding van** de oppervlakten is gelijk aan **de verhouding van** de energieopbrengsten.
+   - Voorbeeld van een antwoord: **Uit de grafiek volgt** dat de trillingstijd \( T = 0,42 \) s.
+   - Voorbeeld van een berekening: Het hartritme wordt berekend met:
+     f = \frac{60}{T} = \frac{60}{0,88} = 68 \text{ min}^{-1}
+   - Voorbeeld van een bepaling: De oppervlakte onder het (v,t)-diagram geeft de afgelegde afstand:
+     s = 6,5 \text{ hokje} \times 2,0 \text{ m} = 13 \text{ m}
+   - Voorbeeld van een antwoord: De frequentie van de grondtoon kan **worden afgelezen** en is \(2,7 \times 10^2\) Hz.
+   - Voorbeeld van een bepaling: De **foutmarge** van de akoestische lengte is in de orde van grootte van een mm en is te klein om zichtbaar te zijn in **de grafiek**.
+   - Voorbeeld van een antwoord: **Uit de foto is af te leiden** dat 15 windingen tussen de batterijpolen zitten, **wat betekent dat** de totale lengte **bepaald wordt**.
+   - Voorbeeld van een antwoord: De energie van een foton van 635 nm is:
+     E_f = \frac{hc}{\lambda} = 3,13 \times 10^{-19} \text{ J}
+
+
+* 8. Model-gebaseerd redeneren
+   - Voorbeeld van een antwoord: In de lengte L van de energieput past een geheel aantal halve golflengtes.
+   - Voorbeeld van een antwoord: Volgens de golftheorie is elk punt van de spleet een nieuwe bron die in alle richtingen uitzendt, **waardoor** destructieve interferentie kan optreden.
+   - Voorbeeld van een antwoord: In de lengte L van de energieput past een geheel aantal halve golflengtes.  
+     **dus** geldt: L = (nλ) / 2.
+   - Voorbeeld van een antwoord: **Er geldt**: V = N * e / d^3 = 8,1 * 10^20.
+   - Voorbeeld van een antwoord: **Uitgaande van** de formule F = k * v²,  
+     **volgt dat** voor de eenheid van k: k = kg * m^-1.
+   - Voorbeeld van een antwoord: **Voor geldt**: E_p = GMm / r.
+   - Voorbeeld van een antwoord: **Voor geldt**:  
+     F_mpz = (m * v²) / r = (2 * r) / T².
+   - Voorbeeld van een antwoord: **Voor geldt** de weerstand van een elektromagneet:  
+     R = 3,0 * 16,8 * 10^-9 / (0,25 * 10^-3)².
+     De grootte van de energiestap is gelijk aan \( hf \).  
+     **Invullen**: \( f = \frac{3,00 \times 2,88 \times 1,60 \times 10^{-19}}{6,63 \times 10^{-34}} \).
+     De energieniveaus van het vervangende molecuul moeten (deels) gelijk zijn aan het oorspronkelijke molecuul.
+   - Voorbeeld van een antwoord: **Voor geldt** de ringen:  
+     \( 2d \sin \theta = n\lambda \). Als \( d \) kleiner is, wordt \( \sin \theta \) groter,  
+     **dus** hoort \( d_1 \) bij de buitenste ring.
+   - Voorbeeld van een antwoord: **Bij het bepalen van** de tumorbestraling geldt:  
+     \( D = \frac{E}{m} = \frac{1,40 \times 10^{-3} J}{0,0141 kg} = 0,0994 \) Gy.
+   - Voorbeeld van een antwoord: **Voor geldt** de fotonenergie:  
+     \( E = 160 \times 10^3 \times 1,602 \times 10^{-19} \) J.
+   - Voorbeeld van een antwoord: De grootte van de wrijvingskracht **volgt uit** de som van zwaartekracht en normaalkracht,  
+     **waarbij** de normaalkracht **evenredig met** de component van de zwaartekracht loodrecht op de baan.
+   - Voorbeeld van een antwoord: **Voor geldt** de nulpuntsenergie van een deeltje in een eendimensionale energieput met oneindig hoge wanden:
+     E_n = \frac{n^2 h^2}{8mL^2}
+   - Voorbeeld van een antwoord: **Volgens** de kwadratenwet is:
+     I_1 / I_2 = (x_2 / x_1)^2
+   - Voorbeeld van een antwoord: **Volgens** de wet van behoud van energie **geldt**:
+     E_k + E_g = \text{constant}
+   - Voorbeeld van een antwoord: De comptongolflengte **bepaald wordt door**:
+     \lambda' - \lambda = \frac{h}{m_e c} (1 - \cos\theta)
+   - Voorbeeld van een antwoord: **De wet van** Stefan-Boltzmann **bepaalt** het uitgestraalde vermogen van een ster:
+     P = A T^4
+   - Voorbeeld van een antwoord: **De wet van** behoud van energie **leidt tot**: v = \sqrt{\frac{2GM}{r}}
+
+
+
+* 9. Hypothetisch redeneren
+   - Voorbeeld van een antwoord: **Als** de patiënt een inspanning verricht, stroomt het bloed sneller.  
+     **Hierdoor** is er minder hechting van thallium-201 bij inspanning.
+   - Voorbeeld van een antwoord: **Als** de patiënt een inspanning verricht, stroomt het bloed sneller.  
+     **Hierdoor** is er minder hechting van thallium-201 bij inspanning.
+   - Voorbeeld van een antwoord: **Als** x de afstand is waarover de draadjes worden doorgeknipt,  
+     **dan** blijven er steeds minder parallelle draden over,  
+     totdat de geleiding nul wordt.
+   - Voorbeeld van een antwoord: Voor watervorming **moet** de temperatuur laag genoeg zijn.  
+     **Uit de tabel blijkt** dat het heelal lange tijd te warm was.
+   - Voorbeeld van een antwoord: **Als** de golflengte van de deeltjes kleiner is dan de barrièredikte,  
+     **dan** is de tunnelkans **verwaarloosbaar**.
+   - Voorbeeld van een antwoord: Bij 10 K is T^-1 = 0,1, en W ≈ 10^-90.  
+     Bij 2100 K is T^-1 = 0,0005 en W ≈ 1.  
+     De kans op waterstofvorming bij 10 K is **dus** extreem klein.
+   - Voorbeeld van een antwoord: **Als** een strip wordt opgetild en terugvalt,  
+     trilt deze in zijn eigenfrequentie.  
+     De toonhoogte is niet afhankelijk van het tempo van aanslaan.
+     **Als** het geurmolecuul energie opneemt, geeft het elektron energie af en komt het in niveau 2,88 eV.
+     **Als** de oppervlakte onder de grafiek een maat is voor het aantal positronen,  
+     **dan** **moeten** positronen met energie hoger dan 0,205 MeV Cerenkov-straling geven.  
+     Dit is meer dan 60%, **dus** antwoord c is de beste schatting.
+   - Voorbeeld van een antwoord: **Als** de luchtdichtheid constant was,  
+     **zou** de granaat met een constante versnelling vallen en de snelheid symmetrisch veranderen.
+   - Voorbeeld van een antwoord: Bij een hogere versnelspanning wordt de De Broglie-golflengte kleiner,  
+     **waardoor** de diffractiepatronen zichtbaar worden.
+   - Voorbeeld van een antwoord: **Als** de wrijving **verwaarloosd wordt**,  
+     **geldt** dat de afname van de zwaarte-energie gelijk is aan de toename van de bewegingsenergie.  
+     \( v = \sqrt{2g(h_1 - h_2)} = \sqrt{2 \times 9,81 \times (12,0 - 2,5)} = 14 \) m/s.
+   - Voorbeeld van een antwoord: **Als** de batterij sneller ontlaadt, is het vermogen hoger.  
+     Dit komt door een lagere weerstand, **waardoor** de stroomsterkte toeneemt.
+   - Voorbeeld van een antwoord: **Als** de startwaarde van \( v_y \) verandert, verandert ook de maximale hoogte die de bal bereikt.
+   - Voorbeeld van een antwoord: **Als** de temperatuur stijgt, **neemt toe** de geluidssnelheid.
+   - Voorbeeld van een antwoord: **Als** de startwaarde van \( v_y \) verandert, verandert ook de maximale hoogte die de bal bereikt.
+   - Voorbeeld van een antwoord: **Als** de skiër op twee ski's staat, **wordt** op elke ski een kracht uitgeoefend van \( 40 \times 9,81 = 392 \) N.
+   - Voorbeeld van een antwoord: **Als** de helmconstructie niet correct was ontworpen, **zouden** de krachten niet gecontroleerd **worden** afgebouwd.
+   - Voorbeeld van een antwoord: **Als** de skiër op twee ski’s staat, **wordt** de kracht gelijkmatig verdeeld.
+   - Voorbeeld van een antwoord: **Als er geen** resonantie optreedt, **kunnen** bepaalde golflengten niet **worden** geabsorbeerd.
+   - Voorbeeld van een antwoord: **Als er geen** interferentie **zou** optreden, **zouden** er slechts twee smalle lichte vlekken zichtbaar zijn.
+
+
+
+* 10. Regel-gebaseerd redeneren
+   - Voorbeeld van een antwoord: Bij Marieke hoort figuur II, **want** het signaal daalt als de detector minder licht ontvangt.
+   - Voorbeeld van een antwoord: De energie van een foton **volgt uit** E = h * f, **dus** de afstand tussen de energieniveaus is gelijk aan de frequentieverhoudingen.
+   - Voorbeeld van een uitleg: Fons heeft ongelijk: bij gelijke lengte en kopermassa **moet** ook de totale doorsnede gelijk zijn, **waardoor** de weerstand gelijk blijft.
+   - Voorbeeld van een uitleg: De twee gegeven krachten geven een resulterende kracht,  
+     **waarbij** de horizontale component zorgt voor een bocht en de verticale component ervoor zorgt dat het vliegtuig daalt.
+   - Voorbeeld van een uitleg: Een constante snelheid betekent dat F_motor = F_weerstand.  
+     De waarde van F_weerstand is **af te lezen** uit figuur 4.
+   - Voorbeeld van een antwoord: Een rechte lijn door de meetpunten helpt meetfouten uit te middelen.
+   - Voorbeeld van een antwoord: Een constante snelheid betekent:  
+     F_motor = F_weerstand.  
+   - Voorbeeld van een antwoord: Door een rechte lijn door de meetpunten te trekken,  
+     **worden** de meetfouten uitgemiddeld.
+     Voorwaarde a is noodzakelijk om zichtbaar licht dat niet van Cerenkov-straling afkomstig is te vermijden.  
+     Voorwaarde b voorkomt dat verstrooiing/absorptie van diepere straling waarneming bemoeilijkt.
+     Het biologisch effectieve spectrum geeft de totale geabsorbeerde stralingsenergie per \( m^2 \).  
+     Dit **komt overeen met** 13 hokjes van elk \( 0,0050 W/m^2 \), **dus** totaal \( 0,065 W/m^2 \).
+   - Voorbeeld van een antwoord: Een trilling in de y-richting verdubbelt de fluxverandering,  
+     **wat betekent dat** het element twee spanningspieken per trilling detecteert.
+   - Voorbeeld van een antwoord: De tijd om de norm van 80 J/m² te bereiken is  
+     \( t = \frac{80}{0,065} = 1231 \) s of 21 min.
+   - Voorbeeld van een antwoord: De norm van 80 J/m² **wordt** bereikt in  
+   - Voorbeeld van een bepaling: Het punt C zit op twee derde van de booglengte AB.  
+     Dit **geeft voor** de spanning tussen A en C:  
+     \( U_{AC} = 0,667 \times 5,0 = 3,3 \) V.
+   - Voorbeeld van een antwoord: **Gebruikt moet worden** de formule:  
+     \( I = \frac{P_{\text{bron}}}{4\pi r^2} \), **waarbij** \( P_{\text{bron}} \) het uitgestraald vermogen van de zon is  
+     en \( r \) de afstand van de satelliet tot de zon.
+   - Voorbeeld van een antwoord: De spanningswet van Kirchhoff **geeft voor** de spanningen in een kring:
+     \( U_{AB} + U_{BC} + U_{CA} = 0 \)
+   - Voorbeeld van een antwoord: **Met behulp van** de wet van Wien kan de golflengte berekend worden **waarbij** er sprake is van de maximale stralingsintensiteit:
+     \( \lambda_{\text{max}} T = k_W \)
+   - Voorbeeld van een antwoord: **Voor geldt** het energieverlies per seconde:
+     \( P = F_w v \)
+     Dit is **dus** afhankelijk van de snelheid van de stoel.
+   - Voorbeeld van een antwoord: De spanningswet van Kirchhoff **geeft voor** de spanningen in een kring:
+     \( U_{\text{AB}} + U_{\text{BC}} + U_{\text{CA}} = 0 \)
+   - Voorbeeld van een antwoord: **Met behulp van** de wet van Wien kan de golflengte berekend worden **waarbij** er sprake is van de maximale stralingsintensiteit.
+   - Voorbeeld van een antwoord: **Voor geldt** de weerstand van het verwarmingselement.
+   - Voorbeeld van een antwoord: De Schwartzschildstraal **wordt bepaald door**:
+     \( r_s = \frac{2GM}{c^2} \)
+   - Voorbeeld van een antwoord: De weerstandstemperatuurcoëfficiënt **volgt uit**:
+     \( R = \rho \frac{L}{A} \)
