@@ -1,0 +1,176 @@
+#+TITLE: CHECKLIST EXAMENKANDIDATEN NATUURKUNDE 2025: HAVO
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+
+
+#+ATTR_HTML: :style "border-collapse: collapse; width: 100%; text-align: left; border: 1px solid #ddd; font-size: 16px;"
+| ✔  |  Vaardigheden                                    |
+|----+-----------------------------------------------------------|
+|    | *HOOFDSTUK* 1                                             |
+| ⬜ | Rekenen met significantie en wetenschappelijke notatie    |
+| ⬜ | Omrekenen van eenheden en wetenschappelijke notatie       |
+| ⬜ | Gebruik van SI-voorvoegsels                               |
+| ⬜ | Schatting en orde van grootte bepalen                     |
+| ⬜ | Rekenen met formules, dichtheid, en eenheden              |
+| ⬜ | Waarneming en schatting van meetonzekerheid               |
+| ⬜ | Analyse van eenheden en gebruik van formules              |
+| ⬜ | Analyseren van grafieken en toepassen van formules        |
+| ⬜ | Analyse van grafieken en verbanden uitleggen              |
+| ⬜ | Controle van significante cijfers en foutanalyse          |
+| ⬜ | Rekenen met meetkundige formules en controle van gegevens |
+| ⬜ | Rekenen met cirkelmetingen en snelheid                    |
+| ⬜ | Analyse van omgekeerde evenredigheid en extrapoleren      |
+| ⬜ | Rekenen met volume, vergelijken van gegevens              |
+| ⬜ | Toepassen van formules en berekenen van weerstand         |
+| ⬜ | Omrekenen van eenheden, tijdsberekeningen                 |
+| ⬜ | Analyse van kwadratische verbanden en eenheden            |
+|    | *HOOFDSTUK* 2                                             |
+| ⬜ | Analyseren van beweging, rekenen met snelheid en valhoogte     |
+| ⬜ | Analyseren van grafieken, integraal gebruiken voor afstanden   |
+| ⬜ | Grafieken interpreteren, berekenen van snelheid en hoogte      |
+| ⬜ | Rekenen met vrije val en weerstand, grafieken interpreteren    |
+| ⬜ | Grafieken opstellen, gemiddelde snelheid berekenen             |
+| ⬜ | Rekenen met versnelling, gemiddelde snelheid, en remvertraging |
+| ⬜ | Hoogte- en tijdgrafieken analyseren                            |
+| ⬜ | Versnelling berekenen, verplaatsing berekenen met grafieken    |
+| ⬜ | Beweging analyseren, snelheid berekenen                        |
+| ⬜ | Remwegberekeningen, reactietijd afleiden                       |
+| ⬜ | Vertraging berekenen, grafieken tekenen                        |
+| ⬜ | Vrije val en weerstand analyseren                              |
+| ⬜ | Versnelling en verplaatsing berekenen, afstand omzetten        |
+|    | *HOOFDSTUK* 3                                                  |
+| ⬜ | Constructies maken en krachten combineren                     |
+| ⬜ | Vectorontbinding, wrijving en krachten analyseren             |
+| ⬜ | Rekenen met zwaartekracht en krachtenconstructies             |
+| ⬜ | Analyse van grafieken, berekeningen met elasticiteitsformules |
+| ⬜ | Constructies maken en krachtenbalans bepalen                  |
+| ⬜ | Grafieken en krachtenconstructies opstellen                   |
+| ⬜ | Krachtenconstructies en elasticiteitsberekeningen             |
+| ⬜ | Analyse van grafieken en aanpassingen                         |
+| ⬜ | Krachtenanalyse en schuifkrachten berekenen                   |
+| ⬜ | Krachtenconstructies en zwaartekrachtanalyse                  |
+| ⬜ | Treksterkte en elasticiteitsmodulus berekeningen              |
+| ⬜ | Krachtenconstructies en wrijvingskracht berekeningen          |
+| ⬜ | Veerkracht berekeningen en krachtenconstructies               |
+| ⬜ | Vectoranalyse en treksterkte berekeningen                     |
+| | *HOOFDSTUK* 4 |                                                               
+| ⬜ | Newton's wetten toepassen, krachtenbalans opstellen |
+| ⬜ | Momentenwet gebruiken, krachtenbalans analyseren    |
+| ⬜ | Analyse van krachten en dynamica                    |
+| ⬜ | Momentenwet, dynamica, remweg berekeningen          |
+| ⬜ | Grafieken analyseren, krachtenbalans                |
+| ⬜ | Krachten visualiseren, versnellingsanalyse          |
+| ⬜ | Krachtcomponenten berekenen, dynamica               |
+| ⬜ | Momentenwet toepassen, krachtberekeningen           |
+| ⬜ | Momentenwet en dynamica toepassen                   |
+| ⬜ | Grafieken tekenen, resulterende kracht berekenen    |
+| ⬜ | Krachtenconstructies, momentberekeningen            |
+| | *HOOFDSTUK* 5 |                                                     
+| ⬜ | Rekenen met energie en massa, rendement analyseren          |
+| ⬜ | Warmtestroom berekenen, isolatiemethoden analyseren         |
+| ⬜ | Soortelijke warmte berekenen, energieverlies analyseren     |
+| ⬜ | Warmtestroom berekenen, energiebalans analyseren            |
+| ⬜ | Rekenen met warmte, gaswetten toepassen                     |
+| ⬜ | Omrekenen van temperaturen, moleculaire krachten analyseren |
+| ⬜ | Warmtestroom berekenen, rendement toepassen                 |
+| ⬜ | Warmtestroom en rendement berekenen, isolatie analyseren    |
+| ⬜ | Warmteberekeningen, oppervlaktematen controleren            |
+| ⬜ | Volumeberekeningen, warmtebalans toepassen                  |
+| ⬜ | Warmtestroom berekenen, warmteoverdracht analyseren         |
+| ⬜ | Warmtestroom en dikte berekenen                             |
+| ⬜ | Warmteopname berekenen, energiebalans analyseren            |
+| ⬜ | Vermogen en debiet berekenen                                |
+| | *HOOFDSTUK* 6 |                                                             
+| ⬜ | Elektrische schakelingen tekenen, weerstand en energie berekenen |
+| ⬜ | Vermogen, energie, en weerstand berekenen, netspanningsanalyse   |
+| ⬜ | Schakelingen analyseren en stroomsterkte vergelijken             |
+| ⬜ | Schakelingen tekenen, weerstand en stroom berekenen              |
+| ⬜ | Elektrische stroom en energie berekenen                          |
+| ⬜ | Weerstandsvergelijking en berekeningen                           |
+| ⬜ | Spannings- en stroomberekeningen                                 |
+| ⬜ | Vermogen en weerstandsanalyse                                    |
+| ⬜ | (I,U)-karakteristiek tekenen, weerstand analyseren               |
+| ⬜ | Weerstands- en spanningsanalyses                                 |
+| ⬜ | Rendement en weerstand berekenen                                 |
+| ⬜ | Schakelingen tekenen en analyseren, stroomsterkte berekenen      |
+| ⬜ | Capaciteit, kosten en energieverbruik analyseren                 |
+| | *HOOFDSTUK* 7 |                                                                  
+| ⬜ | Momentenwet toepassen, stabiliteit analyseren                                   |
+| ⬜ | Rendement berekenen, energiebesparingen berekenen                               |
+| ⬜ | Versnelling berekenen, g-krachten analyseren, materiaaleigenschappen beoordelen |
+| | *HOOFDSTUK* 8 |                                                                                 
+| ⬜ | Arbeid en kracht ontleden, beweging analyseren          |
+| ⬜ | Vermogen en weerstand berekenen, rendement berekenen    |
+| ⬜ | Arbeid en energie berekenen                             |
+| ⬜ | Snelheid berekenen, energieverliezen analyseren         |
+| ⬜ | Vermogen en energie berekenen, regeneratieve remanalyse |
+| ⬜ | Energie en warmte berekenen                             |
+| ⬜ | Vermogen en tijd analyseren                             |
+| ⬜ | Energie en hoogte berekenen, weerstand analyseren       |
+| ⬜ | Arbeid en weerstand berekenen                           |
+| ⬜ | Snelheid en weerstand berekenen                         |
+| ⬜ | Rendement berekenen, kracht tijdens remmen analyseren   |
+| ⬜ | Hoogte en energieverliezen analyseren                   |
+| ⬜ | Arbeid, vermogen en benzineverbruik analyseren          |
+| ⬜ | Tegenwerkende krachten berekenen, arbeid vergelijken    |
+| | *HOOFDSTUK* 9 |                                                         
+| ⬜ | Trillingen analyseren, formules van harmonische beweging toepassen |
+| ⬜ | Golfsnelheden berekenen, natuurkundige verschijnselen verklaren    |
+| ⬜ | Geluidsgolven analyseren, grondfrequentie en boventonen berekenen  |
+| ⬜ | Trillingstijd en snelheid berekenen                                |
+| ⬜ | Veerconstante berekenen, frequentie analyseren                     |
+| ⬜ | Geluidsgolven en toonhoogte analyseren, boventonen tekenen         |
+| ⬜ | Grafieken interpreteren, hartslag berekenen                        |
+| ⬜ | Staande golven analyseren, massa-effect berekenen                  |
+| ⬜ | Geluidsgolven en frequenties berekenen                             |
+| ⬜ | Golven analyseren, trillingstijden berekenen                       |
+| ⬜ | Resonantie en veerconstantes berekenen                             |
+| ⬜ | Geluid en buisvorm analyseren                                      |
+| ⬜ | Kinetische energie berekenen, slingerlengte analyseren             |
+| | *HOOFDSTUK* 10 |                                                                    
+| ⬜ | Gebruik massa, dichtheid, radioactief verval, eenheden afleiden. |
+| ⬜ | Begrijpen van halveringsdikte, dosisequivalent berekenen.        |
+| ⬜ | Begrijpen van grafieken en effectieve halveringstijd berekenen.  |
+| ⬜ | Omzetten van energie naar frequentie, absorptie berekenen.       |
+| ⬜ | Vervalberekeningen en risico-inschatting.                        |
+| ⬜ | Golflengte, activiteit, stralingsenergie en absorptie berekenen. |
+| ⬜ | Vervalberekeningen, activiteit analyseren.                       |
+| ⬜ | Radioactief verval analyseren, stralingsintensiteit berekenen.   |
+| ⬜ | Radioactief verval, energie en activiteit berekenen.             |
+| | *HOOFDSTUK* 11 |                                                                  
+| ⬜ | Begrijpen van Kepler's wetten en eigenschappen van satellieten.                                                       |
+| ⬜ | Begrijpen van astronomische metingen, rotatiesnelheden, en gewicht/massa onder verschillende gravitatieversnellingen. |
+| ⬜ | Kleur, temperatuur, en eigenschappen van sterren begrijpen.                                                           |
+| ⬜ | Begrijpen van stralingswetten, kosmologie en vorming van sterrenstelsels.                                             |
+| ⬜ | Planeetbewegingen en astronomische waarnemingen interpreteren.                                                        |
+| ⬜ | Krachten en bewegingen in astronomische banen berekenen.                                                              |
+| ⬜ | Maanfasen, gravitatiekracht en astronomische waarnemingen interpreteren.                                              |
+| ⬜ | Licht, snelheid, en dynamiek in het Melkwegstelsel.                                                                   |
+| ⬜ | Astronomische verschijnselen en energie van licht interpreteren.                                                      |
+| ⬜ | Planetaire bewegingen, infraroodstraling, en satellietbanen analyseren.                                               |
+| | *KEUZEKATERN* 1: OPTICA                 |                                                                                                                       
+| ⬜ | Lensenformules en vergroting berekenen, constructies maken.                   |
+| ⬜ | Begrijpen van frequentieverschuiving, golflengte berekeningen.                |
+| ⬜ | Lichtbreking en reflectie in glasvezels, toepassingen van glasvezels.         |
+| ⬜ | Lenskunde: constructie en berekeningen met lenzenformules.                    |
+| ⬜ | Interferentie en kleurvorming begrijpen.                                      |
+| ⬜ | Sterkteberekeningen en optica van lenzen onder verschillende omstandigheden.  |
+| ⬜ | Begrijpen van absorptiespectra en waterstoflijnen.                            |
+| ⬜ | Golflengte, frequentie en brekingsindex berekeningen, lichtstraling in media. |
+| ⬜ | Vergrotingen en lichtstralen tekenen en berekenen.                            |
+| | *KEUZEKATERN* 2: AUTOMATISERING |                                                                               
+| ⬜ | Sensorgegevens interpreteren en schakelingen ontwerpen.            |
+| ⬜ | Ontwerpen en tekenen van schakelingen voor automatische systemen.  |
+| ⬜ | Logica van tellers en binaire naar decimale omzetting.             |
+| ⬜ | Begrijpen van tijd in schakelingen en ontwerpen van lichtsystemen. |
+| ⬜ | Automatiseringsschakelingen ontwerpen.                             |
+| ⬜ | AD-omzetterwerking, lichtsensorgebruik en schakelingen tekenen.    |
+| ⬜ | Sensorgevoeligheid berekenen en schakelingen ontwerpen.            |
+| ⬜ | Sensoren ijken en schakelingen ontwerpen.                          |
+| ⬜ | Interpreteer cardiogrammen en ontwerp schakelingen.                |
+| ⬜ | Ontwerpen van waarschuwingssystemen met schakelingen.              |
+

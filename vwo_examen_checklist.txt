@@ -1,0 +1,262 @@
+#+TITLE: CHECKLIST EXAMENKANDIDATEN NATUURKUNDE 2025: VWO
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+#+HTML_HEAD: <style>
+#+HTML_HEAD: body {
+#+HTML_HEAD:   max-width: 1200px; /* Change to your desired width */
+#+HTML_HEAD:   margin: 0 auto;    /* Center the content */
+#+HTML_HEAD: }
+#+HTML_HEAD: </style>
+
+| ✔                             |  Vaardigheden                                                                                    |
+|-------------------------------+-----------------------------------------------------------------------------------------------------------|
+| *HOOFDSTUK* 1                 |                                                                                                           |
+| ⬜                            | Rekenen, significantie, wetenschappelijke notatie                                                         |
+| ⬜                            | Vermenigvuldigen, significantie, werken met machten van 10                                                |
+| ⬜                            | Exponentiële berekeningen, vermenigvuldigen, significantie                                                |
+| ⬜                            | Optellen, significantie, wetenschappelijke notatie                                                        |
+| ⬜                            | Omrekenen van eenheden, wetenschappelijke notatie                                                         |
+| ⬜                            | Schalen interpreteren, schatten van afstanden                                                             |
+| ⬜                            | Volume berekenen, dichtheidsformule toepassen                                                             |
+| ⬜                            | Drukformule toepassen, omrekenen van eenheden                                                             |
+| ⬜                            | Afleiden van eenheden, werken met S.I.-basiseenheden                                                      |
+| ⬜                            | Verbanden herkennen, verbanden aantonen                                                                   |
+| *HOOFDSTUK* 2                 |                                                                                                           |
+| ⬜                            | Snelheid berekenen, schaal toepassen                                                                      |
+| ⬜                            | Valversnelling toepassen, hoogte berekenen                                                                |
+| ⬜                            | Afstanden berekenen uit (v,t)-diagram                                                                     |
+| ⬜                            | Bewegingsformules toepassen                                                                               |
+| ⬜                            | Gemiddelde snelheid berekenen                                                                             |
+| ⬜                            | Maximum snelheid bepalen                                                                                  |
+| ⬜                            | Versnelling berekenen uit (v,t)-diagram                                                                   |
+| ⬜                            | Gemiddelde snelheid berekenen                                                                             |
+| ⬜                            | Remvertraging berekenen                                                                                   |
+| ⬜                            | Verplaatsing berekenen                                                                                    |
+| ⬜                            | Hoogte berekenen met valversnelling                                                                       |
+| *HOOFDSTUK* 3                 |                                                                                                           |
+| ⬜                            | Krachten tekenen, parallellogrammethode                                                                   |
+| ⬜                            | Componenten ontbinden, constructietekening                                                                |
+| ⬜                            | Formules van krachten toepassen, trigonometrie                                                            |
+| ⬜                            | Formules van beweging en krachten toepassen                                                               |
+| ⬜                            | Krachtenbalans en beweging formules toepassen                                                             |
+| ⬜                            | Formules voor versnelling en kracht                                                                       |
+| ⬜                            | Krachten constructies tekenen                                                                             |
+| ⬜                            | Componenten van krachten ontbinden                                                                        |
+| ⬜                            | Krachtenbalans toepassen                                                                                  |
+| ⬜                            | Krachten tekenen, versnelling berekenen                                                                   |
+| ⬜                            | Krachten berekenen                                                                                        |
+| ⬜                            | Formules van beweging toepassen                                                                           |
+| ⬜                            | Krachtenbalans en luchtweerstand formules toepassen                                                       |
+| *HOOFDSTUK* 4                 |                                                                                                           |
+| ⬜                            | Warmtecapaciteit berekenen, volume- en energieformules toepassen                                          |
+| ⬜                            | Energiebalans toepassen, temperatuurverandering berekenen                                                 |
+| ⬜                            | Lineaire uitzetting berekenen met gegevens uit BINAS                                                      |
+| ⬜                            | Thermische uitzetting en volumeverandering berekenen                                                      |
+| ⬜                            | Druk- en veerkrachtformules toepassen                                                                     |
+| ⬜                            | Elasticiteitsmodulus en treksterkte berekenen                                                             |
+| ⬜                            | Kracht en oppervlak toepassen                                                                             |
+| ⬜                            | Warmtestroomformule toepassen                                                                             |
+| ⬜                            | Spanning berekenen met kracht en doorsnede                                                                |
+| ⬜                            | Vermogen en energiegebruik berekenen                                                                      |
+| ⬜                            | Energie en warmtecapaciteit toepassen                                                                     |
+| ⬜                            | Warmtecapaciteit berekenen                                                                                |
+| ⬜                            | Druk en veerkracht berekenen                                                                              |
+| ⬜                            | Temperatuur en drukrelatie toepassen                                                                      |
+| ⬜                            | Gaswetten toepassen                                                                                       |
+| ⬜                            | Warmteverlies en warmtestroom berekenen                                                                   |
+| *HOOFDSTUK* 5                 |                                                                                                           |
+| ⬜                            | Vermogen berekenen met  (\( P = I^2 R \))                                                                 |
+| ⬜                            | Basis schakelingen ontwerpen                                                                              |
+| ⬜                            | Stroom- en spanningsverdeling toepassen                                                                   |
+| ⬜                            | Weerstandsformule toepassen (\( R = \rho \frac{l}{A} \))                                                  |
+| ⬜                            | Rendement en energieverbruik berekenen                                                                    |
+| ⬜                            | Experiment ontwerpen, weerstand berekenen                                                                 |
+| ⬜                            | Lineaire weerstand berekeningen                                                                           |
+| ⬜                            | Weerstand en temperatuurveranderingen begrijpen                                                           |
+| ⬜                            | Energieverbruik berekenen                                                                                 |
+| ⬜                            | Elektrische lading en stroomsterkte berekenen                                                             |
+| ⬜                            | Basis elektrotechnische principes                                                                         |
+| ⬜                            | Weerstandsformules toepassen (\( R = \rho \frac{l}{A} \))                                                 |
+| ⬜                            | Wet van Ohm toepassen                                                                                     |
+| ⬜                            | Weerstanden in serie en parallel berekenen                                                                |
+| ⬜                            | Stroomverdeling in complexe schakelingen                                                                  |
+| ⬜                            | Wet van Ohm en spanningsverdeling toepassen                                                               |
+| ⬜                            | Temperatuur-resistentie verband interpreteren                                                             |
+| ⬜                            | Vermogen berekenen                                                                                        |
+| ⬜                            | Rendement berekenen                                                                                       |
+| *HOOFDSTUK* 6                 |                                                                                                           |
+| ⬜                            | Snelheid en procentuele verschillen berekenen                                                             |
+| ⬜                            | Energieberekening en verbruik vergelijken                                                                 |
+| ⬜                            | Experiment variabelen identificeren                                                                       |
+| ⬜                            | Trendlijn tekenen en gegevens interpreteren                                                               |
+| *HOOFDSTUK* 7                 |                                                                                                           |
+| ⬜                            | Formules voor baansnelheid en cirkelomtrek gebruiken                                                      |
+| ⬜                            | Formule \( F_m = m \cdot v^2 / r \) toepassen                                                             |
+| ⬜                            | Formules voor gravitatiekracht en snelheid                                                                |
+| ⬜                            | Formule \( v = \sqrt{r \cdot g \tan \theta} \)                                                            |
+| ⬜                            | Formules voor gravitatiekracht en massa                                                                   |
+| ⬜                            | Formules voor gravitatiekracht en baansnelheid combineren                                                 |
+| ⬜                            | Gravitatie en omlooptijdformules toepassen                                                                |
+| ⬜                            | Snelheid en omtrek van een cirkel gebruiken                                                               |
+| ⬜                            | Verhoudingen toepassen op snelheid en diameter                                                            |
+| ⬜                            | Middelpuntzoekende kracht en massa berekenen                                                              |
+| ⬜                            | Formule \( F_m = m \cdot v^2 / r \) toepassen                                                             |
+| ⬜                            | Formule herleiden en gegevens interpreteren                                                               |
+| ⬜                            | Gravitatiekracht en versnelling afleiden                                                                  |
+| ⬜                            | Gravitatiekrachtformules toepassen                                                                        |
+| ⬜                            | Omlooptijd en baansnelheid combineren                                                                     |
+| ⬜                            | Vectorcomponenten en snelheid berekenen                                                                   |
+| ⬜                            | Kinetische en potentiële energie in banen begrijpen                                                       |
+| ⬜                            | Gravitatiekracht vergelijken                                                                              |
+| ⬜                            | Formule voor omwentelingen en omtrek toepassen                                                            |
+| ⬜                            | Verhouding van krachten berekenen                                                                         |
+| ⬜                            | Gravitatie- en baansnelheidformules combineren                                                            |
+| ⬜                            | Formule voor omlooptijd toepassen                                                                         |
+| ⬜                            | Centripetale kracht en zwaartekracht combineren                                                           |
+| ⬜                            | Lengte en straal van een cirkelberekening gebruiken                                                       |
+| ⬜                            | Gravitatie en cirkelkrachtformules combineren                                                             |
+| ⬜                            | Gravitatiekracht en baansnelheid toepassen                                                                |
+| *HOOFDSTUK* 8                 |                                                                                                           |
+| ⬜                            | Wet van behoud van energie en remkrachtberekening.                                                        |
+| ⬜                            | Formule voor vermogen (\(P = F \cdot v\)) toepassen.                                                      |
+| ⬜                            | Formule voor rendement (\(\eta = \frac{E_{uit}}{E_{in}}\)).                                               |
+| ⬜                            | Formule voor veerenergie (\(E = \frac{1}{2} k x^2\)).                                                     |
+| ⬜                            | Energieoverdracht tussen veerenergie en zwaartekracht.                                                    |
+| ⬜                            | Formule \(E_g = -\frac{G M m}{r}\) toepassen.                                                             |
+| ⬜                            | Formule \(P = F \cdot v\) gebruiken.                                                                      |
+| ⬜                            | Energieverbruik en omzetting naar volume.                                                                 |
+| ⬜                            | Kinetische energie en krachtberekening.                                                                   |
+| ⬜                            | Formules voor kinetische energie en zwaartekracht.                                                        |
+| ⬜                            | Energiebehoud toepassen.                                                                                  |
+| ⬜                            | Berekening van ontsnappingssnelheid.                                                                      |
+| ⬜                            | Kinetische energie en zwaartekracht gebruiken.                                                            |
+| ⬜                            | Energieverlies door wrijving berekenen.                                                                   |
+| ⬜                            | Vermogen en krachtformules combineren.                                                                    |
+| ⬜                            | Formule \(E = \frac{1}{2} k x^2\) toepassen.                                                              |
+| ⬜                            | Energie en arbeid berekenen.                                                                              |
+| ⬜                            | Energie naar volume omzetting.                                                                            |
+| ⬜                            | Formule \(E_g = -\frac{G M m}{r}\) toepassen.                                                             |
+| ⬜                            | Wet van behoud van energie.                                                                               |
+| ⬜                            | Energieomzetting tussen veer- en zwaartekrachtenergie.                                                    |
+| ⬜                            | Arbeid omzetten naar kinetische energie.                                                                  |
+| *HOOFDSTUK* 9                 |                                                                                                           |
+| ⬜                            | Harmonische trilling en veerwet.                                                                          |
+| ⬜                            | Trillingseigenschappen en significante cijfers.                                                           |
+| ⬜                            | Wet van behoud van energie (\(E_k + E_p = \text{const}\)).                                                |
+| ⬜                            | Trillingsfase (\(\phi = \frac{t}{T}\)).                                                                   |
+| ⬜                            | Snelheden en reistijden combineren (\(v = d/t\)).                                                         |
+| ⬜                            | Frequentie, golflengte en boventonen berekenen.                                                           |
+| ⬜                            | Maximale snelheid en hoeksnelheid berekenen.                                                              |
+| ⬜                            | Veerwet toepassen.                                                                                        |
+| ⬜                            | Positie en tijd berekenen bij harmonische beweging.                                                       |
+| ⬜                            | Kinetische energie voor trillingen berekenen.                                                             |
+| ⬜                            | Golfsnelheid en frequentie gebruiken.                                                                     |
+| ⬜                            | Formule voor staande golven in buizen gebruiken.                                                          |
+| ⬜                            | Trillingsformules toepassen.                                                                              |
+| ⬜                            | Formules voor staande golven in snaren gebruiken.                                                         |
+| ⬜                            | Gebruik van staande golven en formuleafleiding.                                                           |
+| ⬜                            | Resonantiefrequentie en snelheid berekenen.                                                               |
+| ⬜                            | Faseverschil berekenen in trillingssystemen.                                                              |
+| *HOOFDSTUK* 10                |                                                                                                           |
+| ⬜                            | Concept van resonantie en constante frequentie in een cyclotron.                                          |
+| ⬜                            | Cyclotron-frequentie berekenen met formules voor \( t \).                                                 |
+| ⬜                            | Omzetten van energie naar snelheid en gebruik van kinetische energieformules.                             |
+| ⬜                            | Gebruik van \( F = BIL \) en oplossen voor \( L \).                                                       |
+| ⬜                            | Gebruik van \( U \propto N \) om het effect van windingen op inductiespanning te berekenen.               |
+| ⬜                            | Basisconcept van elektrische velden en veldlijnen tekenen.                                                |
+| ⬜                            | Gebruik van de wet van Coulomb om krachten tussen ladingen te berekenen.                                  |
+| ⬜                            | Gebruik van elektrische en magnetische krachten in combinatie met beweging van geladen deeltjes.          |
+| ⬜                            | Gebruik van de rechterhandregel en lorentzkracht richting.                                                |
+| ⬜                            | Gebruik van lorentzkracht en de linkerhandregel om stroomrichting te bepalen.                             |
+| ⬜                            | Gebruik van \( F = BIL \).                                                                                |
+| ⬜                            | Gebruik van \( \Phi = B \cdot A \cdot \cos(\theta) \).                                                    |
+| ⬜                            | Gebruik van formules voor lorentzkracht en cirkelbeweging.                                                |
+| ⬜                            | Gebruik van geometrische en fysische eigenschappen van de flux.                                           |
+| ⬜                            | Concept van elektrische velden en veldlijnen tekenen.                                                     |
+| *HOOFDSTUK* 11                |                                                                                                           |
+| ⬜                            | Kennis van magnetische velden, signalen en beeldvorming.                                                  |
+| ⬜                            | Toepassen van exponentiële afname van straling en halveringsdikteformules.                                |
+| ⬜                            | Gebruik van gegeven formules en waarden uit BINAS.                                                        |
+| ⬜                            | Kennis van vervalreacties en kernfysica.                                                                  |
+| ⬜                            | Gebruik van \(A = \lambda N\) en radioactieve vervalformules.                                             |
+| ⬜                            | Berekenen van stralingsdosis en normgrenzen.                                                              |
+| ⬜                            | Gebruik van radioactieve vervalformules en logaritmes.                                                    |
+| ⬜                            | Kennis van kernreacties.                                                                                  |
+| ⬜                            | Gebruik van vervalformules en halveringstijd.                                                             |
+| ⬜                            | Kennis van medische beeldvormingstechnieken.                                                              |
+| ⬜                            | Kennis van kernsplijting en behoud van nucleonen.                                                         |
+| ⬜                            | Gebruik van energie-massa relatie (\(E = mc^2\)).                                                         |
+| ⬜                            | Gebruik van exponentiële stralingsafname en halveringsdikteformules.                                      |
+| ⬜                            | Berekenen van dosislimiet en stralingsoverwegingen.                                                       |
+| ⬜                            | Berekenen van activiteit met bekende energie en aantal deeltjes.                                          |
+| ⬜                            | Gebruik van radioactieve vervalformules en halveringstijd.                                                |
+| *HOOFDSTUK* 12                |                                                                                                           |
+| ⬜                            | Gebruik van \(E = \frac{hc}{\lambda}\) en eenhedenconversie.                                              |
+| ⬜                            | Toepassing van massa-energierelatie (\(E = \Delta mc^2\)).                                                |
+| ⬜                            | Afleiding vanuit het stralingsvermogen en oppervlak van een bol.                                          |
+| ⬜                            | Gebruik van de wet van Wien (\(\lambda_{max}T = b\)).                                                     |
+| ⬜                            | Gebruik van Dopplerverschuiving (\(\Delta\lambda = \frac{v}{c}\lambda_0\)).                               |
+| ⬜                            | Gebruik van kernmassa’s en \(E = \Delta mc^2\).                                                           |
+| ⬜                            | Gebruik van Stefan-Boltzmann wet: \(P = \sigma T^4\).                                                     |
+| ⬜                            | Gebruik van stralingswet (\(L = \sigma A T^4\)) en massa-luminositeitsrelatie.                            |
+| ⬜                            | Gebruik van Dopplerverschuiving.                                                                          |
+| ⬜                            | Massa-energierelatie.                                                                                     |
+| ⬜                            | Gebruik van parallaxformule (\(\tan p = \frac{1}{d}\)).                                                   |
+| ⬜                            | Gebruik van de lichtintensiteitsformule en het inverse kwadratenwet.                                      |
+| ⬜                            | Gebruik van energieverschillen in waterstofniveaus en \(E = \frac{hc}{\lambda}\).                         |
+| ⬜                            | Toepassing van de Stefan-Boltzmann wet en zonneconstante.                                                 |
+| ⬜                            | Afleiding van sterafstand met ontvangen intensiteit en HR-diagram.                                        |
+| *HOOFDSTUK* 13                |                                                                                                           |
+| ⬜                            | Kennis van tralievergelijking: \( n\lambda = d\sin\alpha \) en meetkunde.                                 |
+| ⬜                            | Kennis van orbitalen en quantumtoestanden.                                                                |
+| ⬜                            | Berekenen hoeveel fotonen per seconde door een doorsnede                                                  |
+| ⬜                            | Berekenen van de maximale snelheid van elektronen vrijgemaakt uit fotocel                                 |
+| ⬜                            | Berekenen van de debrogliegolflengte                                                                      |
+| ⬜                            | Berekenen met temperatuur en de debrogliegolflengte                                                       |
+| ⬜                            | Berekenen van de comptongolflengte voor een elektron                                                      |
+| ⬜                            | Berekenen van de snelheid van een elektron na een foton-elektron botsing                                  |
+| ⬜                            | Berekenen van de golflengte van een elektron na een botsing met een foton                                 |
+| ⬜                            | Berekenen van de debrogliegolflengte van een elektron in een elektronenmicroscoop                         |
+| ⬜                            | Berekenen van de debrogliegolflengte van elektronen bij een versnelspanning                               |
+| ⬜                            | Berekenen van de lengte van een energieput                                                                |
+| ⬜                            | Afleiden van de formule λ = h / √(2eMU) voor de debrogliegolflengte in een elektronenmicroscoop           |
+| ⬜                            | Afleiden van de formule En = n² ⋅ h² / (8M ⋅ L²) voor de energie van een quantumdeeltje in een energieput |
+| *KEUZEKATERN 3:* DEELTJES     |                                                                                                           |
+| ⬜                            | Kennis van behoud van leptongetal.                                                                        |
+| ⬜                            | Kennis van energiebehoud en massa-energie-relatie.                                                        |
+| ⬜                            | Gebruik van massa-energie-equivalentie en BINAS-tabel 26C.                                                |
+| ⬜                            | Gebruik van massa-energie-concepten en impulsbehoud.                                                      |
+| ⬜                            | Kennis van lorentzkracht op geladen deeltjes.                                                             |
+| ⬜                            | Gebruik van BINAS-tabel 26C en kennis van deeltjestrajecten.                                              |
+| ⬜                            | Omrekening van eV/c² naar kg met behulp van BINAS.                                                        |
+| ⬜                            | Gebruik van de de Broglie-relatie (\( \lambda = \frac{h}{p} \)).                                          |
+| ⬜                            | Berekening met flux (\( \text{flux} = \frac{\text{neutrino's}}{4\pi r^2} \)).                             |
+| ⬜                            | Berekening van energie en massa-equivalentie.                                                             |
+| ⬜                            | Gebruik van massa-energie-conversie en kinetische energie.                                                |
+| ⬜                            | Berekening van bundelvolume en protondichtheid.                                                           |
+| *KEUZEKATERN 4:* RELATIVITEIT |                                                                                                           |
+| ⬜                            | Gebruik van tijdsdilatatie en basisrekenkunde.                                                            |
+| ⬜                            | Gebruik van causale relaties in ruimtetijd-diagrammen.                                                    |
+| ⬜                            | Interpretatie en constructie in ruimtetijd-diagrammen.                                                    |
+| ⬜                            | Gebruik van lorentztransformaties en relativistische snelheden.                                           |
+| ⬜                            | Gebruik van relativistische lengtecontractie en rasterconstructies.                                       |
+| ⬜                            | Gebruik van massaverschillen en energiebehoud bij kernreacties.                                           |
+| ⬜                            | Toepassing van relativistische energie-snelheidsrelaties.                                                 |
+| ⬜                            | Berekening met behulp van Schwarzschildformules.                                                          |
+| ⬜                            | Berekening van relatieve frequentieverandering.                                                           |
+| ⬜                            | Gebruik van tijddilatatie en relativistische snelheden.                                                   |
+| ⬜                            | Gebruik van lengtecontractie.                                                                             |
+| ⬜                            | Constructie in ruimtetijd-diagrammen en relativistische lengtecontractie.                                 |
+| ⬜                            | Interpretatie van ruimtetijd-diagrammen en wereldlijnen.                                                  |
+| ⬜                            | Gebruik van de tweelingparadox in speciale relativiteit.                                                  |
+| ⬜                            | Gebruik van massaverschillen en energiebehoud.                                                            |
+| ⬜                            | Berekening van kinetische energie en snelheid.                                                            |
+| ⬜                            | Gebruik van relativistische tijdrek door zwaartekrachtvelden.                                             |
+| ⬜                            | Gebruik van lengtes en relativistische relaties.                                                          |
+| ⬜                            | Constructie en berekeningen in ruimtetijd-diagrammen.                                                     |
+| ⬜                            | Gebruik van massaverschillen en energiebehoud.                                                            |
+| ⬜                            | Gebruik van snelheid en cirkelomtrek.                                                                     |
+| ⬜                            | Berekening met relativistische energie-snelheid-relaties.                                                 |
+| ⬜                            | Gebruik van relativistische tijddilatatie en snelheid.                                                    |
+| ⬜                            | Berekening van Schwarzschildstraal en massa-ratio’s.                                                      |
